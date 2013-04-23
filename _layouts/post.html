@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class="large-12 columns">
+  <h2><a href="/{{ page.posterous_slug }}">{{ page.title }}</a></h2>
+
+  <dl class="sub-nav">
+    <dd class="active"><span>{{ page.date | date: "%d %B %Y" }}</span></dd>
+    {% if page.tags != empty %}
+      {% for tag in page.tags %}
+        <dd class="hide-for-small"><a href="/tag/{{ tag | replace:' ','' }}">{{ tag }}</a></dd>
+      {% endfor %}
+    {% endif %}
+  </dl>
+
+  {% if page.excerpt %}
+    {{ page.excerpt }}
+  {% endif %}
+
+  {% if page.excerpt_image %}
+    <p style="text-align: center;">
+      <img class="th" src="{{ page.excerpt_image }}" />
+    </p>
+  {% endif %}
+
+  {{ content }}
+</div>
+
+<hr/>
+
+<div class="hide-for-small large-12 columns">
+  <ul class="inline-list">
+    <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.posterous_url }}" data-text="{{ page.title }}" data-lang="en"  data-via="j0k" data-dnt="true">Tweet</a></li>
+    <li><div class="fb-like" data-href="{{ page.posterous_url }}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div></li>
+  </ul>
+</div>
+
+<div class="hide-for-small large-12 columns">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+      var disqus_shortname = 'blogwildtrip';
+
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>

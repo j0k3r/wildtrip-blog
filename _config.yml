@@ -1,0 +1,22 @@
+auto:    true
+server:  true
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+pygments: true
+
+permalink:   /:title/
+
+paginate: 5
+
+flickr:
+  cache_dir:        ./_cache/flickr
+  api_key:          xx
+  shared_secret:    xx
+  access_token:     xx-xx
+  access_secret:    xx
+
+tag_dir: tag
+tag_title_prefix: 'Billets étiquetés &ldquo;'
+tag_title_suffix: '&rdquo;'

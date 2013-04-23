@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="fr" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fr" > <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>{% if page.title %} {{ page.title }} | {% endif %} My little world wide tour</title>
+
+  <link rel="stylesheet" href="/css/normalize.css" />
+  <link rel="stylesheet" href="/css/foundation.min.css" />
+  <link rel="stylesheet" href="/css/app.css" />
+
+  <link rel="alternate" type="application/rss+xml" href="http://blog.wildtrip.net/atom.xml"/>
+
+  <script src="/js/vendor/custom.modernizr.js"></script>
+
+  <meta name="description" content="{% if page.title %}{{ page.title }} | {% endif %}My little world wide tour ✌ - Blog de voyages de Jérémy Benoist, notamment en vadrouille dans différents pays (France, Chine, Indonésie, Corée du Sud, Thaïlande, Russie, Ukraine ...)" />
+  <meta name="keywords" content="Blog, voyages, voyage, wildtrip, France, Chine, Indonésie, Corée du Sud, Thaïlande, dmz, pekin, beijing, paris, chongqing, kunming, dali, lijiang, shangrila, bangkok, phuket, koh phi phi, koh lanta, seoul, datong, xian, pingyao, ubud, yogyakarta" />
+</head>
+<body>
+
+  <div class="header">
+    <div class="row">
+      <div class="large-12 columns">
+        <a href="http://blog.wildtrip.net" class="hide-for-small author-image">
+          <img src="/img/header_miniature.jpg" alt="My little world wide tour ✌">
+          <span></span>
+        </a>
+        <h1>My little world wide tour ✌</h1>
+        <p>En vadrouille en Asie du sud, en Chine, en Russie, ...</p>
+      </div>
+    </div>
+  </div>
+
+  <nav class="top-bar">
+    <ul class="title-area">
+      <li class="name">
+        <h1><a href="/">Accueil</a></h1>
+      </li>
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+
+    <section class="top-bar-section">
+      <ul class="left">
+        <li class="divider"></li>
+        <li><a href="/la-carte-au-tresor">La carte au trésor</a></li>
+        <li class="divider"></li>
+        <li><a href="/contactez-moi">Contactez moi</a></li>
+        <li class="divider show-for-medium-down"></li>
+      </ul>
+      <ul class="right">
+        <li class="has-dropdown"><a href="#">Par pays</a>
+          <ul class="dropdown">
+            <li><label>Asie</label></li>
+            <li><a href="/tag/chine/">Chine</a></li>
+            <li><a href="/tag/hongkong/">Hong Kong</a></li>
+            <li><a href="/tag/coréedusud/">Corée du Sud</a></li>
+            <li><a href="/tag/indonésie/">Indonésie</a></li>
+            <li><a href="/tag/thailande/">Thaïlande</a></li>
+            <li><a href="/tag/malaisie/">Malaisie</a></li>
+            <li><a href="#/tag/mongolie/">Mongolie</a></li>
+            <li class="divider"></li>
+            <li><label>Russie</label></li>
+            <li><a href="#/tag/russie/">Russie</a></li>
+            <li><a href="#/tag/ukraine/">Ukraine</a></li>
+            <li class="divider"></li>
+            <li><label>Europe</label></li>
+            <li><a href="/tag/france/">France</a></li>
+          </ul>
+        </li>
+        <!--
+        <li class="divider"></li>
+        <li class="has-form">
+          <form>
+            <div class="row collapse" id="search">
+              <div class="small-8 columns">
+                <input type="search" name="q" id="q" placeholder="Enter keywords..."/>
+              </div>
+              <div class="small-4 columns">
+                <input type="submit" value="Search" class="secondary button">
+              </div>
+            </div>
+          </form>
+        </li>
+        -->
+      </ul>
+    </section>
+  </nav>
+
+  <div class="row content">
+
+    {{ content }}
+
+  </div>
+
+  <footer>
+    <div class="row">
+      <div class="large-4 columns">
+        <h6><strong>A propos</strong></h6>
+        <p>Faites un tour sur ce post sur le pourquoi du comment :-) <a href="http://blog.wildtrip.net/le-pourquoi-du-comment">http://blog.wildtrip.net/le-pourquoi-du-comment</a></p>
+      </div>
+      <div class="large-3 columns">
+        <h6><strong>Des sites à visiter</strong></h6>
+        <ul class="disc">
+          <li><a href="http://inbeijing.canalblog.com/">Breakfast in Beijing</a></li>
+          <li><a href="http://iceland.wildtrip.net/">Voyage en Islande et au Groenland</a></li>
+          <li><a href="http://canaries.wildtrip.net/">Voyage aux Canaries</a></li>
+        </ul>
+      </div>
+      <div class="large-5 columns hide-for-small">
+        <h6><strong>Étiquettes populaires</strong></h6>
+        <ul class="inline-list">
+          {% tag_cloud threshold: 3%}
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+  document.write('<script src=' +
+  ('__proto__' in {} ? '/js/vendor/zepto' : '/js/vendor/jquery') +
+  '.js><\/script>')
+  </script>
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=66001688209";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  <script src="/js/foundation.min.js"></script>
+  <script src="/js/app.js"></script>
+  <script src="/js/foundation/foundation.clearing.js"></script>
+
+  <!--
+  <script src="/js/lunr.js"></script>
+  <script src="/search.js"></script>
+  <script src="/js/foundation/foundation.js"></script>
+  <script src="/js/foundation/foundation.alerts.js"></script>
+  <script src="/js/foundation/foundation.clearing.js"></script>
+  <script src="/js/foundation/foundation.cookie.js"></script>
+  <script src="/js/foundation/foundation.dropdown.js"></script>
+  <script src="/js/foundation/foundation.forms.js"></script>
+  <script src="/js/foundation/foundation.joyride.js"></script>
+  <script src="/js/foundation/foundation.magellan.js"></script>
+  <script src="/js/foundation/foundation.orbit.js"></script>
+  <script src="/js/foundation/foundation.placeholder.js"></script>
+  <script src="/js/foundation/foundation.reveal.js"></script>
+  <script src="/js/foundation/foundation.section.js"></script>
+  <script src="/js/foundation/foundation.tooltips.js"></script>
+  <script src="/js/foundation/foundation.topbar.js"></script>
+  -->
+  <script>
+    $(document).foundation();
+  </script>
+</body>
+</html>

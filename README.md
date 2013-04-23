@@ -1,4 +1,5 @@
-blog.wildtrip.net
-=================
+This is my travel blog, previously hosted on Posterous, and now powered by Jekyll, Flickr & Foundation.
 
-My travel blog (not hosted on Github). http://blog.wildtrip.net/
+*Since Github doesn't allow plugins in Jekyll hosted website (I use them mostly for Flickr integration), I hosted it on my own server.*
+
+http://blog.wildtrip.net/

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<h1 class="subheader">{{page.title}}</h1>
+
+{% for post in site.posts %}{% for tag in post.tags %}{% if tag == page.tag %}
+
+  <div class="large-12 columns">
+    <h2><a href="/{{ post.posterous_slug }}">{{ post.title }}</a></h2>
+
+    <dl class="sub-nav">
+      <dd class="active"><span>{{ post.date | date: "%d %B %Y" }}</span></dd>
+      {% if post.tags != empty %}
+        {% for tag in post.tags %}
+          <dd class="hide-for-small"><a href="/tag/{{ tag | remove:' ' }}">{{ tag }}</a></dd>
+        {% endfor %}
+      {% endif %}
+    </dl>
+
+    {{ post.excerpt }}
+
+    {% if post.excerpt_image %}
+      <p style="text-align: center;">
+        <img class="th" src="{{ post.excerpt_image }}" />
+      </p>
+    {% endif %}
+  </div>
+
+  <hr/>
+{% endif %}{% endfor %}{% endfor %}

@@ -1,0 +1,179 @@
+/**
+ * HEADER
+ */
+
+div.header {
+  background: #151515;
+  border-bottom: 2px solid #009989;
+}
+
+.header p {
+  color: #999;
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.1em;
+}
+
+.header h1 {
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.author-image {
+  float: left;
+  display: block;
+  width: 75px;
+  height: 75px;
+  margin: 30px 15px 0px -105px;
+  position: relative;
+}
+
+.author-image img {
+  position: relative;
+  z-index: 1;
+  width: 75px;
+  max-height: 75px;
+}
+
+.author-image span {
+  display: block;
+  height: 75px;
+  width: 75px;
+  background: url(/img/author-overlay.png) top no-repeat;
+  position: absolute;
+  top: 0px;
+  z-index: 2;
+}
+
+/**
+ * TOP BAR
+ */
+
+.top-bar, .top-bar-section ul, .top-bar-section li a:not(.button), .top-bar-section .has-form {
+  background: #006258
+}
+
+.top-bar-section ul li.active a, .top-bar-section li a:not(.button):hover, .top-bar .name h1 a:hover {
+  background: #009989
+}
+
+.top-bar-section ul li > a {
+  font-size: 0.9125em;
+}
+
+.top-bar-section .dropdown li a {
+  line-height: 2;
+}
+
+.top-bar-section .dropdown label {
+  background: none repeat scroll 0 0 #1E1E1E;
+}
+
+/**
+ * CONTENT
+ */
+
+h2 {
+  font-weight: lighter;
+  font-family: "NewCicleFina", Josefin Sans Std Light, Arial, Helvetica, sans-serif;
+  font-size: 45px;
+  line-height: 1em;
+}
+
+.content p a, .sub-nav dd a, .content a {
+  color: #F85931;
+}
+
+.content p a:hover, .sub-nav dd a:hover, .content a:hover {
+  color: #333;
+}
+
+.content h2 a {
+  color: #333;
+}
+
+.content h2 a:hover {
+  color: #F85931;
+}
+
+.sub-nav dt.active span, .sub-nav dd.active span {
+  -webkit-border-radius: 1000px;
+  border-radius: 1000px;
+  font-weight: bold;
+  background: #F85931;
+  padding: 0.1875em 0.5625em;
+  cursor: default;
+  color: white;
+}
+
+.pagination li.current a, .pagination li.current a:hover {
+  background: #F85931
+}
+
+ul, ol, dl {
+  list-style-position: inside;
+}
+
+.clearing-thumbs {
+  list-style: none;
+}
+
+.clearing-thumbs li {
+  float: left;
+  margin-right: 10px;
+}
+
+.clearing-assembled {
+  margin-bottom: 1.25em;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+span.alt-flickr {
+  font-size: 0.8em
+}
+
+p {
+  color: #595959;
+}
+
+blockquote {
+  margin: 0.5625em 0 1.25em;
+  padding: 0 1.25em 0 1.1875em;
+  border-left: 2px solid #ddd;
+}
+
+/**
+ * FOOTER
+ */
+
+footer {
+  background: #151515;
+  color: #777;
+  padding: 11px 0;
+  margin-top: 30px;
+  border-top: 10px solid #009989;
+}
+
+footer a {
+  color: #009989;
+}
+
+footer a:hover {
+  color: #fff;
+}
+
+footer h6 {
+  color: #fff;
+}
+
+footer p, footer li {
+  font-size: 14px;
+}
+
+footer li a span, footer li a:hover span {
+  color: #777;
+}

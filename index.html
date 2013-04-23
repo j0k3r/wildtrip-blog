@@ -1,0 +1,74 @@
+---
+layout: default
+title : My little world wide tour
+---
+
+{% for post in paginator.posts %}
+
+<div class="large-12 columns">
+  <h2><a href="/{{ post.posterous_slug }}">{{ post.title }}</a></h2>
+
+  <dl class="sub-nav">
+    <dd class="active"><span>{{ post.date | date: "%d %B %Y" }}</span></dd>
+    {% if post.tags != empty %}
+      {% for tag in post.tags %}
+        <dd class="hide-for-small"><a href="/tag/{{ tag | remove:' ' }}">{{ tag }}</a></dd>
+      {% endfor %}
+    {% endif %}
+  </dl>
+
+  {{ post.excerpt }}
+
+  {% if post.excerpt_image %}
+    <p style="text-align: center;">
+      <img class="th" src="{{ post.excerpt_image }}" />
+    </p>
+  {% endif %}
+
+  <ul class="inline-list hide-for-small">
+    <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ post.posterous_url }}" data-text="{{ post.title }}" data-lang="en"  data-via="j0k" data-dnt="true">Tweet</a></li>
+    <li><div class="fb-like" data-href="{{ post.posterous_url }}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div></li>
+  </ul>
+</div>
+
+<hr/>
+
+{% endfor %}
+
+<div class="large-12 columns pagination-centered">
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+    <li class="arrow">
+      {% if paginator.previous_page == 1 %}
+        <a href="/">&laquo;</a>
+      {% else %}
+        <a href="/page{{paginator.previous_page}}">&laquo;</a>
+      {% endif %}
+    </li>
+    {% else %}
+      <li class="arrow unavailable"><a href="">&laquo;</a></li>
+    {% endif %}
+
+    {% if paginator.page == 1 %}
+      <li class="current"><a href="/">1</a></li>
+    {% else %}
+      <li><a href="/">1</a></li>
+    {% endif %}
+
+    {% for count in (2..paginator.total_pages) %}
+    <li class="page">
+      {% if count == paginator.page %}
+      <li class="current"><a href="/page{{count}}">{{count}}</a></li>
+      {% else %}
+      <li><a href="/page{{count}}">{{count}}</a></li>
+      {% endif %}
+    </li>
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <li class="arrow"><a href="/page{{paginator.next_page}}">&raquo;</a></li>
+    {% else %}
+      <li class="arrow unavailable"><a href="">&raquo;</a></li>
+    {% endif %}
+  </ul>
+</div>
