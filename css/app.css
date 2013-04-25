@@ -4,7 +4,6 @@
 
 div.header {
   background: #151515;
-  border-bottom: 2px solid #009989;
 }
 
 .header p {
@@ -70,6 +69,16 @@ div.header {
   padding: 6px 15px;
 }
 
+.top-bar {
+  margin-bottom: 0;
+}
+
+.contain-to-grid {
+  background: #006258;
+  border-top: 2px solid #009989;
+  border-bottom: 2px solid #009989;
+}
+
 /**
  * CONTENT
  */
@@ -95,6 +104,10 @@ h2 {
 
 .content h2 a:hover {
   color: #F85931;
+}
+
+.content {
+  margin-top: 1.875em;
 }
 
 .sub-nav dt.active span, .sub-nav dd.active span {
