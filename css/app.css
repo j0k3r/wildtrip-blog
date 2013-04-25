@@ -16,6 +16,9 @@ div.header {
 .header h1 {
   color: #fff;
   margin-bottom: 0;
+  font-family: ChunkFiveRegular, Josefin Sans Std Light, Georgia, Helvetica, Arial, serif;
+  text-transform: uppercase;
+  font-size: 2.5em;
 }
 
 .author-image {
