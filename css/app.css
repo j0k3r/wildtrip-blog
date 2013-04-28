@@ -19,6 +19,7 @@ div.header {
   font-family: ChunkFiveRegular, Josefin Sans Std Light, Georgia, Helvetica, Arial, serif;
   text-transform: uppercase;
   font-size: 2.5em;
+  font-weight: normal;
 }
 
 .author-image {
