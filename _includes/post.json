@@ -1,0 +1,6 @@
+{
+  "id"      : "{{ post.posterous_url }}",
+  "title"   : "{{ post.title | remove:'"' }}",
+  "content" : "{{ post.content | strip_html | strip_newlines | remove:'"' }}",
+  "date"    : "{{ post.date | date: "%d %b %Y" }}",
+}

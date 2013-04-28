@@ -71,27 +71,27 @@
               <li><a href="/tag/france/">France</a></li>
             </ul>
           </li>
-          <!--
-          <li class="divider"></li>
-          <li class="has-form">
-            <form>
-              <div class="row collapse" id="search">
-                <div class="small-8 columns">
-                  <input type="search" name="q" id="q" placeholder="Enter keywords..."/>
-                </div>
-                <div class="small-4 columns">
-                  <input type="submit" value="Search" class="secondary button">
+          <li class="has-form hide-for-small">
+            <form target="/search" method="get" id="search">
+              <div class="row collapse">
+                <div class="small-12 columns">
+                  <input type="search" id="search-query" name="q" placeholder="Search" autocomplete="off">
                 </div>
               </div>
             </form>
           </li>
-          -->
         </ul>
       </section>
     </nav>
   </div>
 
   <div class="row content">
+
+    <div class="large-12 columns" id="search-results" style="display: none;">
+      <h1 class="subheader">Résultats de la recherche</h1>
+      <div class="entries"></div>
+      <hr/>
+    </div>
 
     {{ content }}
 
@@ -147,8 +147,10 @@
     }(document, 'script', 'facebook-jssdk'));
   </script>
 
-  <script src="/js/foundation.min.js"></script>
+  <script src="/js/lunr.js"></script>
+  <script src="/search.js"></script>
   <script src="/js/app.js"></script>
+  <script src="/js/foundation.min.js"></script>
   <script>
     $(document).foundation();
   </script>
