@@ -6,7 +6,7 @@
         "coordinates": {{ post.location }}
     },
     "properties": {
-        "marker-color": "#f1762d",
+        "marker-color": "#F85931",
         "url": "{{ post.posterous_url }}",
         "title": "{{ post.title | remove:'"' }}"
     }
