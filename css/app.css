@@ -4,68 +4,57 @@
 
 div.header {
   background: #151515;
+  border-bottom: 4px solid #009989;
+  padding-bottom: 10px;
+}
+
+.header h1 a {
+  color: white;
 }
 
 .header p {
   color: #999;
-  font-style: italic;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 1.1em;
+  font-family: "Droid Sans", "Tahoma", sans-serif;
+  font-size: 0.9em;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  margin: 0;
 }
 
 .header h1 {
   color: #fff;
   margin-bottom: 0;
-  font-family: ChunkFiveRegular, Josefin Sans Std Light, Georgia, Helvetica, Arial, serif;
-  text-transform: uppercase;
-  font-size: 2.5em;
+  font-family: "Droid Serif", Georgia, Helvetica, Arial, serif;
+  font-size: 2em;
   font-weight: normal;
-}
-
-.author-image {
-  float: left;
-  display: block;
-  width: 75px;
-  height: 75px;
-  margin: 30px 15px 0px -105px;
-  position: relative;
-}
-
-.author-image img {
-  position: relative;
-  z-index: 1;
-  width: 75px;
-  max-height: 75px;
-}
-
-.author-image span {
-  display: block;
-  height: 75px;
-  width: 75px;
-  background: url(/img/author-overlay.png) top no-repeat;
-  position: absolute;
-  top: 0px;
-  z-index: 2;
+  font-style: italic;
 }
 
 /**
  * TOP BAR
  */
 
-.top-bar, .top-bar-section ul, .top-bar-section li a:not(.button), .top-bar-section .has-form {
-  background: #006258
+.top-bar .name h1 {
+  line-height: 20px;
+  font-size: 0.85em;
+  margin: 0;
+}
+
+.top-bar-section {
+  /*margin: 22px 0;*/
 }
 
 .top-bar-section ul li.active a, .top-bar-section li a:not(.button):hover, .top-bar .name h1 a:hover {
-  background: #009989
+  text-decoration: underline;
 }
 
 .top-bar-section ul li > a {
-  font-size: 0.9125em;
+  font-size: 0.85em;
 }
 
 .top-bar-section .dropdown li a {
   line-height: 2;
+  font-size: 0.8em;
 }
 
 .top-bar-section .dropdown label {
@@ -74,13 +63,8 @@ div.header {
 }
 
 .top-bar {
-  margin-bottom: 0;
-}
-
-.contain-to-grid {
-  background: #006258;
-  border-top: 2px solid #009989;
-  border-bottom: 2px solid #009989;
+  background: #151515;
+  margin: 0
 }
 
 /**
@@ -104,6 +88,7 @@ h2 {
 
 .content h2 a {
   color: #333;
+  font-family: "Droid Serif", Georgia, Helvetica, Arial, serif;
 }
 
 .content h2 a:hover {
@@ -154,7 +139,7 @@ span.alt-flickr {
   font-size: 0.8em
 }
 
-p {
+p, li {
   color: #595959;
 }
 
@@ -162,6 +147,18 @@ blockquote {
   margin: 0.5625em 0 1.25em;
   padding: 0 1.25em 0 1.1875em;
   border-left: 2px solid #ddd;
+}
+
+.share-links p {
+  margin-bottom: 10px;
+}
+
+.share-links li {
+  margin-left: 10px;
+}
+
+.share-links ul {
+  margin-left: -10px;
 }
 
 /**
@@ -194,4 +191,19 @@ footer p, footer li {
 
 footer li a span, footer li a:hover span {
   color: #777;
+}
+
+#map {
+  width: 100%;
+  height: 350px;
+  display: none;
+}
+
+#map a.popup, #bigmap a.popup {
+  font-size: 1.3em;
+}
+
+#bigmap {
+  width: 100%;
+  height: 600px;
 }

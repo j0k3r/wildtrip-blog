@@ -28,3 +28,11 @@ layout: default
 
   <hr/>
 {% endif %}{% endfor %}{% endfor %}
+
+<script src="/map.allpoints.js"></script>
+
+{% if page.location %}
+<script type="text/javascript">
+  var geoTagSetview = {{ page.location }}.reverse();
+</script>
+{% endif %}

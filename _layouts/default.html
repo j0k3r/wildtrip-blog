@@ -16,6 +16,9 @@
 
   <script src="/js/vendor/custom.modernizr.js"></script>
 
+  <script src='https://api.tiles.mapbox.com/mapbox.js/v1.4.0/mapbox.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox.js/v1.4.0/mapbox.css' rel='stylesheet' />
+
   <meta name="description" content="{% if page.title %}{{ page.title }} | {% endif %}My little world wide tour ✌ - Blog de voyages de Jérémy Benoist, notamment en vadrouille dans différents pays (France, Chine, Indonésie, Corée du Sud, Thaïlande, Russie, Ukraine ...)" />
   <meta name="keywords" content="Blog, voyages, voyage, wildtrip, France, Chine, Indonésie, Corée du Sud, Thaïlande, dmz, pekin, beijing, paris, chongqing, kunming, dali, lijiang, shangrila, bangkok, phuket, koh phi phi, koh lanta, seoul, datong, xian, pingyao, ubud, yogyakarta" />
 </head>
@@ -23,66 +26,61 @@
 
   <div class="header">
     <div class="row">
-      <div class="large-12 columns">
-        <a href="http://blog.wildtrip.net" class="hide-for-small author-image">
-          <img src="/img/header_miniature.jpg" alt="My little world wide tour ✌">
-          <span></span>
-        </a>
-        <h1>My little world wide tour ✌</h1>
+      <div class="large-6 columns">
+        <h1>
+          <a href="http://blog.wildtrip.net">
+            My little world wide tour ✌
+          </a>
+        </h1>
         <p>En vadrouille en Asie du sud, en Chine, en Russie, ...</p>
+      </div>
+      <div class="large-6 columns">
+        <nav class="top-bar">
+          <ul class="title-area show-for-medium-down">
+            <li class="name"></li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+          </ul>
+
+          <section class="top-bar-section">
+            <ul>
+              <li><a href="/la-carte-au-tresor">La carte au trésor</a></li>
+              <li class="has-dropdown"><a href="#">Par pays</a>
+                <ul class="dropdown">
+                  <li><label>Asie</label></li>
+                  <li><a href="/tag/chine/">Chine</a></li>
+                  <li><a href="/tag/hongkong/">Hong Kong</a></li>
+                  <li><a href="/tag/coreedusud/">Corée du Sud</a></li>
+                  <li><a href="/tag/indonesie/">Indonésie</a></li>
+                  <li><a href="/tag/thailande/">Thaïlande</a></li>
+                  <li><a href="/tag/malaisie/">Malaisie</a></li>
+                  <li class="divider"></li>
+                  <li><label>Transsibérien</label></li>
+                  <li><a href="#/tag/mongolie/">Mongolie</a></li>
+                  <li><a href="#/tag/russie/">Russie</a></li>
+                  <li><a href="#/tag/ukraine/">Ukraine</a></li>
+                  <li class="divider"></li>
+                  <li><label>Europe</label></li>
+                  <li><a href="/tag/france/">France</a></li>
+                </ul>
+              </li>
+              <li class="has-form hide-for-small">
+                <form target="/search" method="get" id="search">
+                  <div class="row collapse">
+                    <div class="small-12 columns">
+                      <input type="search" id="search-query" name="q" placeholder="Search" autocomplete="off">
+                    </div>
+                  </div>
+                </form>
+              </li>
+            </ul>
+          </section>
+        </nav>
       </div>
     </div>
   </div>
 
-  <div class="contain-to-grid">
-    <nav class="top-bar">
-      <ul class="title-area">
-        <li class="name">
-          <h1><a href="/">Accueil</a></h1>
-        </li>
-        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-      </ul>
-
-      <section class="top-bar-section">
-        <ul class="left">
-          <li class="divider show-for-medium-down"></li>
-          <li><a href="/la-carte-au-tresor">La carte au trésor</a></li>
-          <li class="divider show-for-medium-down"></li>
-          <li><a href="/contactez-moi">Contactez moi</a></li>
-          <li class="divider show-for-medium-down"></li>
-        </ul>
-        <ul class="right">
-          <li class="has-dropdown"><a href="#">Par pays</a>
-            <ul class="dropdown">
-              <li><label>Asie</label></li>
-              <li><a href="/tag/chine/">Chine</a></li>
-              <li><a href="/tag/hongkong/">Hong Kong</a></li>
-              <li><a href="/tag/coreedusud/">Corée du Sud</a></li>
-              <li><a href="/tag/indonesie/">Indonésie</a></li>
-              <li><a href="/tag/thailande/">Thaïlande</a></li>
-              <li><a href="/tag/malaisie/">Malaisie</a></li>
-              <li class="divider"></li>
-              <li><label>Transsibérien</label></li>
-              <li><a href="#/tag/mongolie/">Mongolie</a></li>
-              <li><a href="#/tag/russie/">Russie</a></li>
-              <li><a href="#/tag/ukraine/">Ukraine</a></li>
-              <li class="divider"></li>
-              <li><label>Europe</label></li>
-              <li><a href="/tag/france/">France</a></li>
-            </ul>
-          </li>
-          <li class="has-form hide-for-small">
-            <form target="/search" method="get" id="search">
-              <div class="row collapse">
-                <div class="small-12 columns">
-                  <input type="search" id="search-query" name="q" placeholder="Search" autocomplete="off">
-                </div>
-              </div>
-            </form>
-          </li>
-        </ul>
-      </section>
-    </nav>
+  <div class="hide-for-small">
+    <div id="map"></div>
   </div>
 
   <div class="row content">
@@ -102,6 +100,7 @@
       <div class="large-4 columns">
         <h6><strong>A propos</strong></h6>
         <p>Faites un tour sur ce post sur le pourquoi du comment :-) <a href="http://blog.wildtrip.net/le-pourquoi-du-comment">http://blog.wildtrip.net/le-pourquoi-du-comment</a></p>
+        <p><a href="/contactez-moi">Contactez moi</a></p>
       </div>
       <div class="large-3 columns">
         <h6><strong>Des sites à visiter</strong></h6>
@@ -132,19 +131,7 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 
-    document.write('<script src=' +
-    ('__proto__' in {} ? '/js/vendor/zepto' : '/js/vendor/jquery') +
-    '.js><\/script>')
-    // Twitter
-    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-    // Facebook
-    (function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=66001688209";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
+    document.write('<script src=' + ('__proto__' in {} ? '/js/vendor/zepto' : '/js/vendor/jquery') + '.js><\/script>')
   </script>
 
   <script src="/js/lunr.js"></script>

@@ -12,6 +12,11 @@ module Jekyll
       tag_title_prefix = site.config['tag_title_prefix'] || 'Posts Tagged &ldquo;'
       tag_title_suffix = site.config['tag_title_suffix'] || '&rdquo;'
       self.data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
+
+      # if this tag has associated location (defined in _config.yml), add it
+      if site.config['tag_location'][tag.delete(' ')]
+        self.data['location'] = site.config['tag_location'][tag.delete(' ')]
+      end
     end
   end
 

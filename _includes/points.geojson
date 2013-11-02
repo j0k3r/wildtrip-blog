@@ -1,0 +1,14 @@
+{% if post.location %}
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": {{ post.location }}
+    },
+    "properties": {
+        "marker-color": "#f1762d",
+        "url": "{{ post.posterous_url }}",
+        "title": "{{ post.title | remove:'"' }}"
+    }
+},
+{% endif %}

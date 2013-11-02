@@ -29,10 +29,13 @@ layout: default
 
 <hr/>
 
-<div class="hide-for-small large-12 columns">
+<div class="hide-for-small large-12 columns share-links">
+  <p><i>Vous avez aimé cet article ? Alors partagez-le avec vos amis en cliquant sur les boutons ci-dessous :</i></p>
   <ul class="inline-list">
-    <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.posterous_url }}" data-text="{{ page.title }}" data-lang="en"  data-via="j0k" data-dnt="true">Tweet</a></li>
-    <li><div class="fb-like" data-href="{{ page.posterous_url }}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div></li>
+    <li><a target="_blank" title="Twitter" href="https://twitter.com/share?url={{ page.posterous_url }}&text={{ page.title }}&via=j0k" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;"><img src="/img/twitter_icon.png" alt="Twitter" /></a></li>
+    <li><a target="_blank" title="Facebook" href="https://www.facebook.com/sharer.php?u={{ page.posterous_url }}&t={{ page.title }}" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;"><img src="/img/facebook_icon.png" alt="Facebook" /></a></li>
+    <li><a target="_blank" title="Google +" href="https://plus.google.com/share?url={{ page.posterous_url }}&hl=fr" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;"><img src="/img/gplus_icon.png" alt="Google Plus" /></a></li>
+    <li><a target="_blank" title="Envoyer par mail" href="mailto:?subject={{ page.title }}&body={{ page.posterous_url }}" rel="nofollow"><img src="/img/email_icon.png" alt="email" /></a></li>
   </ul>
 </div>
 
@@ -50,3 +53,23 @@ layout: default
   <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
   <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 </div>
+
+{% if page.location %}
+<script type="text/javascript">
+var geoSetview = {{ page.location }}.reverse();
+var geoJson =
+[{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": {{ page.location }}
+    },
+    "properties": {
+        "marker-color": "#f1762d",
+        "marker-symbol": "star",
+        "url": "{{ page.posterous_url }}",
+        "title": "{{ page.title | remove:'"' }}"
+    }
+}];
+</script>
+{% endif %}

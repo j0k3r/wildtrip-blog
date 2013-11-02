@@ -18,3 +18,12 @@ flickr:
 tag_dir: tag
 tag_title_prefix: 'Billets étiquetés &ldquo;'
 tag_title_suffix: '&rdquo;'
+
+tag_location:
+  chine: "[104.195397, 35.861660]"
+  hongkong: "[114.109497, 22.396428]"
+  coreedusud: "[127.766922, 35.907757]"
+  indonesie: "[113.921327, -0.789275]"
+  thailande: "[99.711914, 13.496473]"
+  malaisie: "[101.975766, 4.210484]"
+  france: "[2.213749, 46.227638]"

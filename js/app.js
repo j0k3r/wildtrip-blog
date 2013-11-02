@@ -45,3 +45,56 @@ $(function() {
     return false;
   }
 });
+
+/**
+ * Displaying the map !
+ */
+if ("undefined" !== typeof geoJson) {
+  $('#map').show();
+
+  var mapId = 'map';
+  if ($('#bigmap').length) {
+    mapId = 'bigmap';
+  }
+
+  var map = L.mapbox.map(mapId, 'j0k.g65a64bm');
+
+  // disable drag and zoom handlers
+  // map.dragging.disable();
+  // map.touchZoom.disable();
+  // map.doubleClickZoom.disable();
+  map.scrollWheelZoom.disable();
+
+  // disable tap handler, if present.
+  // if (map.tap) map.tap.disable();
+
+  // Add custom popups to each using our custom feature properties
+  map.markerLayer.on('layeradd', function(e) {
+      var marker = e.layer,
+          feature = marker.feature;
+
+      // Create custom popup content
+      var popupContent = '<a target="_blank" class="popup" href="' + feature.properties.url + '">' + feature.properties.title + '</a>';
+
+      marker.bindPopup(popupContent,{
+          closeButton: false,
+          minWidth: 320
+      });
+  });
+
+  map.markerLayer.setGeoJSON(geoJson);
+
+  if ("undefined" !== typeof geoSetview) {
+    // define view is more zoomed: 10
+    map.setView(geoSetview, 10);
+  } else if ("undefined" !== typeof geoTagSetview) {
+    // tag view might be more global, zommed: 5
+    map.setView(geoTagSetview, 5);
+  } else if ("undefined" !== typeof geoDefaultSetview) {
+    // default view is less zommed: 3
+    map.setView(geoDefaultSetview, 3);
+  } else {
+    // no setview, so we don't show the map
+    $('#map').hide();
+  }
+}

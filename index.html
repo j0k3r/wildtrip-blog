@@ -1,5 +1,6 @@
 ---
 layout: default
+defaultlocation: "[30, 49]"
 ---
 
 {% for post in paginator.posts %}
@@ -24,10 +25,6 @@ layout: default
     </p>
   {% endif %}
 
-  <ul class="inline-list hide-for-small">
-    <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ post.posterous_url }}" data-text="{{ post.title }}" data-lang="en"  data-via="j0k" data-dnt="true">Tweet</a></li>
-    <li><div class="fb-like" data-href="{{ post.posterous_url }}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div></li>
-  </ul>
 </div>
 
 <hr/>
@@ -71,3 +68,8 @@ layout: default
     {% endif %}
   </ul>
 </div>
+
+<script src="/map.allpoints.js"></script>
+<script type="text/javascript">
+  var geoDefaultSetview = {{ page.defaultlocation }};
+</script>
