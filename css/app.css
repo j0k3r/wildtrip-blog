@@ -71,28 +71,26 @@ div.header {
  * CONTENT
  */
 
-h2 {
+h2, h3 {
   font-weight: lighter;
-  font-family: "NewCicleFina", Josefin Sans Std Light, Arial, Helvetica, sans-serif;
-  font-size: 45px;
+  font-family: "Droid Serif", Georgia, Helvetica, Arial, serif;
   line-height: 1em;
 }
 
-.content p a, .sub-nav dd a, .content a {
+h2 {
+  font-size: 45px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+.content h2 a:hover, .content p a, .sub-nav dd a, .content a {
   color: #F85931;
 }
 
-.content p a:hover, .sub-nav dd a:hover, .content a:hover {
+.content h2 a, .content p a:hover, .sub-nav dd a:hover, .content a:hover {
   color: #333;
-}
-
-.content h2 a {
-  color: #333;
-  font-family: "Droid Serif", Georgia, Helvetica, Arial, serif;
-}
-
-.content h2 a:hover {
-  color: #F85931;
 }
 
 .content {
@@ -103,13 +101,12 @@ h2 {
   -webkit-border-radius: 1000px;
   border-radius: 1000px;
   font-weight: bold;
-  background: #F85931;
   padding: 0.1875em 0.5625em;
   cursor: default;
   color: white;
 }
 
-.pagination li.current a, .pagination li.current a:hover {
+.pagination li.current a, .pagination li.current a:hover, .sub-nav dt.active span, .sub-nav dd.active span {
   background: #F85931
 }
 
