@@ -47,10 +47,6 @@ div.header {
   /*margin: 22px 0;*/
 }
 
-.top-bar-section ul li.active a, .top-bar-section li a:not(.button):hover, .top-bar .name h1 a:hover {
-  text-decoration: underline;
-}
-
 .top-bar-section ul li > a {
   font-size: 0.85em;
 }
