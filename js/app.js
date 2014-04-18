@@ -57,7 +57,11 @@ if ("undefined" !== typeof geoJson) {
     mapId = 'bigmap';
   }
 
-  var map = L.mapbox.map(mapId, 'j0k.g65a64bm');
+  var map = L.mapbox.map(mapId, 'j0k.g65a64bm', {
+    tileLayer: {
+      detectRetina: true
+    }
+  });
 
   // disable drag and zoom handlers
   // map.dragging.disable();
@@ -70,16 +74,16 @@ if ("undefined" !== typeof geoJson) {
 
   // Add custom popups to each using our custom feature properties
   map.markerLayer.on('layeradd', function(e) {
-      var marker = e.layer,
-          feature = marker.feature;
+    var marker = e.layer,
+    feature = marker.feature;
 
-      // Create custom popup content
-      var popupContent = '<a target="_blank" class="popup" href="' + feature.properties.url + '">' + feature.properties.title + '</a>';
+    // Create custom popup content
+    var popupContent = '<a target="_blank" class="popup" href="' + feature.properties.url + '">' + feature.properties.title + '</a>';
 
-      marker.bindPopup(popupContent,{
-          closeButton: false,
-          minWidth: 320
-      });
+    marker.bindPopup(popupContent,{
+      closeButton: false,
+      minWidth: 320
+    });
   });
 
   map.markerLayer.setGeoJSON(geoJson);
