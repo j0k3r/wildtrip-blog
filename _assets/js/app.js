@@ -1,4 +1,4 @@
-//= require foundation.min
+//= require foundation
 
 $(function() {
   $('#search input.button').on('click', function() {
@@ -17,7 +17,9 @@ $(function() {
     if (query.length <= 2) {
       result.hide();
       entries.empty();
+      $('#map').show();
     } else {
+      $('#map').hide();
       // retrieve matching result with content
       var results = $.map(idx.search(query), function(result) {
         return $.grep(docs, function(entry) {

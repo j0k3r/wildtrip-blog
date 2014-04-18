@@ -6,10 +6,8 @@ http://blog.wildtrip.net/
 
 To find lat/long: http://itouchmap.com/latlong.html
 
-## install it using
+Before using it, install requirements:
 
- - gem install jekyll
- - gem install flickraw
- - gem install jekyll-assets
- - gem install yui-compressor
- - gem install uglifier
+````
+bundle install
+````

@@ -10,7 +10,7 @@ layout: default
     {% if page.date_travel %}
       <img src="/img/pencil2.png" width="16" height="16" title="Écrit le" /> {{ page.date | date: "%d %B %Y" }} - <img src="/img/airplane.png" width="16" height="16" title="Voyagé le" /> {{ page.date_travel | date: "%d %B %Y" }}
     {% else %}
-      <img src="/img/pencil2.png" width="16" height="16" title="Écrit le" /> <img src="/img/airplane.png" width="16" height="16" title="Voyagé le" />Écrit &amp; voyagé le {{ page.date | date: "%d %B %Y" }}
+      <img src="/img/pencil2.png" width="16" height="16" title="Écrit le" /> <img src="/img/airplane.png" width="16" height="16" title="Voyagé le" /> {{ page.date | date: "%d %B %Y" }}
     {% endif %}
     </span></dd>
     {% if page.tags != empty %}

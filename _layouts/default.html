@@ -1,20 +1,17 @@
 <!DOCTYPE html>
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang="fr" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="fr" > <!--<![endif]-->
+<html class="no-js" lang="fr">
 
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{% if page.title %} {{ page.title }} | {% endif %}My little world wide tour</title>
 
-  {% stylesheet normalize %}
-  {% stylesheet foundation %}
   {% stylesheet fonts %}
   {% stylesheet app %}
 
   <link rel="alternate" type="application/rss+xml" href="http://blog.wildtrip.net/rss.xml"/>
 
-  {% javascript vendor/modernizr %}
+  {% javascript modernizr %}
 
   <script src="https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js"></script>
   <link href="https://api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css" rel="stylesheet" />
@@ -35,7 +32,7 @@
         <p>En vadrouille en Asie du sud, en Chine, en Russie, ...</p>
       </div>
       <div class="large-6 columns">
-        <nav class="top-bar">
+        <nav class="top-bar" data-topbar>
           <ul class="title-area show-for-medium-down">
             <li class="name"></li>
             <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -46,31 +43,36 @@
               <li><a href="/la-carte-au-tresor">La carte au trésor</a></li>
               <li class="has-dropdown"><a href="#">Par pays</a>
                 <ul class="dropdown">
-                  <li><label>Asie</label></li>
-                  <li><a href="/tag/chine/">Chine</a></li>
-                  <li><a href="/tag/hongkong/">Hong Kong</a></li>
-                  <li><a href="/tag/coreedusud/">Corée du Sud</a></li>
-                  <li><a href="/tag/indonesie/">Indonésie</a></li>
-                  <li><a href="/tag/thailande/">Thaïlande</a></li>
-                  <li><a href="/tag/malaisie/">Malaisie</a></li>
-                  <li class="divider"></li>
-                  <li><label>Transsibérien</label></li>
-                  <li><a href="#/tag/mongolie/">Mongolie</a></li>
-                  <li><a href="#/tag/russie/">Russie</a></li>
-                  <li><a href="#/tag/ukraine/">Ukraine</a></li>
-                  <li class="divider"></li>
-                  <li><label>Europe</label></li>
-                  <li><a href="/tag/france/">France</a></li>
+                  <li class="has-dropdown"><a href="#">Asie</a>
+                    <ul class="dropdown">
+                      <li><a href="/tag/chine/">Chine</a></li>
+                      <li><a href="/tag/hongkong/">Hong Kong</a></li>
+                      <li><a href="/tag/coreedusud/">Corée du Sud</a></li>
+                      <li><a href="/tag/indonesie/">Indonésie</a></li>
+                      <li><a href="/tag/thailande/">Thaïlande</a></li>
+                      <li><a href="/tag/malaisie/">Malaisie</a></li>
+                    </ul>
+                  </li>
+                  <li class="has-dropdown"><a href="#">Transsibérien</a>
+                    <ul class="dropdown">
+                      <li><a href="#/tag/mongolie/">Mongolie</a></li>
+                      <li><a href="#/tag/russie/">Russie</a></li>
+                      <li><a href="#/tag/ukraine/">Ukraine</a></li>
+                    </ul>
+                  </li>
+                  <li class="has-dropdown"><a href="#">Europe</a>
+                    <ul class="dropdown">
+                      <li><a href="/tag/france/">France</a></li>
+                    </ul>
+                  </li>
                 </ul>
               </li>
               <li class="has-form hide-for-small">
-                <form target="/search" method="get" id="search">
-                  <div class="row collapse">
-                    <div class="small-12 columns">
-                      <input type="search" id="search-query" name="q" placeholder="Search" autocomplete="off">
-                    </div>
+                <div class="row collapse">
+                  <div class="small-12 columns">
+                    <input type="search" id="search-query" name="q" placeholder="Search" autocomplete="off">
                   </div>
-                </form>
+                </div>
               </li>
             </ul>
           </section>
@@ -132,7 +134,7 @@
     })();
   </script>
 
-  {% javascript vendor/zepto %}
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
   {% javascript lunr %}
   <script src="/search.js"></script>
   {% javascript app %}

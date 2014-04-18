@@ -1,3 +1,6 @@
+/*= require normalize */
+/*= require foundation */
+
 /**
  * HEADER
  */
@@ -67,6 +70,10 @@ div.header {
   margin: 0
 }
 
+.top-bar-section li:not(.has-form) a:not(.button), .top-bar-section .has-form {
+  background: #151515;
+}
+
 /**
  * CONTENT
  */
@@ -93,6 +100,10 @@ h3 {
   color: #333;
 }
 
+.sub-nav dd a {
+  padding: 0;
+}
+
 .content {
   margin-top: 1.875em;
 }
@@ -106,7 +117,7 @@ h3 {
   color: white;
 }
 
-.pagination li.current a, .pagination li.current a:hover, .sub-nav dt.active span, .sub-nav dd.active span {
+ul.pagination li.current a, .sub-nav dt.active span, .sub-nav dd.active span {
   background: #F85931
 }
 
@@ -160,6 +171,10 @@ blockquote {
 
 .sub-nav img {
   vertical-align: middle;
+}
+
+#search-query {
+  height: 1.9rem;
 }
 
 /**
