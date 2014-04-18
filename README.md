@@ -5,3 +5,11 @@ This is my travel blog, previously hosted on Posterous, and now powered by Jekyl
 http://blog.wildtrip.net/
 
 To find lat/long: http://itouchmap.com/latlong.html
+
+## install it using
+
+ - gem install jekyll
+ - gem install flickraw
+ - gem install jekyll-assets
+ - gem install yui-compressor
+ - gem install uglifier

@@ -1,3 +1,4 @@
+//= require foundation.min
 
 $(function() {
   $('#search input.button').on('click', function() {
