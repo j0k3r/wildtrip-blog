@@ -13,6 +13,7 @@ GEM
     flickraw (0.9.8)
     highline (1.6.21)
     hike (1.2.3)
+    i18n (0.6.9)
     jekyll (1.5.1)
       classifier (~> 1.3)
       colorator (~> 0.1)
@@ -68,6 +69,7 @@ PLATFORMS
 
 DEPENDENCIES
   flickraw (~> 0.9.8)
+  i18n (~> 0.6.9)
   jekyll (~> 1.5.1)
   jekyll-assets (~> 0.7.7)
   uglifier (~> 2.5.0)
