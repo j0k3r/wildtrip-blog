@@ -63,6 +63,11 @@ layout: default
 {% if page.location %}
 <script type="text/javascript">
 var geoSetview = {{ page.location }}.reverse();
+
+{% if page.location_zoom %}
+var geoSetzoom = {{ page.location_zoom }};
+{% endif %}
+
 var geoJson =
 [{
     "type": "Feature",
