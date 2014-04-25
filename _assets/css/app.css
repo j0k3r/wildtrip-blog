@@ -74,7 +74,7 @@ div.header {
  * CONTENT
  */
 
-h2, h3 {
+h2, h3, h4 {
   font-weight: lighter;
   font-family: "Droid Serif", Georgia, Helvetica, Arial, serif;
   line-height: 1em;
@@ -86,6 +86,12 @@ h2 {
 
 h3 {
   font-size: 30px;
+  padding-bottom: 5px;
+}
+
+h4 {
+  font-size: 25px;
+  color: #595959;
 }
 
 .content h2 a:hover, .content p a, .sub-nav dd a, .content a {

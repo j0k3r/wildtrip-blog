@@ -32,10 +32,10 @@ $(function() {
       if (results && results.length > 0) {
         $.each(results, function(key, post) {
           entries.append('<article>'+
-          '  <h3>'+
+          '  <h4>'+
           '    <small><time>'+post.date+'</time></small>'+
           '    <a href="'+post.id+'">'+post.title+'</a>'+
-          '  </h3>'+
+          '  </h4>'+
           '</article>');
         });
       } else {
