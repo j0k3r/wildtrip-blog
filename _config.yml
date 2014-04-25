@@ -8,6 +8,8 @@ permalink:   /:title/
 
 paginate: 5
 
+future: false
+
 flickr:
   cache_dir:        ./_cache/flickr
   api_key:          xx
@@ -27,6 +29,9 @@ tag_location:
   thailande: "[99.711914, 13.496473]"
   malaisie: "[101.975766, 4.210484]"
   france: "[2.213749, 46.227638]"
+  ukraine: "[30.794678, 49.337204]"
+  russie: "[62.132492, 56.628924]"
+  mongolie: "[106.907272, 47.921720]"
 
 #
 # Plugin: jekyll-assets
