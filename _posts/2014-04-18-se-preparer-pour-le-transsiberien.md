@@ -15,7 +15,7 @@ excerpt_image: https://farm3.staticflickr.com/2932/13867790503_60748ef6fb_c.jpg
 
 ###Le contexte
 
-Mon point de départ pour le Transsibérien était Pékin, en Chine et non Paris. C'est une façon moins commune de prendre le Transsibérien puisque nous n'avions pas d'aller / retour à prévoir étant donné que nous rentrions de Chine.
+Mon point de départ pour le Transsibérien était Pékin. C'est une façon moins commune de prendre le Transsibérien puisque nous n'avions pas d'aller / retour à prévoir étant donné que nous rentrions de Chine et également moins onéreuse car les billets de train étaient souvent moins chers dans ce sens que dans l'autre...
 
 Tous les informations pour acheter les billets vont se trouver du point de vue d'un touriste français en Chine (sauf pour le visa mongol).
 
@@ -25,7 +25,7 @@ Il est bon de rappeler qu'il ne faut pas se pointer dans une gare russe et deman
 
 >[Le Transsibérien](http://fr.wikipedia.org/wiki/Transsib%C3%A9rien) est une voie ferrée qui est souvent confondue avec les trains qui y circulent, qui portent pourtant des noms différents selon les destinations qu'ils desservent.
 
-On n'achète pas de billets pour le Transsibérien. On achète simplement des billets pour des trains qui circulent d'un point A à un point B. Généralement, on achète ses billets de train de gare en gare plutôt que tout d'un coup (sauf si on décide de faire le Transsibérien sans s'arrêter – aucun intérêt).
+On n'achète pas de billets pour le Transsibérien. On achète simplement des billets pour des trains qui circulent d'un point A à un point B. Généralement, on achète ses billets de train de gare en gare plutôt que tout d'un coup (sauf si on décide de faire le Transsibérien sans s'arrêter – aucun intérêt) ou qu'on passe par une agence qui vous préparera votre voyage aux petits oignons. 
 
 ####Pékin → Oulan Bator = 250$
 Cette partie est très simple puisque vous pouvez passer par une agence sur place qui s'appelle [CITS](http://fr.cits.net/) (_pour China International Travel Service_). Nous avions contacté Monsieur CHEN (⇒ chenh@cits.com.cn). Les prix sont à peu près les mêmes qu'à la gare mais cet interlocuteur parle anglais et c'est quand même bien plus pratique.
@@ -38,7 +38,7 @@ A noter que la différence de prix entre Chine → Mongolie et Mongolie → Russ
 ####Irkourtsk → Krasnoyarsk → Vladimir → Moscou = 235€
 Une fois en Russie, nous avons acheté tout nos billets directement dans les gares. A chaque fois qu'on s'arrêtait dans une gare, on achetait le billet pour trajet suivant avant de commencer les visites.
 
-Contrairement à ce qu'on pourrait penser, ce n'est pas si compliqué que ça. Certes les russes sont plutôt austères, ils feront rarement des efforts pour vous comprendre et parfois même ils ne voudront même pas vous vendre de billets et fermeront leur guichet !
+Contrairement à ce qu'on pourrait penser, ce n'est pas si compliqué que ça. Certes les russes sont plutôt austères, ils feront rarement des efforts pour vous comprendre et parfois même ils ne voudront même pas vous vendre de billets et fermeront leur guichet ! Mais avec un grand sourire, on arrive à tout :)
 
 Pour y arriver plus facilement, il suffit de tout bien préparer avant:
 
@@ -82,7 +82,7 @@ Evidemment, aucune prise électrique n'est disponible dans le train. Seule les _
 
 A chaque arrêt assez long en gare (~20 minutes), vous trouverez toujours des personnes sur le quai avec un charriot plein de saucissons, de fromages bizarre, de gros pains, de nouilles chinoises et autres trucs pour refaire votre stock. 
 
-Petite information intéressante: dans chaque wagon, l'horaire des arrêts du train est affiché (à l'heure de Moscou – évidemment). On peut ainsi facilement savoir quand seront les arrêts les plus longs pour aller se dégourdir les jambes dans le froid sibérien.
+Petite information intéressante: dans chaque wagon, l'horaire des arrêts du train est affiché (à l'heure de Moscou – évidemment). On peut ainsi facilement savoir quand seront les arrêts les plus longs pour aller se dégourdir les jambes dans le froid sibérien et aussi quand les toilettes seront fermés (souvent lors de ces longs arrêts allant de 20 à 40 minutes).
 
 {% flickr_photoset 72157643991308965 %}
 
