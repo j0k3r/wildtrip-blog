@@ -18,7 +18,7 @@ excerpt_image: https://farm8.staticflickr.com/7426/13867093683_52f231cd2c_c.jpg
 
 Oulan-Bator est un passage obligatoire quand on arrive en train. Après plusieurs jours de traversé de la Mongolie, on ne s'attends pas à trouver une telle capitale. Avant d'arriver à la gare d'Oulan-Bator, on traverse les 25 km de banlieue de _yourtes_ désolées.
 
-Le taxi nous récupère et on est rapidement curieux de lui poser des questions sur la ville, après s’être rapidement rendu compte que la circulation n’était qu’anarchie et embouteillages. Il nous confie que “_les embouteillages dans Oulan-Bator commencent à 8h du matin et se finisse à 23h le soir, sans interruption et **TOUS les jours**_”. Le weekend semble un peu épargné.
+Le taxi nous récupère et on est rapidement curieux de lui poser des questions sur la ville, après s’être rapidement rendu compte que la circulation n’était qu’anarchie et embouteillages. Il nous confie que “les embouteillages dans Oulan-Bator commencent à 8h du matin et se finisse à 23h le soir, sans interruption et **TOUS les jours**”. Le weekend semble un peu épargné.
 
 Le centre ville fait très récent avec de grands malls, des grandes tours de verre. Mais les montagnes sont toutes proches.
 
