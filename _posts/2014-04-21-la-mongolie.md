@@ -5,7 +5,7 @@ posterous_slug: la-mongolie
 published: true
 date: 2015-04-21
 date_travel: 2011-10-16
-title: "La Mongolie"
+title: "Les splendides paysages de Mongolie"
 location: "[106.907272, 47.921720]"
 location_zoom: 5
 tags:
