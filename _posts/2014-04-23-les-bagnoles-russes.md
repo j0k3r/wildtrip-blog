@@ -17,7 +17,7 @@ excerpt_image: https://farm4.staticflickr.com/3697/13847827023_fa9aa36686_c.jpg
 
 Les UAZ me font penser a ces utilisateurs (les J5/J7/J9, C25/C35 ou autre) qui étaient déclinées à toutes les sauces pour les cas d'utilisation: la police, les pompiers, les ambulances, la poste, les miliaires, en mode pick-up, etc ..
 
-Leur histoire est originale aussi:
+Celui que l'on croisait le plus souvent était le modèle [UAZ-452](http://en.wikipedia.org/wiki/UAZ-452). Ce modèle a eu un grand succès lors de sa sortie puisqu'il était très modulaire. La police et l'armée l'ont principalement utilisé et peu à peu, il fut de plus en plus utilisé en mode mini-bus par les transports en commun mais aussi pour les touristes. Le fait qu'il puisse se transformer en pickup, en 4x4, etc ...
 
 {% flickr_photoset 72157643949684304 %}
 
