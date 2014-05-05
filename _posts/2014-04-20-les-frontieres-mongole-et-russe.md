@@ -27,7 +27,6 @@ Bref, après 4h d'attente, on quitte la frontière côté Chine. Le train parcou
 
 Pour fêter ça, nos voisins de cabines (des mongols) s'ouvrent une canette de bière, youhou!
 
-
 {% flickr_photoset 72157643992234823 %}
 
 Cette fois, on s'attaque à la frontière avec la Russie, c'est un tout autre monde.
@@ -49,5 +48,3 @@ Les personnes de l'immigration récupèrent nos passeports. Interdiction formell
 Je n'ai pas pu résister, en quittant la Oulan-Bator et la Mongolie, de prendre le panneau d'affichage étant donné que c'était le jour de mon anniversaire :) Et j'ai fêté ça avec une part de cheesecake mongol !
 
 {% flickr_photoset 72157643992244865 %}
-
-
