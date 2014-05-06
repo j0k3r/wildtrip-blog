@@ -10,13 +10,13 @@ tags:
 - transsiberien
 - locomotive
 - fil rouge
-excerpt: "<p>Quand on parcourt le Transsibérien, il est impossible de passer à côté de ces énormes locomotives tractant des dizaines de wagons tout au long de la Sibérie.</p><p>Comme <a href='/les-bagnoles-russes'>les UAZ</a>, je me suis pris d'une courte passion pour les différentes locomotives qu'on a croisées sur notre chemin allant de la vapeur aux électriques.</p>"
+excerpt: "<p>Quand on parcourt le Transsibérien, il est impossible de passer à côté de ces énormes locomotives tractant des dizaines de wagons tout au long de la Sibérie.</p><p>Comme <a href='/les-bagnoles-russes'>les UAZ</a>, je me suis pris d'une courte passion pour les différentes locomotives qu'on a croisées sur notre chemin: il y en avait de toutes sortes, à vapeur, électriques...</p>"
 excerpt_image: https://farm8.staticflickr.com/7349/13845793104_d1ee2e5f8a_c.jpg
 ---
 
-Il en existe évidemment de toutes sortes, mais la plupart que nous avons croisé ressemblent à celle ci-dessus (ici en gare d'Erlian, au niveau de [la frontière Chine / Mongolie](/les-frontieres-mongole-et-russe)). Un énorme habitacle abritant le moteur, le conducteur placé à l'arrière de la machine avec un hublot de chaque côté. Elles sont très imposantes !
+Il en existe évidemment de toutes sortes, mais la plupart que nous avons croisé ressemble à celle ci-dessus (ici en gare d'Erlian, au niveau de [la frontière Chine / Mongolie](/les-frontieres-mongole-et-russe)). Un énorme habitacle abritant le moteur, le conducteur placé à l'arrière de la machine avec un hublot de chaque côté. Elles sont très imposantes !
 
-Tout au long du Transsibérien, il n'est pas rare de passer à côté de mini-musée de vieilles locomotives. De mémoire, c'était le cas en arrivant à [Oulan-Bator en Mongolie](/la-mongolie). Y sont exposé de grosses locomotives à vapeur, celles qu'on foit généralement dans les films de Western !
+Tout au long du Transsibérien, il n'est pas rare de passer à côté de mini-musée de vieilles locomotives. De mémoire, c'était le cas en arrivant à [Oulan-Bator en Mongolie](/la-mongolie). Y sont exposées de grosses locomotives à vapeur, celles qu'on foit généralement dans les films de Western !
 
 Sur la partie Est du Transsibérien, les locomotives sont toujours à vapeur, puisque les équipements se font plus rares, tout comme le personnel. L'entretien est donc plus difficile que si c'était des lignes électriques.
 
