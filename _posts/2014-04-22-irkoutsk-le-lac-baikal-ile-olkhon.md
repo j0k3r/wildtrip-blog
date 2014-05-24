@@ -80,7 +80,7 @@ Les plages sont aussi très belles, très grandes et évidemment désertes. Le t
 
 {% flickr_photoset 72157643989115573 %}
 
-L'île d'Olkhon est considérée comme le centre sacré du monde des chamans du nord. Le centre suprême est représenté par le rocher des chamans (_ci-dessous_ – _première photo_). Selon les légendes, Olkhon serait l'habitat des esprits terribles du Baïkal et aurait accueillit le premier homme à être devenu un chaman.
+L'île d'Olkhon est considérée comme le centre sacré du monde des chamans du nord. Le centre suprême est représenté par le rocher des chamans (ci-dessous – première photo). Selon les légendes, Olkhon serait l'habitat des esprits terribles du Baïkal et aurait accueillit le premier homme à être devenu un chaman.
 
 {% flickr_photoset 72157644809654262 %}
 
