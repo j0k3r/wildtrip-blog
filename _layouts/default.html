@@ -100,17 +100,32 @@
   <footer>
     <div class="row">
       <div class="large-4 columns">
-        <h6><strong>A propos</strong></h6>
-        <p>Faites un tour sur ce post sur le pourquoi du comment :-) <a href="http://blog.wildtrip.net/le-pourquoi-du-comment">http://blog.wildtrip.net/le-pourquoi-du-comment</a></p>
         <h6><strong>Vous pouvez me contacter :)</strong></h6>
         <p>
           Via <a href="https://twitter.com/j0k">Twitter</a>,
           <a href="https://www.facebook.com/jeremy.benoist">Facebook</a> ou par
           <a href="mailto:&#106;&#101;&#114;&#101;&#109;&#121;&#046;&#098;&#101;&#110;&#111;&#105;&#115;&#116;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">mail</a>.
         </p>
+        <h6><strong>Recevez les articles par e-mail</strong></h6>
+        <p>Vous recevrez quotidiennement les articles.</p>
+        <form action="http://feedpress.it/e/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedpress.it/e/mailverify?feed_id=blogwildtrip', 'popupwindow', 'scrollbars=yes,width=550,height=400');return true">
+          <div class="row">
+            <div class="large-12 columns">
+              <div class="row collapse">
+                <div class="small-8 columns">
+                  <input type="text" name="email" placeholder="E-mail">
+                </div>
+                <div class="small-4 columns">
+                  <input type="hidden" value="blogwildtrip" name="feed_id"/>
+                  <button type="submit" class="button postfix success">S'abonner</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
       </div>
       <div class="large-3 columns">
-        <h6><strong>Des sites à visiter</strong></h6>
+        <h6><strong>D'autres sites à visiter</strong></h6>
         <ul class="disc">
           <li><a href="http://inbeijing.canalblog.com/">Breakfast in Beijing</a></li>
           <li><a href="http://iceland.wildtrip.net/">Voyage en Islande et au Groenland</a></li>

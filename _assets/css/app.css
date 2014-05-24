@@ -224,3 +224,15 @@ footer li a span, footer li a:hover span {
   width: 100%;
   height: 600px;
 }
+
+footer p {
+  color: #777;
+}
+
+footer button.success {
+  background-color: #009989 !important;
+}
+
+footer button.success:hover {
+  background-color: #4a831c !important;
+}
