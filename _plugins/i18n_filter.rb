@@ -6,7 +6,8 @@ LOCALE = :fr # set your locale
 module Jekyll
   module I18nFilter
 
-    I18n.enforce_available_locales = true
+    # set this to avoid deprecation message
+    I18n.enforce_available_locales = false
 
     # Example:
     #   {{ post.date | localize: "%d.%m.%Y" }}
