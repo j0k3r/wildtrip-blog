@@ -58,6 +58,7 @@ if ("undefined" !== typeof geoJson) {
   var mapId = 'map';
   if ($('#bigmap').length) {
     mapId = 'bigmap';
+    $('#map').hide();
   }
 
   var map = L.mapbox.map(mapId, 'j0k.g65a64bm', {
