@@ -74,7 +74,7 @@ Je l'explique en détail dans un autre article, mais voilà en gros ce à quoi i
 
 Dès l'arrivée dans votre wagon, la _provodnista_ (hôtesse du train ou du wagon si vous préférez) vous fournira draps et serviettes. Vous pourrez aussi lui acheter de quoi manger mais c'est assez cher.
 
-Le point important c'est qu'il y a tout le temps un samovar dans votre wagon. Cela vous permettra de vous faire des nouilles chinoises quand vous avez faim et de vous faire du thé (penser à vous **prendre une tasse** et des sachets) quand vous aurez soif. L'eau est constamment à 90°C!
+Le point important c'est qu'il y a tout le temps un [samovar](http://fr.wikipedia.org/wiki/Samovar) dans votre wagon. Cela vous permettra de vous faire des nouilles chinoises quand vous avez faim et de vous faire du thé (penser à **prendre une tasse** et des sachets) quand vous aurez soif. L'eau est constamment à 90°C!
 
 Les trains russes (en tout cas en hiver) sont extrêmement bien chauffés. Il y fait même beaucoup trop chaud. Vous vous promènerais tout le temps en t-shirt, c'est garanti.
 
