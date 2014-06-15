@@ -3,7 +3,7 @@ layout: post
 posterous_url: http://blog.wildtrip.net/se-preparer-pour-le-transsiberien
 posterous_slug: se-preparer-pour-le-transsiberien
 published: true
-date: 2015-04-18
+date: 2014-06-16
 date_travel: 2011-10-11
 title: "Se préparer pour le Transsibérien"
 location: "[116.421051, 39.926220]"
@@ -25,7 +25,7 @@ Il est bon de rappeler qu'il ne faut pas se pointer dans une gare russe et deman
 
 >[Le Transsibérien](http://fr.wikipedia.org/wiki/Transsib%C3%A9rien) est une voie ferrée qui est souvent confondue avec les trains qui y circulent, qui portent pourtant des noms différents selon les destinations qu'ils desservent.
 
-On n'achète pas de billets pour le Transsibérien. On achète simplement des billets pour des trains qui circulent d'un point A à un point B. Généralement, on achète ses billets de train de gare en gare plutôt que tout d'un coup (sauf si on décide de faire le Transsibérien sans s'arrêter – aucun intérêt) ou qu'on passe par une agence qui vous préparera votre voyage aux petits oignons. 
+On n'achète pas de billets pour le Transsibérien. On achète simplement des billets pour des trains qui circulent d'un point A à un point B. Généralement, on achète ses billets de train de gare en gare plutôt que tout d'un coup (sauf si on décide de faire le Transsibérien sans s'arrêter – aucun intérêt) ou qu'on passe par une agence qui vous préparera votre voyage aux petits oignons.
 
 ####Pékin → Oulan Bator = 250$
 Cette partie est très simple puisque vous pouvez passer par une agence sur place qui s'appelle [CITS](http://fr.cits.net/) (_pour China International Travel Service_). Nous avions contacté Monsieur CHEN (⇒ chenh@cits.com.cn). Les prix sont à peu près les mêmes qu'à la gare mais cet interlocuteur parle anglais et c'est quand même bien plus pratique.
@@ -46,7 +46,7 @@ Pour y arriver plus facilement, il suffit de tout bien préparer avant:
  - heure de départ (attention: cela correspond à la l'heure de Moscou)
  - le type de couchette (_plaskart_ pour la 3e classe et _koupe_ pour la seconde)
  - (en bonus) le numéro du train si vous le connaissez
- 
+
 À noter que [Way to Russia](http://www.waytorussia.net/) est un site très pratique qui vous aidera beaucoup pour trouver des trains !
 
 ###Les visas russe et mongol
@@ -80,7 +80,7 @@ Les trains russes (en tout cas en hiver) sont extrêmement bien chauffés. Il y 
 
 Evidemment, aucune prise électrique n'est disponible dans le train. Seule les _provodnista_ ont des prises dans leur cabine. Mais quand on voit les branchements, on se résigne à vouloir faire charger son téléphone ...
 
-A chaque arrêt assez long en gare (~20 minutes), vous trouverez toujours des personnes sur le quai avec un charriot plein de saucissons, de fromages bizarre, de gros pains, de nouilles chinoises et autres trucs pour refaire votre stock. 
+A chaque arrêt assez long en gare (~20 minutes), vous trouverez toujours des personnes sur le quai avec un charriot plein de saucissons, de fromages bizarre, de gros pains, de nouilles chinoises et autres trucs pour refaire votre stock.
 
 Petite information intéressante: dans chaque wagon, l'horaire des arrêts du train est affiché (à l'heure de Moscou – évidemment). On peut ainsi facilement savoir quand seront les arrêts les plus longs pour aller se dégourdir les jambes dans le froid sibérien et aussi quand les toilettes seront fermés (souvent lors de ces longs arrêts allant de 20 à 40 minutes).
 

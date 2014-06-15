@@ -3,7 +3,7 @@ layout: post
 posterous_url: http://blog.wildtrip.net/les-locomotives-du-transsiberien
 posterous_slug: les-locomotives-du-transsiberien
 published: true
-date: 2015-04-26
+date: 2014-07-22
 date_travel: 2011-10-30
 title: "Les locomotives du Transsibérien"
 tags:

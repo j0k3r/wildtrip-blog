@@ -3,7 +3,7 @@ layout: post
 posterous_url: http://blog.wildtrip.net/krasnoyarsk
 posterous_slug: krasnoyarsk
 published: true
-date: 2015-04-24
+date: 2014-07-07
 date_travel: 2011-10-24
 title: "Krasnoyarsk, la pause idéale au milieu de la Sibérie"
 location: "[92.938843, 56.009707]"

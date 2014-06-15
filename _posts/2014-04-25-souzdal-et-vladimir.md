@@ -3,7 +3,7 @@ layout: post
 posterous_url: http://blog.wildtrip.net/souzdal-et-vladimir
 posterous_slug: souzdal-et-vladimir
 published: true
-date: 2015-04-25
+date: 2014-07-10
 date_travel: 2011-10-29
 title: "Les belles cathédrales de Souzdal et Vladimir"
 location: "[40.415955, 56.148131]"

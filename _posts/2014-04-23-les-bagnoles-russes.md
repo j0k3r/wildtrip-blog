@@ -3,7 +3,7 @@ layout: post
 posterous_url: http://blog.wildtrip.net/les-bagnoles-russes
 posterous_slug: les-bagnoles-russes
 published: true
-date: 2015-04-23
+date: 2014-07-03
 date_travel: 2011-10-22
 title: "Ces bagnoles qu'on ne trouve qu'en Russie"
 tags:

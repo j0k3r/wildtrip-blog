@@ -3,7 +3,7 @@ layout: post
 posterous_url: http://blog.wildtrip.net/irkoutsk-le-lac-baikal-ile-olkhon
 posterous_slug: irkoutsk-le-lac-baikal-ile-olkhon
 published: true
-date: 2015-04-22
+date: 2014-06-30
 date_travel: 2011-10-20
 title: "Irkoutsk, le lac Baïkal et l'île d'Olkhon"
 location: "[107.363892, 53.198424]"

@@ -3,7 +3,7 @@ layout: post
 posterous_url: http://blog.wildtrip.net/les-frontieres-mongole-et-russe
 posterous_slug: les-frontieres-mongole-et-russe
 published: true
-date: 2015-04-20
+date: 2014-06-23
 date_travel: 2011-10-16
 title: "Le passage des frontières russe et mongole"
 location: "[106.453400, 50.323875]"
