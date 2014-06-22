@@ -3,7 +3,7 @@ layout: post
 posterous_url: http://blog.wildtrip.net/se-preparer-pour-le-transsiberien
 posterous_slug: se-preparer-pour-le-transsiberien
 published: true
-date: 2014-06-16
+date: 2014-06-22
 date_travel: 2011-10-11
 title: "Se préparer pour le Transsibérien"
 location: "[116.421051, 39.926220]"
