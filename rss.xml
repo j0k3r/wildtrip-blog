@@ -19,7 +19,17 @@ layout: nil
     <link href="{{ post.posterous_url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ post.posterous_url }}</id>
-    <content type="html">{{ post.content | clean_rss | xml_escape }}</content>
+    <content type="html">
+      {% if post.excerpt %}
+        {{ post.excerpt | xml_escape }}
+      {% endif %}
+
+      {% if post.excerpt_image %}
+        <p><img src="{{ post.excerpt_image }}" /></p>
+      {% endif %}
+
+      {{ post.content | clean_rss | xml_escape }}
+    </content>
   </entry>
   {% endfor %}
 
