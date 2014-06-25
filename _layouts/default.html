@@ -17,8 +17,12 @@
   <script src="https://api.tiles.mapbox.com/mapbox.js/v1.6.4/mapbox.js"></script>
   <link href="https://api.tiles.mapbox.com/mapbox.js/v1.6.4/mapbox.css" rel="stylesheet" />
 
-  <meta name="description" content="{% if page.title %}{{ page.title }} | {% endif %}My little world wide tour ✌ - Blog de voyages de Jérémy, notamment en vadrouille dans différents pays (France, Chine, Indonésie, Corée du Sud, Thaïlande, Russie, Ukraine ...)" />
-  <meta name="keywords" content="Blog, voyages, voyage, wildtrip, France, Chine, Indonésie, Corée du Sud, Thaïlande, dmz, pekin, beijing, paris, chongqing, kunming, dali, lijiang, shangrila, bangkok, phuket, koh phi phi, koh lanta, seoul, datong, xian, pingyao, ubud, yogyakarta" />
+  <meta name="description" content="{% if page.title %}{{ page.title }} | {% endif %}My little world wide tour ✌ - Blog de voyages de Jérémy" />
+
+  <meta property="og:title" content="{% if page.title %} {{ page.title }} | {% endif %}My little world wide tour" />
+  <meta property="og:description" content="{% if page.title %}{{ page.title }} | {% endif %}My little world wide tour ✌ - Blog de voyages de Jérémy" />
+  <meta property="og:image" content="{% if page.excerpt_image %} {{ page.excerpt_image }} | {% endif %}" />
+  <meta property="og:site_name" content="My little world wide tour" />
 </head>
 <body>
 
@@ -30,7 +34,7 @@
             My little world wide tour ✌
           </a>
         </h1>
-        <p>En vadrouille en Asie du sud, en Chine, en Russie, ...</p>
+        <p>En vadrouille en Asie du sud, en Chine, en Russie et ailleurs dans le monde :)</p>
       </div>
       <div class="large-6 columns">
         <nav class="top-bar" data-topbar>
