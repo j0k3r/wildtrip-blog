@@ -25,7 +25,7 @@ layout: nil
       {% endif %}
 
       {% if post.excerpt_image %}
-        <p><img src="{{ post.excerpt_image }}" /></p>
+        &lt;p&gt;&lt;img src="{{ post.excerpt_image }}" /&gt;&lt;/p&gt;
       {% endif %}
 
       {{ post.content | clean_rss | xml_escape }}
