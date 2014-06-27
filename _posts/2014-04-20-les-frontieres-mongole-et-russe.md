@@ -45,6 +45,6 @@ Les personnes de l'immigration récupèrent nos passeports. Interdiction formell
 
 {% flickr_photoset 72157643992043835 %}
 
-Je n'ai pas pu résister, en quittant la Oulan-Bator et la Mongolie, de prendre le panneau d'affichage étant donné que c'était le jour de mon anniversaire :) Et j'ai fêté ça avec une part de cheesecake mongol !
+Je n'ai pas pu résister, en quittant Oulan-Bator et la Mongolie, de prendre le panneau d'affichage, étant donné que c'était le jour de mon anniversaire :) Et j'ai fêté ça avec une part de cheesecake mongol !
 
 {% flickr_photoset 72157643992244865 %}
