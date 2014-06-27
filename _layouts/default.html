@@ -19,7 +19,8 @@
 
   <meta name="description" content="{% if page.title %}{{ page.title }} – {% endif %}{% if page.excerpt %}{{ page.excerpt | remove_xml }} – {% endif %}My little world wide tour ✌" />
 
-  <meta property="og:title" content="{% if page.title %} {{ page.title }} – {% endif %}My little world wide tour" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} – {% endif %}My little world wide tour" />
+  <meta property="og:locale" content="fr_FR" />
   <meta property="og:description" content="{% if page.title %}{{ page.title }} – {% endif %}{% if page.excerpt %}{{ page.excerpt | remove_xml }} – {% endif %}My little world wide tour ✌" />
   <meta property="og:image" content="{% if page.excerpt_image %}{{ page.excerpt_image }}{% endif %}" />
   <meta property="og:site_name" content="My little world wide tour" />
