@@ -19,7 +19,7 @@ excerpt_image: https://farm8.staticflickr.com/7439/13868120115_2d1c6d738a_c.jpg
 
 La première frontière rencontrée est celle entre la Chine et la Russie.
 
-Une fois le train arrêté, les douaniers récupèrent nos passeports à bord et ensuite on est emmené dans la gare d'Erlian, déserte. En fait, ils nous font descendre du train car les voies ferrées mongoles et russes sont plus larges qu'en Chine. Il faut donc changer les “boogies” (les roues du train) de chaque wagon, ça prend un peu de temps.
+Une fois le train arrêté, les douaniers récupèrent nos passeports à bord et ensuite on est emmené dans la gare d'Erlian, déserte. En fait, ils nous font descendre du train car les voies ferrées mongoles et russes sont plus larges qu'en Chine. Il faut donc changer les “[boggies](http://fr.wikipedia.org/wiki/Bogie)” (les roues du train) de chaque wagon, ça prend un peu de temps.
 
 On passe donc plusieurs heures dans cette gare qu'aucun contrôle de douane ne soit effectué mais comme on nous a pris nos passeports, on ne peut pas aller bien loin !
 
