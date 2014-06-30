@@ -4,7 +4,7 @@ posterous_url: http://blog.wildtrip.net/la-mongolie
 posterous_slug: la-mongolie
 published: true
 date: 2014-06-30
-date_travel: 2011-10-16
+date_travel: 2011-10-18
 title: "Les splendides paysages de Mongolie"
 location: "[106.907272, 47.921720]"
 location_zoom: 5
