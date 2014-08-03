@@ -20,6 +20,8 @@ Oulan-Bator est un passage obligatoire quand on arrive en train. Après plusieur
 
 Le taxi nous récupère et on est rapidement curieux de lui poser des questions sur la ville, après s’être rapidement rendu compte que la circulation n’était qu’anarchie et embouteillages. Il nous confie que “les embouteillages dans Oulan-Bator commencent à 8h du matin et se finisse à 23h le soir, sans interruption, **TOUS les jours**”. Le weekend semble un peu épargné.
 
+L'ONU estime que Oulan-Bator est la seconde ville la plus polluée au monde. En cause, le charbon, qui permet aux habitants de la ville des yourtes, installée autour de la ville moderne, de se chauffer pendant l’hiver long et rigoureux (les températures peuvent descendre jusqu’à -40°).
+
 Le centre ville fait très récent avec de grands malls, de grandes tours de verre. Mais ça n'empêche pas les routes en terre d'en faire aussi parti !
 
 {% flickr_photoset 72157643989537164 %}
