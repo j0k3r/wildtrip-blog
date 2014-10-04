@@ -81,10 +81,10 @@ module Jekyll
     def generate_photo_data(photoset, flickrConfig)
       returnSet = Array.new
 
-      FlickRaw.api_key       = flickrConfig['api_key']
-      FlickRaw.shared_secret = flickrConfig['shared_secret']
-      flickr.access_token    = flickrConfig['access_token']
-      flickr.access_secret   = flickrConfig['access_secret']
+      FlickRaw.api_key       = ENV['FLICKR_API_KEY'] || flickrConfig['api_key']
+      FlickRaw.shared_secret = ENV['FLICKR_SHARED_SECRET'] || flickrConfig['shared_secret']
+      flickr.access_token    = ENV['FLICKR_ACCESS_TOKEN'] || flickrConfig['access_token']
+      flickr.access_secret   = ENV['FLICKR_ACCESS_SECRET'] || flickrConfig['access_secret']
 
       begin
         flickr.test.login
