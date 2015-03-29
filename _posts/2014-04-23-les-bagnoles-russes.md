@@ -1,7 +1,5 @@
 ---
 layout: post
-posterous_url: http://blog.wildtrip.net/les-bagnoles-russes
-posterous_slug: les-bagnoles-russes
 published: true
 date: 2014-07-05
 date_travel: 2011-10-22

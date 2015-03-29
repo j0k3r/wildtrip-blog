@@ -1,7 +1,5 @@
 ---
 layout: post
-posterous_url: http://blog.wildtrip.net/dans-le-transsiberien
-posterous_slug: dans-le-transsiberien
 published: true
 date: 2014-06-24
 date_travel: 2011-10-13

@@ -4,11 +4,13 @@ markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 
-permalink:   /:title/
+permalink:   /:title
 
 paginate: 5
 
 future: false
+
+prod_url: http://blog.wildtrip.net
 
 flickr:
   cache_dir:        ./_cache/flickr

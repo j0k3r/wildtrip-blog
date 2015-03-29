@@ -1,7 +1,5 @@
 ---
 layout: post
-posterous_url: http://blog.wildtrip.net/se-preparer-pour-le-transsiberien
-posterous_slug: se-preparer-pour-le-transsiberien
 published: true
 date: 2014-06-22
 date_travel: 2011-10-11

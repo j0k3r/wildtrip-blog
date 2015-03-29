@@ -1,7 +1,5 @@
 ---
 layout: post
-posterous_url: http://blog.wildtrip.net/irkoutsk-le-lac-baikal-ile-olkhon
-posterous_slug: irkoutsk-le-lac-baikal-ile-olkhon
 published: true
 date: 2014-07-02
 date_travel: 2011-10-20

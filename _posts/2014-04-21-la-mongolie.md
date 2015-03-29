@@ -1,7 +1,5 @@
 ---
 layout: post
-posterous_url: http://blog.wildtrip.net/la-mongolie
-posterous_slug: la-mongolie
 published: true
 date: 2014-06-30
 date_travel: 2011-10-18

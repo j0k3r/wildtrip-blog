@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="large-12 columns">
-  <h2><a href="/{{ page.posterous_slug }}">{{ page.title }}</a></h2>
+  <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
 
   <dl class="sub-nav">
     <dd class="active"><span>
@@ -38,10 +38,10 @@ layout: default
 <div class="hide-for-small large-12 columns share-links">
   <p><i>Vous avez aimé cet article ? Alors partagez-le avec vos amis en cliquant sur les boutons ci-dessous :</i></p>
   <ul class="inline-list">
-    <li><a target="_blank" title="Twitter" href="https://twitter.com/share?url={{ page.posterous_url }}&text={{ page.title }}&via=j0k" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;"><img src="/img/twitter_icon.png" alt="Twitter" /></a></li>
-    <li><a target="_blank" title="Facebook" href="https://www.facebook.com/sharer.php?u={{ page.posterous_url }}&t={{ page.title }}" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;"><img src="/img/facebook_icon.png" alt="Facebook" /></a></li>
-    <li><a target="_blank" title="Google +" href="https://plus.google.com/share?url={{ page.posterous_url }}&hl=fr" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;"><img src="/img/gplus_icon.png" alt="Google Plus" /></a></li>
-    <li><a target="_blank" title="Envoyer par mail" href="mailto:?subject={{ page.title }}&body={{ page.posterous_url }}" rel="nofollow"><img src="/img/email_icon.png" alt="email" /></a></li>
+    <li><a target="_blank" title="Twitter" href="https://twitter.com/share?url={{ site.prod_url }}{{ page.url }}&text={{ page.title }}&via=j0k" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;"><img src="/img/twitter_icon.png" alt="Twitter" /></a></li>
+    <li><a target="_blank" title="Facebook" href="https://www.facebook.com/sharer.php?u={{ site.prod_url }}{{ page.url }}&t={{ page.title }}" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;"><img src="/img/facebook_icon.png" alt="Facebook" /></a></li>
+    <li><a target="_blank" title="Google +" href="https://plus.google.com/share?url={{ site.prod_url }}{{ page.url }}&hl=fr" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;"><img src="/img/gplus_icon.png" alt="Google Plus" /></a></li>
+    <li><a target="_blank" title="Envoyer par mail" href="mailto:?subject={{ page.title }}&body={{ site.prod_url }}{{ page.url }}" rel="nofollow"><img src="/img/email_icon.png" alt="email" /></a></li>
   </ul>
 </div>
 
@@ -77,7 +77,7 @@ var geoJson =
     "properties": {
         "marker-color": "#f1762d",
         "marker-symbol": "star",
-        "url": "{{ page.posterous_url }}",
+        "url": "{{ page.url }}",
         "title": "{{ page.title | remove:'"' }}"
     }
 }];

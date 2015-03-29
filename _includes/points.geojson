@@ -7,7 +7,7 @@
     },
     "properties": {
         "marker-color": "#F85931",
-        "url": "{{ post.posterous_url }}",
+        "url": "{{ post.url }}",
         "title": "{{ post.title | remove:'"' }}"
     }
 },

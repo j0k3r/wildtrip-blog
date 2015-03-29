@@ -15,9 +15,9 @@
   {% for post in site.posts limit:5 %}
   <entry>
     <title><![CDATA[{{ post.title }}]]></title>
-    <link href="{{ post.posterous_url }}"/>
+    <link href="{{ site.prod_url }}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>{{ post.posterous_url }}</id>
+    <id>{{ site.prod_url }}{{ post.url }}</id>
     <content type="html">
       {% if post.excerpt %}
         {{ post.excerpt | xml_escape }}

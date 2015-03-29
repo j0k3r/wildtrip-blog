@@ -1,7 +1,5 @@
 ---
 layout: post
-posterous_url: http://blog.wildtrip.net/les-frontieres-mongole-et-russe
-posterous_slug: les-frontieres-mongole-et-russe
 published: true
 date: 2014-06-27
 date_travel: 2011-10-16
