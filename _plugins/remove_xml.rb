@@ -4,7 +4,7 @@ module Jekyll
   module RemoveXml
 
     def remove_xml(input)
-	  input.gsub(/<.*?>/, '')
+      input.gsub(/<.*?>/, '')
     end
   end
 end

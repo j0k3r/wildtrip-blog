@@ -20,29 +20,33 @@ $(function() {
       $('#map').show();
     } else {
       $('#map').hide();
-      // retrieve matching result with content
-      var results = $.map(idx.search(query), function(result) {
-        return $.grep(docs, function(entry) {
-          return entry.id === result.ref;
-        })[0];
+      var client = $.algolia.Client('QKW967ZRAA', '6e89ccd38463d0bfa572994f678d66cd');
+      var index = client.initIndex('blog_posts');
+
+      index.search(query, { hitsPerPage: 10 }, function searchDone(err, content) {
+        var results = content.hits;
+
+        entries.empty();
+
+        if (results && results.length > 0) {
+          $.each(results, function(key, post) {
+            var date = new Date(post.date),
+                day = date.getDate().toString().length == 1 ? '0'+date.getDate() : date.getDate(),
+                months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+            entries.append('<article>'+
+            '  <h4>'+
+            '    <small><time>'+day+' '+months[date.getMonth()]+' '+date.getFullYear()+'</time></small>'+
+            '    <a href="'+post.url+'">'+post.title+'</a>'+
+            '  </h4>'+
+            '</article>');
+          });
+        } else {
+          entries.append('<p>Aucun article trouvé :-(</p>');
+        }
+
+        result.show();
       });
-
-      entries.empty();
-
-      if (results && results.length > 0) {
-        $.each(results, function(key, post) {
-          entries.append('<article>'+
-          '  <h4>'+
-          '    <small><time>'+post.date+'</time></small>'+
-          '    <a href="'+post.id+'">'+post.title+'</a>'+
-          '  </h4>'+
-          '</article>');
-        });
-      } else {
-        entries.append('<p>Aucun article trouvé :-(</p>');
-      }
-
-      result.show();
     }
 
     return false;

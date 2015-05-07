@@ -23,6 +23,11 @@ tag_dir: tag
 tag_title_prefix: 'Billets étiquetés &ldquo;'
 tag_title_suffix: '&rdquo;'
 
+algolia:
+  index_name: blog_posts
+  application_id: xx
+  search_only_api_key: xx
+
 tag_location:
   chine: "[104.195397, 35.861660]"
   hongkong: "[114.109497, 22.396428]"

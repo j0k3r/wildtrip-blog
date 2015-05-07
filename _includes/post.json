@@ -1,6 +1,0 @@
-{
-  "id"      : "{{ post.url }}",
-  "title"   : "{{ post.title | remove:'"' }}",
-  "content" : "{{ post.content | strip_html | strip_newlines | remove:'"' }}",
-  "date"    : "{{ post.date | localize: "%d %b %Y" }}"
-}

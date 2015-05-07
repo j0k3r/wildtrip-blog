@@ -2,6 +2,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.3.8)
+    algoliasearch (1.4.2)
+      httpclient (~> 2.4)
+      json (>= 1.5.1)
     blankslate (2.1.2.4)
     celluloid (0.16.0)
       timers (~> 4.0.0)
@@ -20,6 +23,7 @@ GEM
     flickraw (0.9.8)
     hike (1.2.3)
     hitimes (1.2.2)
+    httpclient (2.6.0.1)
     i18n (0.7.0)
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
@@ -59,9 +63,14 @@ GEM
       celluloid (~> 0.16.0)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
+    loofah (2.0.2)
+      nokogiri (>= 1.5.9)
     mercenary (0.3.5)
     mini_magick (4.2.0)
+    mini_portile (0.6.2)
     multi_json (1.11.0)
+    nokogiri (1.6.6.2)
+      mini_portile (~> 0.6.0)
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.10)
@@ -69,6 +78,8 @@ GEM
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
     rack (1.6.0)
+    rails-html-sanitizer (1.0.2)
+      loofah (~> 2.0)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -99,8 +110,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  algoliasearch (~> 1.4.2)
   flickraw (~> 0.9.8)
   i18n (~> 0.7.0)
   jekyll (~> 2.5.0)
   jekyll-assets (~> 0.14.0)
+  rails-html-sanitizer (~> 1.0.2)
   uglifier (~> 2.7.1)
