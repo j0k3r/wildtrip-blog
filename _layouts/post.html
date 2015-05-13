@@ -8,9 +8,9 @@ layout: default
   <dl class="sub-nav">
     <dd class="active"><span>
     {% if page.date_travel %}
-      <img src="/img/pencil2.png" width="16" height="16" title="Écrit le" /> {{ page.date | localize: "%d %B %Y" }} - <img src="/img/airplane.png" width="16" height="16" title="Voyagé le" /> {{ page.date_travel | localize: "%d %B %Y" }}
+      <img src="/img/pencil2.png" width="16" height="16" title="Écrit le" alt="Écrit le" /> {{ page.date | localize: "%d %B %Y" }} - <img src="/img/airplane.png" width="16" height="16" title="Voyagé le" alt="Voyagé le" /> {{ page.date_travel | localize: "%d %B %Y" }}
     {% else %}
-      <img src="/img/pencil2.png" width="16" height="16" title="Écrit le" /> <img src="/img/airplane.png" width="16" height="16" title="Voyagé le" /> {{ page.date | localize: "%d %B %Y" }}
+      <img src="/img/pencil2.png" width="16" height="16" title="Écrit le" alt="Écrit le" /> <img src="/img/airplane.png" width="16" height="16" title="Voyagé le" alt="Voyagé le" /> {{ page.date | localize: "%d %B %Y" }}
     {% endif %}
     </span></dd>
     {% if page.tags != empty %}
@@ -26,7 +26,7 @@ layout: default
 
   {% if page.excerpt_image %}
     <p style="text-align: center;">
-      <img class="th" src="{{ page.excerpt_image }}" />
+      <img class="th" src="{{ page.excerpt_image }}" alt="{{ page.title }}" />
     </p>
   {% endif %}
 
