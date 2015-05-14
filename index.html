@@ -47,8 +47,6 @@ defaultlocation: "[38, 45]"
         <a href="/page{{paginator.previous_page}}">&laquo;</a>
       {% endif %}
     </li>
-    {% else %}
-      <li class="arrow unavailable"><a href="">&laquo;</a></li>
     {% endif %}
 
     {% if paginator.page == 1 %}
@@ -69,8 +67,6 @@ defaultlocation: "[38, 45]"
 
     {% if paginator.next_page %}
       <li class="arrow"><a href="/page{{paginator.next_page}}">&raquo;</a></li>
-    {% else %}
-      <li class="arrow unavailable"><a href="">&raquo;</a></li>
     {% endif %}
   </ul>
 </div>
