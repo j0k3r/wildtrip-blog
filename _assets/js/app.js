@@ -1,7 +1,7 @@
 //= require foundation
 
 $(function() {
-  $('#search input.button').on('click', function() {
+  $('#search').find('input.button').on('click', function() {
     return search();
   });
 
@@ -12,7 +12,7 @@ $(function() {
   function search() {
     var query   = $('#search-query').val();
     var result  = $('#search-results');
-    var entries = $('#search-results .entries');
+    var entries = result.find('.entries');
 
     if (query.length <= 2) {
       result.hide();
