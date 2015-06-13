@@ -40,13 +40,13 @@ defaultlocation: "[38, 45]"
 <div class="large-12 columns pagination-centered">
   <ul class="pagination">
     {% if paginator.previous_page %}
-    <li class="arrow">
+      <li class="arrow">
       {% if paginator.previous_page == 1 %}
         <a href="/">&laquo;</a>
       {% else %}
         <a href="/page{{paginator.previous_page}}">&laquo;</a>
       {% endif %}
-    </li>
+      </li>
     {% endif %}
 
     {% if paginator.page == 1 %}
@@ -55,18 +55,40 @@ defaultlocation: "[38, 45]"
       <li><a href="/">1</a></li>
     {% endif %}
 
-    {% for count in (2..paginator.total_pages) %}
-    <li class="page">
-      {% if count == paginator.page %}
-      <li class="current"><a href="/page{{count}}">{{count}}</a></li>
+    {% assign page_start = 2 %}
+    {% if paginator.page > 7 %}
+      {% assign page_start = paginator.page | minus: 4 %}
+      <li class="disabled">…</li>
+    {% endif %}
+
+    {% assign page_end = paginator.total_pages | minus: 1 %}
+    {% assign to_end = paginator.total_pages | minus: paginator.page %}
+    {% if to_end > 6 %}
+      {% assign page_end = paginator.page | plus: 4 %}
+    {% endif %}
+
+    {% for index in (page_start..page_end) %}
+      {% if index == paginator.page %}
+        <li class="current"><a href="/page{{index}}">{{index}}</a></li>
       {% else %}
-      <li><a href="/page{{count}}">{{count}}</a></li>
+        <li><a href="/page{{index}}">{{index}}</a></li>
       {% endif %}
-    </li>
     {% endfor %}
+
+    {% if to_end > 6 %}
+      <li class="disabled">…</li>
+    {% endif %}
+
+    {% if paginator.page == paginator.total_pages %}
+      <li class="current"><a href="/page{{paginator.page}}">{{paginator.page}}</a></li>
+    {% else %}
+      <li><a href="/page{{paginator.total_pages}}">{{paginator.total_pages}}</a></li>
+    {% endif %}
 
     {% if paginator.next_page %}
       <li class="arrow"><a href="/page{{paginator.next_page}}">&raquo;</a></li>
+    {% else %}
+      <li class="disabled">&raquo;</li>
     {% endif %}
   </ul>
 </div>
