@@ -56,15 +56,15 @@ defaultlocation: "[38, 45]"
     {% endif %}
 
     {% assign page_start = 2 %}
-    {% if paginator.page > 7 %}
-      {% assign page_start = paginator.page | minus: 4 %}
+    {% if paginator.page > 5 %}
+      {% assign page_start = paginator.page | minus: 2 %}
       <li class="disabled">…</li>
     {% endif %}
 
     {% assign page_end = paginator.total_pages | minus: 1 %}
     {% assign to_end = paginator.total_pages | minus: paginator.page %}
-    {% if to_end > 6 %}
-      {% assign page_end = paginator.page | plus: 4 %}
+    {% if to_end > 4 %}
+      {% assign page_end = paginator.page | plus: 2 %}
     {% endif %}
 
     {% for index in (page_start..page_end) %}
@@ -75,7 +75,7 @@ defaultlocation: "[38, 45]"
       {% endif %}
     {% endfor %}
 
-    {% if to_end > 6 %}
+    {% if to_end > 4 %}
       <li class="disabled">…</li>
     {% endif %}
 
