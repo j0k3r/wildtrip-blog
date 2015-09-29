@@ -26,8 +26,8 @@ layout: default
     {{ post.excerpt }}
 
     {% if post.excerpt_image %}
-      <p style="text-align: center;">
-        <img class="th" src="{{ post.excerpt_image }}" alt="{{ post.title }}" />
+      <p class="pagination-centered">
+        <img class="th" data-src="{{ post.excerpt_image }}" alt="{{ post.title }}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" onload="lzld(this)" />
       </p>
     {% endif %}
   </div>
