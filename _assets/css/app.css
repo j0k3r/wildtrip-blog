@@ -33,6 +33,12 @@ div.header {
   font-style: italic;
 }
 
+.subheader {
+  margin-bottom: 1.5rem;
+  background-color: #fffacd;
+  text-align: center;
+}
+
 /**
  * TOP BAR
  */
