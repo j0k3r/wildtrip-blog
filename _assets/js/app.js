@@ -98,12 +98,10 @@ if ("undefined" !== typeof geoJson) {
 
   if ("undefined" !== typeof geoSetview) {
     // define view is more zoomed: 10
-    var zoom = ("undefined" !== typeof geoSetzoom) ? geoSetzoom : 10;
-
-    map.setView(geoSetview, zoom);
+    map.setView(geoSetview, ("undefined" !== typeof geoSetzoom) ? geoSetzoom : 10);
   } else if ("undefined" !== typeof geoTagSetview) {
     // tag view might be more global, zommed: 5
-    map.setView(geoTagSetview, 5);
+    map.setView(geoTagSetview, ("undefined" !== typeof geoSetzoom) ? geoSetzoom : 5);
   } else if ("undefined" !== typeof geoDefaultSetview) {
     // default view is less zommed: 2
     map.setView(geoDefaultSetview, 2);

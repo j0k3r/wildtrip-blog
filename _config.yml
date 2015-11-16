@@ -29,16 +29,33 @@ algolia:
   search_only_api_key: xx
 
 tag_location:
-  chine: "[104.195397, 35.861660]"
-  hongkong: "[114.109497, 22.396428]"
-  coreedusud: "[127.766922, 35.907757]"
-  indonesie: "[113.921327, -0.789275]"
-  thailande: "[99.711914, 13.496473]"
-  malaisie: "[101.975766, 4.210484]"
-  france: "[2.213749, 46.227638]"
-  ukraine: "[30.794678, 49.337204]"
-  russie: "[62.132492, 56.628924]"
-  mongolie: "[106.907272, 47.921720]"
+  chine:
+    points: "[104.195397, 35.861660]"
+    zoom: 4
+  hongkong:
+    points: "[114.109497, 22.396428]"
+    zoom: 9
+  coreedusud:
+    points: "[127.766922, 35.907757]"
+    zoom: 6
+  indonesie:
+    points: "[113.921327, -0.789275]"
+  thailande:
+    points: "[99.711914, 13.496473]"
+  malaisie:
+    points: "[101.975766, 4.210484]"
+  france:
+    points: "[2.213749, 46.227638]"
+  ukraine:
+    points: "[30.794678, 49.337204]"
+  russie:
+    points: "[62.132492, 56.628924]"
+    zoom: 4
+  mongolie:
+    points: "[106.907272, 47.921720]"
+  srilanka:
+    points: "[80.661934, 7.682562]"
+    zoom: 10
 
 #
 # Plugin: jekyll-assets
