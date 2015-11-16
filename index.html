@@ -11,9 +11,9 @@ defaultlocation: "[38, 45]"
   <dl class="sub-nav">
     <dd class="active"><span>
     {% if post.date_travel %}
-      <img src="/img/pencil2.png" title="Écrit le" alt="Écrit le" /> {{ post.date | localize: "%d %B %Y" }} - <img src="/img/airplane.png" title="Voyagé le" alt="Voyagé le" /> {{ post.date_travel | localize: "%d %B %Y" }}
+      <img src="/img/pencil2.png" title="Écrit le" alt="Écrit le" /> {{ post.date | localize: "%d %B %Y" | downcase }} - <img src="/img/airplane.png" title="Voyagé le" alt="Voyagé le" /> {{ post.date_travel | localize: "%d %B %Y" | downcase }}
     {% else %}
-      <img src="/img/pencil2.png" title="Écrit le" alt="Écrit le" /> <img src="/img/airplane.png" title="Voyagé le" alt="Voyagé le" /> {{ post.date | localize: "%d %B %Y" }}
+      <img src="/img/pencil2.png" title="Écrit le" alt="Écrit le" /> <img src="/img/airplane.png" title="Voyagé le" alt="Voyagé le" /> {{ post.date | localize: "%d %B %Y" | downcase }}
     {% endif %}
     </span></dd>
     {% if post.tags != empty %}
