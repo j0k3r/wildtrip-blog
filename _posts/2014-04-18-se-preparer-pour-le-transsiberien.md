@@ -21,7 +21,7 @@ Tous les informations pour acheter les billets vont se trouver du point de vue d
 
 Il est bon de rappeler qu'il ne faut pas se pointer dans une gare russe et demander "un billet de train pour le Transsibérien", personne ne comprendra ce que vous voulez ...
 
->[Le Transsibérien](http://fr.wikipedia.org/wiki/Transsib%C3%A9rien) est une voie ferrée qui est souvent confondue avec les trains qui y circulent, qui portent pourtant des noms différents selon les destinations qu'ils desservent.
+>[Le Transsibérien](https://fr.wikipedia.org/wiki/Transsib%C3%A9rien) est une voie ferrée qui est souvent confondue avec les trains qui y circulent, qui portent pourtant des noms différents selon les destinations qu'ils desservent.
 
 On n'achète pas de billets pour le Transsibérien. On achète simplement des billets pour des trains qui circulent d'un point A à un point B. Généralement, on achète ses billets de train de gare en gare plutôt que tout d'un coup (sauf si on décide de faire le Transsibérien sans s'arrêter – aucun intérêt) ou qu'on passe par une agence qui vous préparera votre voyage aux petits oignons.
 
@@ -72,7 +72,7 @@ Je l'explique en détail dans un autre article, mais voilà en gros ce à quoi i
 
 Dès l'arrivée dans votre wagon, la _provodnista_ (hôtesse du train ou du wagon si vous préférez) vous fournira draps et serviettes. Vous pourrez aussi lui acheter de quoi manger mais c'est assez cher.
 
-Le point important c'est qu'il y a tout le temps un [samovar](http://fr.wikipedia.org/wiki/Samovar) dans votre wagon. Cela vous permettra de vous faire des nouilles chinoises quand vous avez faim et de vous faire du thé (penser à **prendre une tasse** et des sachets) quand vous aurez soif. L'eau est constamment à 90°C!
+Le point important c'est qu'il y a tout le temps un [samovar](https://fr.wikipedia.org/wiki/Samovar) dans votre wagon. Cela vous permettra de vous faire des nouilles chinoises quand vous avez faim et de vous faire du thé (penser à **prendre une tasse** et des sachets) quand vous aurez soif. L'eau est constamment à 90°C!
 
 Les trains russes (en tout cas en hiver) sont extrêmement bien chauffés. Il y fait même beaucoup trop chaud. Vous vous promènerais tout le temps en t-shirt, c'est garanti.
 

@@ -14,13 +14,13 @@ tags:
 excerpt: "<p>Vladimir est un arrêt obligatoire si l'on souhaite rejoindre la ville de Souzdal car il faut prendre un bus pour y aller.</p><p>Souzdal est une petite ville qui permet de remonter un peu dans le temps grâce ses nombreux joyaux architecturaux et son atmosphère champêtre !</p>"
 excerpt_image: https://farm4.staticflickr.com/3711/13865838725_6553f9104c_c.jpg
 ---
-Les différentes églises en brique rouge et autres cathédrales suffisent à remplir une journée de visite à [Vladimir](http://fr.wikipedia.org/wiki/Vladimir_%28ville%29). On passe notamment à côté de la cathédrale Saint-Dimitri, un bâtiment carré aux murs recouverts de magnifiques décors sculptés. Inutile de visiter l'église. L'art de la sculpture sur pierre de Vladimir / Souzdal a atteint ici son apogée.
+Les différentes églises en brique rouge et autres cathédrales suffisent à remplir une journée de visite à [Vladimir](https://fr.wikipedia.org/wiki/Vladimir_%28ville%29). On passe notamment à côté de la cathédrale Saint-Dimitri, un bâtiment carré aux murs recouverts de magnifiques décors sculptés. Inutile de visiter l'église. L'art de la sculpture sur pierre de Vladimir / Souzdal a atteint ici son apogée.
 
 Juste à côté, un long bâtiment jaune, appelé le Palais, abrite le musée d'histoire.
 
 {% flickr_photoset 72157643987183614 %}
 
-Nous sommes arrivés à Vladimir au milieu de la nuit. On a eu le temps de crapahuter toute la journée et le soir venu nous filions déjà vers [Souzdal](http://fr.wikipedia.org/wiki/Souzdal). Fait intéressant, nous dormions à [Alexeevsky Dom](http://www.booking.com/hotel/ru/alexeevsky-dom.html) qui proposait, entre autre, une connexion internet selon Booking (mais plus maintenant apparemment). En fait, la dame nous a tout simplement donné une carte SIM locale avec accès illimité 3G, intéressant !
+Nous sommes arrivés à Vladimir au milieu de la nuit. On a eu le temps de crapahuter toute la journée et le soir venu nous filions déjà vers [Souzdal](https://fr.wikipedia.org/wiki/Souzdal). Fait intéressant, nous dormions à [Alexeevsky Dom](http://www.booking.com/hotel/ru/alexeevsky-dom.html) qui proposait, entre autre, une connexion internet selon Booking (mais plus maintenant apparemment). En fait, la dame nous a tout simplement donné une carte SIM locale avec accès illimité 3G, intéressant !
 
 **Souzdal** donne vraiment l'impression d'une capitale médiévale et possède une atmosphère de conte de fées. Contournée par le Transsibérien puis protégée par le gouvernement, son développement a été limité pour garder tout le charme de cette ville.
 

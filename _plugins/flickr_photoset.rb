@@ -82,6 +82,9 @@ module Jekyll
     def generate_photo_data(photoset, flickrConfig)
       returnSet = Array.new
 
+      FlickRaw.secure = true
+      # force certificate validation to false to avoid error from https://github.com/j0k3r/jekyll-flickr-photoset/issues/2
+      FlickRaw.check_certificate = false
       FlickRaw.api_key       = ENV['FLICKR_API_KEY'] || flickrConfig['api_key']
       FlickRaw.shared_secret = ENV['FLICKR_SHARED_SECRET'] || flickrConfig['shared_secret']
       flickr.access_token    = ENV['FLICKR_ACCESS_TOKEN'] || flickrConfig['access_token']
@@ -90,7 +93,7 @@ module Jekyll
       begin
         flickr.test.login
       rescue Exception => e
-        raise "Unable to login, please check documentation for correctly configuring Environment Variables, or _config.yaml."
+        raise "Unable to login, please check documentation for correctly configuring Environment Variables, or _config.yml: #{e}"
       end
 
       begin
