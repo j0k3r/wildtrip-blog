@@ -10,6 +10,8 @@ tags:
 - sri lanka
 - polonnaruwa
 - anuradhapura
+- sigiriya
+- mihintale
 - cite
 excerpt: ""
 excerpt_image: https://farm8.staticflickr.com/7180/13845662633_6365e34316_c.jpg
@@ -20,6 +22,8 @@ excerpt_image: https://farm8.staticflickr.com/7180/13845662633_6365e34316_c.jpg
 # Anurâdhapura
 
 # Mihintale
+
+# Sigirîya
 
 # Pali
 0777457410

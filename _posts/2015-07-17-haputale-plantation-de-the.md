@@ -16,6 +16,6 @@ excerpt: ""
 excerpt_image: https://farm8.staticflickr.com/7180/13845662633_6365e34316_c.jpg
 ---
 
-# Uppuveli & Trincomalee
+# Haputale
 
-# Arugam bay
+# Ella
