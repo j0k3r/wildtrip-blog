@@ -15,7 +15,7 @@ excerpt_image: https://farm8.staticflickr.com/7010/13847244445_7ecc037ee4_c.jpg
 
 Une des curiosités de Krasnoyarsk, c'est son immense barrage. Le deuxième plus puissant de Russie (il génère 6.000 MKwat). La particularité de ce barrage est l'énorme élévateur oblique, le plus gros du monde, qui permet de faire passer un bateau d'un côté à l'autre (et des gros bateaux de ~8.000 tonnes). Il est gigantesque!
 
-Il se distingue aussi par ses leveurs de vannes qui permettent de laisser passer l'eau du barrage. La question à 1000 roubles : à quoi cela vous font-ils penser? Aux grands robots dans Star Wars, évidemment. La ressemblance avec les robots [AT-AT](http://fr.wikipedia.org/wiki/TB-TT) dans l'Empire Contre-Attaque est frappante !
+Il se distingue aussi par ses leveurs de vannes qui permettent de laisser passer l'eau du barrage. La question à 1000 roubles : à quoi cela vous font-ils penser? Aux grands robots dans Star Wars, évidemment. La ressemblance avec les robots [AT-AT](https://fr.wikipedia.org/wiki/TB-TT) dans l'Empire Contre-Attaque est frappante !
 
 Ce grand barrage retient un immense lac qui est complètement gelé en hiver. Une route est même régulièrement empruntée par les voitures pour traverser le lac.
 
@@ -29,7 +29,7 @@ Nous sommes allés assister à l’autre attraction de la ville : le coup de can
 
 Anatoliy propose aussi [une dacha](http://www.sibtourguide.com/tours/russian_dacha_experience/) pour passer la nuit. La dacha c'est une sorte de chalet typiquement russe.
 
->C'est considéré comme une sorte de résidence secondaire à la campagne. – [_Wikipedia_](http://fr.wikipedia.org/wiki/Datcha)
+>C'est considéré comme une sorte de résidence secondaire à la campagne. – [_Wikipedia_](https://fr.wikipedia.org/wiki/Datcha)
 
 Construit en bois, la dacha que possède Anatoliy est en retrait de la ville au milieu d'un jardin. Sans électricité, avec un chauffage d'appoint (pas encore assez froid pour utiliser le poêle) et avec les 5°C dehors, les couettes sont les bienvenues. En tout cas, on est au calme et une fois la bougie éteinte, dans le noir total.
 

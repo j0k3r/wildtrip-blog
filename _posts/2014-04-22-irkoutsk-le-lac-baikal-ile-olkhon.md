@@ -22,7 +22,7 @@ Irkoutsk est une petite ville presque au bord du lac Baïkal. Elle est typiqueme
 
 Une particularité que nous remarquons rapidement, les maisons semblent enfoncées dans le sol. Certainement dû au fait que les routes ont été refaites plusieurs fois, les ré-haussant à chaque fois et engloutissant les maisons aux abords. En plus de ça, elles sont toutes de traviole !
 
-A noter que l'héraldique de la ville est assez étrange voire dérangeante: elle représente un tigre de Sibérie tenant dans sa bouche une [zibeline](http://fr.wikipedia.org/wiki/Zibeline). Irkoutsk étant en Sibérie, c'est pour cela qu'ils ont choisi le tigre et la zibeline était au Moyen Âge la principale source de fourrure de Russie.
+A noter que l'héraldique de la ville est assez étrange voire dérangeante: elle représente un tigre de Sibérie tenant dans sa bouche une [zibeline](https://fr.wikipedia.org/wiki/Zibeline). Irkoutsk étant en Sibérie, c'est pour cela qu'ils ont choisi le tigre et la zibeline était au Moyen Âge la principale source de fourrure de Russie.
 
 A Irkoutsk, on est resté quelques nuits chez [Baikaler](http://baikaler.com/). Il propose des excursions, des dortoirs mais aussi des chambres chez l'habitant, souvent plus rentable. Ça permet aussi de découvrir l'intérieur des maisons.
 

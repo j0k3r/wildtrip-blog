@@ -21,7 +21,7 @@ De temps en temps, on croisait un passage à niveau. Et à chaque fois, une pers
 
 Mais l'épisode le plus marquant à bord du train (le deuxième étant la 3ème classe), restera sans aucun doute les 60h de train entre Krasnoyarsk et Vladimir (puis Souzdal), soit 4.000km. Pour vous donner un ordre d'idée de ce trajet qui traverse toute la Sibérie, voilà rapidement ce que raconte Google Map:
 
-![Krasnoyarsk → Vladimir](http://f.cl.ly/items/0g463r111N2b1c3e0x28/Image%202014-04-25%20at%2010.29.29%20PM.png)
+![Krasnoyarsk → Vladimir](https://i.imgur.com/tYNSxT3.jpg)
 
 Comme je le disais en introduction, c'est un trajet que n'importe qui, sans l'avoir vécu, imaginerait comme interminable et terriblement ennuyeux.
 

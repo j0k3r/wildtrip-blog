@@ -10,7 +10,7 @@ paginate: 5
 
 future: false
 
-prod_url: http://blog.wildtrip.net
+prod_url: https://blog.wildtrip.net
 
 flickr:
   cache_dir:        ./_cache/flickr

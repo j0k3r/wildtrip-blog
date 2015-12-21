@@ -41,7 +41,7 @@ Nous sommes arrivés le soir, impossible donc de voir la ville mais on a pu appr
 
 Je me suis levé plus tôt le lendemain pour monter un peu sur une colline voisine du campement et ainsi me faire une idée de cette ancienne capitale avec en arrière-fond un magnifique lever de soleil. Aucune brume, aucune pollution pour gâcher le paysage !
 
-Ensuite, nous avons visité le monastère [Erdene Zuu](http://fr.wikipedia.org/wiki/Erdene_Zuu), un des hauts lieux religieux de Mongolie. Il est entouré de 108 stupas, c'est assez impressionnant et vaste. On a même la chance de croiser quelques locaux, plutôt d'un style “mongol cow-boy” :)
+Ensuite, nous avons visité le monastère [Erdene Zuu](https://fr.wikipedia.org/wiki/Erdene_Zuu), un des hauts lieux religieux de Mongolie. Il est entouré de 108 stupas, c'est assez impressionnant et vaste. On a même la chance de croiser quelques locaux, plutôt d'un style “mongol cow-boy” :)
 
 Puis on a roulé vers les fameuses dunes de sable qui se trouvent sur le chemin du retour. C'est assez dingue parce que tous les paysages sont recouverts d'arbustes et là, planté au beau milieu de tout ça, un champ d'immenses dunes à perte de vue.
 
@@ -64,7 +64,7 @@ On y retrouve un petit autel, une petite table faisant office de coiffeuse avec 
 
 ###Jour 4: Khustai National Park
 
-Ce parc a été créé pour la protection du _takhi_, le [cheval de Przewalski](http://fr.wikipedia.org/wiki/Cheval_de_Przewalski), une race de chevaux sauvages, jamais domestiqué par l'homme. C'est un des rares endroits dans le monde où on peut en apercevoir dans la nature. Et on a pu en voir, certes d'assez loin, mais on les a vu galoper!
+Ce parc a été créé pour la protection du _takhi_, le [cheval de Przewalski](https://fr.wikipedia.org/wiki/Cheval_de_Przewalski), une race de chevaux sauvages, jamais domestiqué par l'homme. C'est un des rares endroits dans le monde où on peut en apercevoir dans la nature. Et on a pu en voir, certes d'assez loin, mais on les a vu galoper!
 
 Mon petit plaisir, comme chaque matin en Mongolie, c'était de me lever assez tôt, monter en haut de la colline la plus proche et admirer le lever du soleil peindre la vallée de couleurs orangées. J'ai même croisé un cavalier solitaire un matin, qui venait de je ne sais où. Moment assez surréaliste !
 
