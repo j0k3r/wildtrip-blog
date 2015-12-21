@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/hanklords/flickraw.git
+  revision: 5b4ccde45df8565e6ef0e440c59cfaaa2e10682d
+  specs:
+    flickraw (0.9.8)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -20,7 +26,6 @@ GEM
     fastimage (1.6.8)
       addressable (~> 2.3, >= 2.3.5)
     ffi (1.9.8)
-    flickraw (0.9.8)
     hike (1.2.3)
     hitimes (1.2.2)
     httpclient (2.6.0.1)
@@ -111,7 +116,7 @@ PLATFORMS
 
 DEPENDENCIES
   algoliasearch (~> 1.4.2)
-  flickraw (~> 0.9.8)
+  flickraw!
   i18n (~> 0.7.0)
   jekyll (~> 2.5.0)
   jekyll-assets (~> 0.14.0)
