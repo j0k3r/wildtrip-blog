@@ -186,6 +186,10 @@ blockquote {
   height: 1.9rem;
 }
 
+.content p {
+  font-size: 1.2rem;
+}
+
 /**
  * FOOTER
  */
