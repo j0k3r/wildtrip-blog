@@ -55,7 +55,7 @@ tag_location:
     points: "[106.907272, 47.921720]"
   srilanka:
     points: "[80.661934, 7.682562]"
-    zoom: 10
+    zoom: 7
 
 #
 # Plugin: jekyll-assets
