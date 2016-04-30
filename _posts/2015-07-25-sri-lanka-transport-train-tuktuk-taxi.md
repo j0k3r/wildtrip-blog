@@ -57,12 +57,13 @@ Et si vous êtes perdu, il y aura toujours un Sri Lankais pour vous indiquer que
 Dans le bus, on peut aussi s'acheter des snacks et des fruits! C'est vraiment chouette d'être au contact des gens et ça permet de discuter, d'échanger, de voir les enfants dans leur uniforme impeccablement blanc aller à l'école...
 
 **À savoir** :
+
 - Si vous le pouvez, prenez le premier bus (souvent vers 6h), ainsi vous êtes surs de faire une partie du trajet au frais!
 - Les places justes derrière le chauffeur sont réservées aux moines
 - Vos gros sacs à dos iront souvent dans la toute petite soute à l'arrière du bus, faites bien attention à ce qu'elle ferme à clé.
 - Si vous prenez un bus sur le bord de la route, n'essayez pas de payer tout de suite, installez-vous et on viendra vous voir.
 - Essayez toujours de prendre une fenêtre sinon vous risquez de mourir de chaud
-- Et dans le bus gardez bien vos affaires à vos pieds pour ne pas vous les faire voler (même si vous suggère le contraire)
+- Et dans le bus gardez bien vos affaires à vos pieds pour ne pas vous les faire voler (même si on vous suggère le contraire)
 
 {% flickr_photoset 72157664895692070 %}
 
