@@ -58,7 +58,27 @@ Sur notre route, le conducteur de confession catholique a été super fier de no
 {% flickr_photoset 72157664758348599 %}
 
 # Infos pratiques
-- Train
-- Logement
-- Tuktuk
-- Restaurant
+
+#### Train
+
+On a pris le train d'Anurâdhapura à Jaffna :
+
+- Durée du trajet: 4h
+- Prix: ~300rs
+
+#### Logement
+
+[Theresa Inn](http://www.theresainnjaffna.com/), les prix sont assez bas et, même si le proprio est un peu rustre, il est vraiment réglo !
+
+#### Tuktuk
+
+Via Therese Inn, vous pouvez louer un tuktuk pour une journée pour faire le tour de la région. Vous payez au kilomètre (on a fait 154km)
+
+#### Bus
+
+Pour aller aux îles à l'ouest de Jaffna, il faut prendre un bus direction *Kurrikaduwan* (72Rs/pers), puis un bateau au terminus (30Rs/pers), _claustrophobe_ s'abstenir ...
+
+#### Restaurants
+
+ - [Mangos](http://4sq.com/q0I5GX): un restaurant pas trop loin de notre hôtel qui a été notre cantine pendant tout notre séjour à Jaffna. Delicieux lime juice.
+ - [Rio Icecream Parlour](http://4sq.com/hQ6Q0t): un magasin de glaces, il est souvent blindé par les locaux tellement il est bon !

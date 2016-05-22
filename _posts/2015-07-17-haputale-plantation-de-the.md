@@ -51,7 +51,22 @@ Une fois en bas, c'est l'occasion de visiter l'usine de traitement des feuilles 
 {% flickr_photoset 72157664894791650 %}
 
 # Infos pratiques
-- hotel
-- trajet
-- parc
-- DAB
+
+#### Hotels
+
+ - [Leisure Mount View Holiday Inn](http://4sq.com/nVN2NR), à Haputale. En hauteur par rapport au petit village, vous avez une vue superbe sur les plantations de thé. Le gérant, Ashan, est aux petits oignons !
+ - [Little Folly](http://4sq.com/NNh57R), à Ella. Si vous voulez être un peu en retrait par rapport à la foule de touriste d'Ella, cet endroit n'est pas trop mal.
+
+#### Trajet
+
+Pour rejoindre Haputale depuis Arugam Bay, c'est un peu la mission:
+
+ - Prendre un bus depuis Pottuvil pour Wellawaya (y'a un départ vers 6h du mat')
+ - Changer pour un bus vers Ella
+ - Une fois à Ella, marcher (ça monte un peu) jusqu'à la gare ferroviaire
+ - Prenez le premier train qui passe vers Haputale (25Rs en 3e classe)
+
+#### DAB / ATM
+
+Faites bien attention à avoir du cash avec vous quand vous allez dans cette région. Par exemple, à Ella **il n'y a qu'un seul ATM**, le plus proche est à plusieurs kilomètres.
+Quand on y était, il était justement en panne (mais en instance de réparation), on a donc été bloqué plusieurs heures avant de pouvoir retirer ...

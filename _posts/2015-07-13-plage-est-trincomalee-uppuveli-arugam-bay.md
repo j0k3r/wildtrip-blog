@@ -50,7 +50,22 @@ Et tout au bout de la plage, c'est le coin des surfeurs. Le vrai coin. Là où l
 {% flickr_photoset 72157664894791760 %}
 
 # Infos pratiques
-- Logement
-- Tuktuk
-- Potuvil
-- Restaurant
+
+Si vous voulez rejoindre Arugam Bay depuis Jaffna, il faut prendre un bus direction Kalmunai (de mémoire, le bus 76), de là, prendre un autre bus pour Pottuvil (la ville _carrefour_ d'Arugam Bay). Une fois à Pottuvil, prenez un tuktuk pour rejoindre votre hôtel.
+
+#### Logements
+
+- [French garden](http://4sq.com/17xiBpA), à Uppuveli. Une adresse qu'on a trouvé dans le Routard. Demandez un bungalow face à la mer, vous aurez une vue de dingue.
+- [Stay Golden](http://4sq.com/124hhJA), à Arugam Bay. Très chouette petite cabane géré par Rihan. Restautant cool et accès direct sur la plage.
+
+#### Tuktuk
+
+Pour rejoindre Pottuvil depuis Arugam Bay vous devez prendre un tuktuk, le mec de l'hôtel nous avait dit que c'était 250Rs mais on a toujours réussi à les avoir à 150Rs.
+
+#### Pottuvil
+
+Mise à part que l'on trouve plein d'ATMs et un marché, Pottuvil est surtout le point de départ de tous les bus régionaux, aucun bus ne part d'Arugam Bay.
+
+#### Restaurant
+
+Au sud d'Arugam Bay, en prenant la route principale, vous tomberez sur une auberge / restaurant _Meena's_ (juste dans le virage). Les proprios sont super cool et on y mange super bien (et copieusement).
