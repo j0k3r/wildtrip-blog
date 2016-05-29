@@ -25,7 +25,7 @@ A notre arrivée, il faisait un temps bien menaçant. La pluie tombe par averses
 
 Le côté top de ce passage à Tangalle, c'était notre hôtel et surtout notre "chambre". Elsa a trouvé un cabane en haut d'un arbre en face de la plage. On y accède par une échelle certes bancale, une première petite pièce avec le lit et au fond, un peu en contre bas, la douche et les toilettes en (presque) dur. Le lieu est top. Par contre, avec la mer déchaînée jour et nuit, c'est pas simple de dormir la nuit (surtout quand Elsa pense qu'un tsunami peut arriver pendant la nuit, mais c'est peut-être une idée que je lui ai mise dans la tête :)).
 
-Notre hôtel Cinnabar était une petite pépite: du thé à volonté tout au long de la journée, des p'tits dej' ultra copieux et des repas de poissons / crustacés frais. Un régal.
+Notre hôtel [Cinnabar](http://4sq.com/1ddH6sR) était une petite pépite: du thé à volonté tout au long de la journée, des p'tits dej' ultra copieux et des repas de poissons / crustacés frais. Un régal.
 
 A noter que c'est ici que j'ai pris mes premières photos de nuits du voyage et j'avoue être assez content du rendu. Les couchers de soleil étaient magnifiques aussi!
 
@@ -51,4 +51,6 @@ On a pas tellement envie de cautionner ce genre de chose ni de prendre en photo 
 
 {% flickr_photoset 72157664775263969 %}
 
-CONCLUSION A FAIRE SUR LE SUD
+Au final, le sud en cette saison est encore agréable. Le soleil n'est pas omniprésent mais il fait suffisamment bon pour se baigner. Attention tout de même aux orages (plutôt en fin de journée) : quand il se mets à pleuvoir, c'est la douche.
+
+Notre passage à Tangalle était vraiment superbe. Le fait d'avoir l'hôtel au bord de la mer, ça change complètement la vie.
