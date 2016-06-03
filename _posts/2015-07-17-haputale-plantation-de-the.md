@@ -34,9 +34,9 @@ Vous aurez p'tet la chance de croiser des cerfs locaux, bien enrobés de leur fo
 {% flickr_photoset 72157664894791680 %}
 
 # Lipton's seat et les plantations de thés
-Grande attraction des plantations de thé, aller voir le lieu préféré de Sir Lipton quand il prenait son thé le matin très tôt. Et effectivement, il faut mieux y arriver tôt si on veut pouvoir apprécier la vue d'en haut. Ce que nous n'avons pas fait mais au final, la vue sur les plantations et la re-descente vers la ville vaut suffisamment le coup pour le faire dans l'après-midi. Là encore, tout est question de chance et de météo. N'oublions pas que le thé adore l'humidité...
+Grande attraction des plantations de thé, aller voir le lieu préféré de Sir Lipton quand il prenait son thé le matin très tôt. Et effectivement, il vaut mieux y arriver tôt si on veut pouvoir apprécier la vue d'en haut. Ce que nous n'avons pas fait mais au final, la vue sur les plantations et la re-descente vers la ville vaut suffisamment le coup pour le faire dans l'après-midi. Là encore, tout est question de chance et de météo. N'oublions pas que le thé adore l'humidité...
 
-Une fois déposés au sommet par le chauffeur de tuktuk, on a pu distinguer toutes les plantations de chaque côté. Une sacré vue à 360°! La descente se fait tranquillement par la même route et ça permet de croiser pas mal de cueilleuses de thés au travail. Ceux sont uniquement des femmes, les contre-maîtres et les chauffeurs sont des hommes. Historiquement et c'est toujours principalement le cas, ce sont des Sri-Lankais Tamouls qui travaillent dans les plantations. Emmenés par les Britanniques du sud de l'Inde, ils sont restés.
+Une fois déposés au sommet par le chauffeur de tuktuk, on a pu distinguer toutes les plantations de chaque côté. Une sacré vue à 360°! La descente se fait tranquillement par la même route et ça permet de croiser pas mal de cueilleuses de thés au travail. Ceux sont uniquement des femmes, les contre-maîtres et les chauffeurs sont des hommes. Historiquement, et c'est toujours principalement le cas, ce sont des Sri-Lankais Tamouls qui travaillent dans les plantations. Emmenés par les Britanniques du sud de l'Inde, ils sont restés.
 
 {% flickr_photoset 72157664894791670 %}
 

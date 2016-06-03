@@ -14,7 +14,7 @@ tags:
 - mihintale
 - dambulla
 - cite
-excerpt: "<p>Nous débutons notre découverte de l’ancien Ceylan par le triangle culturel pour ensuite pousser notre voyage au Nord vers Jaffna. Le centre de l’île est son coeur historique et abrite ses grandes anciennes capitales.</p><p>Un triangle est formé des villes de <b>Kandy</b>, <b>Anuradhapura</b> et <b>Polonnaruwa</b>. Des villes enfouies dans la jungle, des éléphants, des dagobas blanches et des bouddhas magnifiques nous attendent.</p>"
+excerpt: "<p>Nous débutons notre découverte de l’ancien Ceylan par le triangle culturel pour ensuite pousser notre voyage au Nord vers Jaffna. Le centre de l’île est son coeur historique et abrite ses grandes anciennes capitales.</p><p>Un triangle est formé des villes de <b>Kandy</b>, <b>Anurâdhapura</b> et <b>Polonnaruwa</b>. Des villes enfouies dans la jungle, des éléphants, des dagobas blanches et des bouddhas magnifiques nous attendent.</p>"
 excerpt_image: https://c2.staticflickr.com/2/1542/25415951651_c4758288fb_c.jpg
 ---
 
@@ -22,9 +22,9 @@ excerpt_image: https://c2.staticflickr.com/2/1542/25415951651_c4758288fb_c.jpg
 
 Nous quittons Colombo pour notre premier voyage en train et destination **Kandy**. C’est le début de l’aventure et le train est top avec ses jolies peintures turquoises et rouges, les portes des wagons ouvertes pour admirer les montagnes, la vue...
 
-Kandy est l’ancienne capitale des rois cinghalais perchée à 500 m d’altitude. Il y fait déjà plus frais. Les guides s’emballent sur la ville et c’est vrai que c’est sympa de s’y balader, de voir la façon de vivre sri lankaise, mais ça reste une ville moderne et je pense qu’une journée suffit. Un super souvenir, le Kandyan Muslim Hotel, un resto sans chi-chi et savoureux! On flâne ensuite autour du grand lac de la ville, avec ses [flamboyants](https://fr.wikipedia.org/wiki/Delonix_regia) et ses énormes lézards!!
+Kandy est l’ancienne capitale des rois cinghalais perchée à 500 m d’altitude. Il y fait déjà plus frais. Les guides s’emballent sur la ville et c’est vrai que c’est sympa de s’y balader, de voir la façon de vivre sri lankaise, mais ça reste une ville moderne et je pense qu’une journée suffit. On flâne ensuite autour du grand lac de la ville, avec ses [flamboyants](https://fr.wikipedia.org/wiki/Delonix_regia) et ses énormes lézards!!
 
-Nous attendons 18h pour aller au Temple de la dent de Bouddha et assister à la poya, cérémonie religieuse bouddhiste et nous avons raison car c’est vraiment un moment très touchant et beau à la lumière des bougies. C’est un très grand temple avec tout plein de bâtiments, de pierres de lune (zone d’accueil en demi lune, gravée, à l’entrée des temples), du reliquaire de la dent… Les gens se pressent, élégamment vêtus pour faire des offrandes de fleurs de lotus. C’est un moment de dévotion mais aussi un peu touristique car certains n’ont aucun scrupule à déranger les croyants pour prendre des photos… Le lieu nous a surtout emballé pour la cérémonie et ce moment spécial.
+Nous attendons 18h pour aller au **Temple de la dent de Bouddha** et assister à la poya, cérémonie religieuse bouddhiste et nous avons raison car c’est vraiment un moment très touchant et beau à la lumière des bougies. C’est un très grand temple avec tout plein de bâtiments, de pierres de lune (zone d’accueil en demi lune, gravée, à l’entrée des temples), du reliquaire de la dent… Les gens se pressent, élégamment vêtus pour faire des offrandes de fleurs de lotus. C’est un moment de dévotion mais aussi un peu touristique car certains n’ont aucun scrupule à déranger les croyants pour prendre des photos… Le lieu nous a surtout emballé pour la cérémonie et ce moment spécial.
 
 Avant de sauter dans notre bus le lendemain, on décide de faire l’aller-retour avec un tuktuk, pour visiter le jardin botanique de Kandy. C’est immense, on s’y perd, on croise le *cactus garden*, le *spices garden*, la palmeraie, des mariés trop beaux prenant la pose et des tonnes de chauves souris. Un super moment délicieux et détente.
 
@@ -32,7 +32,7 @@ Avant de sauter dans notre bus le lendemain, on décide de faire l’aller-retou
 
 # Dambulla
 
-De là hop dans un bus pour rejoindre **Dambulla** et faire la connaissance de Pali, chauffeur de tuktuk et guide, avec qui nous décidons de visiter le triangle culturel. Il nous a été chaudement recommandé par des amis et effectivement, il est parfait!
+De là, hop dans un bus pour rejoindre **Dambulla** et faire la connaissance de *Pali*, chauffeur de tuktuk et guide, avec qui nous décidons de visiter le triangle culturel. Il nous a été chaudement recommandé par des amis et effectivement, il est parfait!
 
 C’est le point de départ de notre balade de trois jours et on commence, habillés de nos sarongs indonésiens, la visite des grottes (Golden Temple du nom  d’un temple très neuf et kitch à l’entrée…). On croise sur le chemin plein de petits singes (fil rouge des temples sri lankais) et nous voilà aux grottes qui abritent des fresques magnifiques et surtout de très beaux bouddhas dont un impressionnant bouddha couché, aux pieds ornés de fleurs de lotus. 
 
@@ -62,7 +62,7 @@ Sur le chemin du retour, on va guetter les éléphants avec Pali et ainsi sauter
 
 # Anurâdhapura
 
-Nous partons le lendemain pour **Anuradhapura** avec Pali, qui nous y laissera car nous continuons vers le Nord et nous prendrons un train pour Jaffna. Anuradhapura est la ville sainte du bouddhisme cinghalais et sera la capitale de l’île jusqu’au XIème siècle. Certes, elle est moins bien conservée que Polonnaruwa, mais sur les bons conseils de Pali, nous y allons à la fin d’après-midi, surtout pour voir la poya de fin de journée et la ferveur spirituelle qui s’en dégage est très belle.
+Nous partons le lendemain pour **Anurâdhapura** avec Pali, qui nous y laissera car nous continuons vers le Nord et nous prendrons un train pour Jaffna. Anuradhapura est la ville sainte du bouddhisme cinghalais et sera la capitale de l’île jusqu’au XIème siècle. Certes, elle est moins bien conservée que Polonnaruwa, mais sur les bons conseils de Pali, nous y allons à la fin d’après-midi, surtout pour voir la poya de fin de journée et la ferveur spirituelle qui s’en dégage est très belle.
 
 Ici, ce que nous avons trouvé de plus beaux se sont les dagobas. Ils sont juste énormes, en briques, blancs… C’est époustouflant car ils se dégagent tellement bien entre le ciel bleu, la forêt et le lac. Les fidèles arrivent tout en blanc, les bras plein de plateaux avec des fleurs de lotus, des bougies… Ils vont pour certains d’abord vers le Sri Maha Bodhi Tree, allument les bougies et puis vont prier vers le dagoba Abhayagiri (haute de 75m), dont la base est entourée d’une ceinture aux couleurs du bouddhisme chaque soir par des moines. En effet, le dagoba est censé abriter la ceinture de Bouddha, du coup chaque soir, il a droit à une nouvelle ceinture offerte par les fidèles, qui sera enlevée dans la nuit avant une nouvelle le lendemain. C’est assez hypnotique et j’avoue que nous serions bien embêtés si nous devions choisir entre une de ces deux villes, car c’est vrai que les prix d’entrée sont assez hauts...
 
@@ -91,5 +91,5 @@ Notre chauffeur, *Pali*, était topissime. Il parle bien anglais et répond auss
 
 #### Restaurant
 
-À Kandy: [Kandyan Muslim Hotel](https://www.tripadvisor.fr/Restaurant_Review-g304138-d2703089-Reviews-Kandyan_Muslim_Hotel-Kandy_Central_Province.html): c'est le restaurant dont on a parlé dans cet article, excellent.
+À Kandy: [Kandyan Muslim Hotel](https://www.tripadvisor.fr/Restaurant_Review-g304138-d2703089-Reviews-Kandyan_Muslim_Hotel-Kandy_Central_Province.html): un super souvenir, le Kandyan Muslim Hotel, un resto sans chi-chi et savoureux! 
 
