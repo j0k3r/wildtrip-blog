@@ -188,6 +188,11 @@ blockquote {
 
 .content p, .content ul {
   font-size: 1.2rem;
+  text-align: justify;
+}
+
+p.pagination-centered, ul.pagination {
+  text-align: center;
 }
 
 /**

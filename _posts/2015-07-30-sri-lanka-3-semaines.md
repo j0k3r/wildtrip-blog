@@ -11,7 +11,7 @@ tags:
 - resume
 - quoi faire
 excerpt: "<p>Le Sri Lanka n'est pas un grand pays. Il est facile d'en faire le tour tout en voyant beaucoup de choses en seulement 3 semaines. La plus part des guides vous indiqueront de faire le tour de l'île dans le sens contraire des aiguilles d'une montre mais nous l'avons fait dans le sens inverse.</p><p>Voilà donc notre parcours un peu détaillé pour 3 semaines au Sri Lanka.</p>"
-excerpt_image: https://farm8.staticflickr.com/7180/13845662633_6365e34316_c.jpg
+excerpt_image: https://i.imgur.com/N0HTcW2.jpg
 ---
 Comme le montre bien la carte, nous avons fait le tour du Sri Lanka de cette façon : ouest → centre → nord → est → centre → sud → ouest.
 
