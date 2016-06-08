@@ -49,6 +49,8 @@ Cette espèce de mafia / business qui s’est montée est presque malsain. Les 4
 
 On n'a pas tellement envie de cautionner ce genre de chose ni de prendre en photo des faux pêcheurs... On n’aurait pas été contre prendre de VRAIS pêcheurs en photo, en train de travailler et de leur donner un peu d’argent s’ils nous l’avaient demandé. Mais là ...
 
+> Evidemment, il suffit que je parle de ça pour que le National Geographic poste [une superbe photo de VRAIS pêcheurs perchés](https://www.instagram.com/p/BGXfiZOIVQE/) (mais pas dans le même coin que nous).
+
 {% flickr_photoset 72157664775263969 %}
 
 Au final, le sud en cette saison est encore agréable. Le soleil n'est pas omniprésent mais il fait suffisamment bon pour se baigner. Attention tout de même aux orages (plutôt en fin de journée) : quand il se mets à pleuvoir, c'est la douche.

@@ -36,7 +36,7 @@ En se baladant, on a remarqué que les habitants de Jaffna étaient particulièr
 {% flickr_photoset 72157664758348639 %}
 
 # La culture tamoule
-Les Tamouls vivent principalement dans le sud de l'Inde et dans le nord du Sri Lanka.  Les Tamouls sont principalement hindous, mais comptent d'importantes minorités chrétiennes et musulmanes.
+Les Tamouls vivent principalement dans le sud de l'Inde et dans le nord du [Sri Lanka](/tag/srilanka).  Les Tamouls sont principalement hindous, mais comptent d'importantes minorités chrétiennes et musulmanes.
 
 {% flickr_photoset 72157664758348669 %}
 
