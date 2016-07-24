@@ -15,68 +15,80 @@ excerpt_image: https://i.imgur.com/N0HTcW2.jpg
 ---
 Comme le montre bien la carte, nous avons fait le tour du Sri Lanka de cette façon : ouest → centre → nord → est → centre → sud → ouest.
 
-# L'ouest
-
-> Disons 1 jour (une nuit)
+# Jour 1 : arrivée à Colombo.
 
 Vous arrivez à **Colombo** que vous pouvez éviter sans scrupule, la ville n'est pas belle et polluée.
 
-Passez la première nuit sur place (pas trop loin de la gare si possible) et sautez dans un train pour **Kandy** (le trajet est magnifique, mettez vous du **côté droit du train** et squatter une porte extérieure pour la vue).
+Passez la première nuit sur place (pas trop loin de la gare si possible) et sautez dans le premier train pour **Kandy** (le trajet est magnifique, mettez vous du **côté droit du train** et squattez une porte extérieure pour la vue).
 
-# Au centre
+# Jour 2/3 : Kandy
 
-> Disons 2 jours (une nuit)
+> **Kandy** peut se voir en une journée, pas la peine de "*sentir l'atmosphère pendant 2/3 jours*" comme le dit le Routard.
 
-**Kandy** peut se voir en une journée, pas la peine de "*sentir l'atmosphère pendant 2/3 jours*" comme le dit le Routard.
+- Essayez d'aller à la Poya de 18h (la prière du soir, beaucoup de monde y va) au temple de la Dent de Bouddha. Ca vaut le détour.
+- Vous pouvez faire un tour dans le jardin botanique. Quittez Kandy dans l'après-midi.
 
-Essayez d'aller à la Poya de 18h (la prière du soir, beaucoup de monde y va) au temple de la Dent de Buddha. Ca vaut le détour.
+# Jour 4/5/6 : le triangle culturel
 
-> 4 jours
+> Un peu plus au nord de Kandy, faites le triangle culturel, composé de [Kandy, Anurâdhapura et Polonnaruwa](/polonnaruwa-anuradhapura-mihintale/).
+> Vous pouvez le faire accompagné d'un tuktuk et de son chauffeur / guide. Pour ça, nous vous recommandons Pali (+947 77 45 74 10) qui parle très bien anglais. Vous pouvez lui envoyer des textos et lui dire que vous l'appelez de la part d'Elsa et Jérémy.
 
-Un peu plus au nord de Kandy, faites le triangle culturel, composé de [Kandy, Anurâdhapura et Polonnaruwa](/polonnaruwa-anuradhapura-mihintale/).
+- Rejoignez ensuite **Dambulla**
+- Le lendemain, reveillez-vous tôt pour aller voir **Sigiriya** à la fraiche et surtout sans les touristes. L'après-midi, promenez-vous sous le soleil de plomb dans les ruines de **Polonnaruwa**.
+- Le sur-lendemain, remontez vers **Anuradhapura** et visiter aussi les ruines. Vous pouvez faire un saut à **Minhintale** aussi.
 
-Vous pouvez le faire accompagné d'un tuktuk et de son chauffeur / guide. Pour ça, nous vous recommandons Pali (+947 77 45 74 10) qui parle très bien anglais. Vous pouvez lui envoyer des textos et lui dire que vous l'appelez de la part d'Elsa et Jérémy.
+# Jour 7/8 : Jaffna
 
-# Le nord
+> Nous avons adoré Jaffna ! Avec toute [la culture tamoule](/ile-jaffna-nord-sri-lanka-tamoul) (très différente du reste du Sri Lanka), les temples très colorés et l'absence de touristes.
 
-> 3 jours
+- prenez une journée complète pour faire le tour des îles de Jaffna ainsi que sa région
+- et aussi une autre journée pour faire les alentours de Jaffna
 
-Nous avons adoré Jaffna ! Avec toute [la culture tamoule](/ile-jaffna-nord-sri-lanka-tamoul) (très différente du reste du Sri Lanka), les temples super kitchs et l'absence de touriste.
+# Jour 9/10 : de la palge à Uppuveli
 
-# A l'est
+> [Uppuveli](/plage-est-trincomalee-uppuveli-arugam-bay) est super pour se baigner mais faites attention à la saison (c'est top Juillet / Aout, mais pas terrible en Janvier/ Février).
 
-> 3 jours
+Quittez Jaffna en bus pour rejoindre **Trincomalee** et Uppuveli un poil plus au nord.
 
-[Uppuveli](/plage-est-trincomalee-uppuveli-arugam-bay) est super pour se baigner mais faites attention à la saison (c'est top Juillet / Aout, mais pas terrible en Janvier/ Février).
+# Jour 11/12 : du surf à Arugam Bay
 
-Plus au sud mais toujours à l'est, vous pouvez aller à Arugambay, spot de surf bien sympa pour les grosses vagues et la baignade.
+> Plus au sud, vous pouvez aller à **Arugam Bay**, spot de surf bien sympa pour les grosses vagues et la baignade.
 
-# Retour au centre
+Le bus depuis Trincomalee n'est pas direct, il vous faudra faire un changement à _Kalmunai_.
 
-> 3 jours
+# Jour 13/14/15 : les plantations de thé
 
-[Haputale](/haputale-plantation-de-the) pour les plantations de thé (essayer d'y dormir c'est plus joli qu'Ella).
+> [Haputale](/haputale-plantation-de-the) pour les plantations de thé (essayer d'y dormir c'est plus joli qu'Ella).
 
-Vous pouvez éviter Nuwara Elyia, c'est pas terrible et on a eu un sacré temps de chiotte quand on y était.
+Pour rejoindre Haputale depuis Arugam bay, c'est plutôt complexe mais faisable.
 
-Ella, comme je le dit dans l'article, c'est bien pour des balades mais c'est bouffé par les touristes et ça perd tout son charme ...
+- partez tôt (vers 5h30) de Pottuvil
+- vous changerez de bus juste après Monaragala pour Ella
+- à Ella, remontez l'unique rue qui traverse la ville jusqu'à la gare, vous aurez p'tet le train de 11h pour Haputale
+
+Et ensuite, sur place :
+
+- Vous pouvez éviter Nuwara Elyia, c'est pas terrible et on a eu beaucoup de pluie quand on y était.
+- Ella, comme je le dis dans l'article, c'est bien pour des balades mais c'est envahi par les touristes et ça perd un peu de son charme ...
+- Profitez-en pour voir Horton's plain et le Lipton's seat
 
 *Nous n'avons pas fait Adam's peak parce que ce n'est pas du tout la bonne saison en juillet pour le faire (la brume est quasiment omniprésente).*
 
-# Le sud
+# Jour 16/17 : le sud et d'autres plages
 
-> 3 jours
+> Vous apprécierez [Tangalle, Mirissa](/tangalle-mirissa-plade-sud) ou Welligama pour les plages (tablez plutôt sur le premier, plus tranquille).
 
-Vous apprécierez [Tangalle, Mirissa](/tangalle-mirissa-plade-sud) ou Welligama pour les plages (tablez plutôt sur le premier, plus tranquille).
+- prenez un bus direct pour Tangalle
+- passez la nuit et filez vers Mirissa
 
-Évitez d'aller voir les pécheurs sur leur pied dans la mer, c'est une arnaque à touriste, du bon racket ...
+Évitez d'aller voir les pécheurs sur échasses dans la mer, c'est une arnaque à touristes, du bon racket ...
 
-*Nous n'avons pas eu le temps de visiter un parc. Notre seule regret. Si cela vous tente, optez pour Udawalawe.*
+*Nous n'avons pas eu le temps de visiter un parc. Notre seul regret. Si cela vous tente, optez pour Udawalawe, on en a entendu beaucoup de bien.*
 
-[Galle](/galle-ville-forteresse), c'est obligatoire tellement c'est joli. Passez-y au moins 2 jours, c'est la seule ville du Sri Lanka où vous apprécierez vous y promener.
+# Jour 18/19 : Galle !
 
-# Retour à l'ouest
+> [Galle](/galle-ville-forteresse), c'est obligatoire tellement c'est joli. Passez-y au moins 2 jours, c'est la seule ville du Sri Lanka où vous apprécierez flâner.
 
-> 2 jours (pour se reposer)
+# Jour 20/21 : Relax à Negombo et retour
 
 Finissez par Negombo, c'est plus sympa pour finir le séjour avec sa grande plage !
