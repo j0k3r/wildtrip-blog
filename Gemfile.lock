@@ -8,8 +8,8 @@ GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.3.8)
-    algoliasearch (1.4.2)
-      httpclient (~> 2.4)
+    algoliasearch (1.10.0)
+      httpclient (~> 2.7.1)
       json (>= 1.5.1)
     blankslate (2.1.2.4)
     celluloid (0.16.0)
@@ -28,7 +28,7 @@ GEM
     ffi (1.9.8)
     hike (1.2.3)
     hitimes (1.2.2)
-    httpclient (2.6.0.1)
+    httpclient (2.7.2)
     i18n (0.7.0)
     jekyll (2.5.3)
       classifier-reborn (~> 2.0)
@@ -115,7 +115,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  algoliasearch (~> 1.4.2)
+  algoliasearch (~> 1.10.0)
   flickraw!
   i18n (~> 0.7.0)
   jekyll (~> 2.5.0)
