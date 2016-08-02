@@ -8,6 +8,7 @@ tags:
 - transsiberien
 - russie
 - voiture
+- transport
 - fil rouge
 excerpt: "<p>Au fur et à mesure de notre périple en Russie, j'ai remarqué une marque de camionnettes récurrente, les UAZ. Ma passion est née pour ces petits fourgons rondouillards. Des Bumbo déclinés à l’infini !</p><p>Et au passage, on a aussi croisé d'autres voitures sympas et surtout originales !</p>"
 excerpt_image: https://farm4.staticflickr.com/3697/13847827023_fa9aa36686_c.jpg

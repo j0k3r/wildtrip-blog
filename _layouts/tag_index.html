@@ -38,8 +38,13 @@ layout: default
 
 <script src="/map.allpoints.js"></script>
 
-{% if page.location %}
 <script type="text/javascript">
-  var geoTagSetview = {{ page.location }}.reverse();
+  {% if page.location['points'] %}
+  var geoTagSetview = {{ page.location.['points'] }}.reverse();
+  {% endif %}
+
+  {% if page.location.['zoom'] %}
+  var geoSetzoom = {{ page.location.['zoom'] }};
+  {% endif %}
 </script>
-{% endif %}
+

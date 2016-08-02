@@ -1,6 +1,6 @@
 /**
  * https://github.com/vvo/lazyload
- * v3.2.1
+ * v3.2.2
  */
 
 (function(f){var g;if(typeof window!=='undefined'){g=window}else if(typeof self!=='undefined'){g=self}g.lazyload=f()})(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
@@ -256,49 +256,32 @@ function createInViewport(container) {
     }
 
     var eltRect = elt.getBoundingClientRect();
-    var containerRect = container.getBoundingClientRect();
-
-    var pos = {
-      left: eltRect.left,
-      top: eltRect.top
-    };
-
-    var viewport = {
-      width: offset,
-      height: offset
-    };
+    var viewport = {};
 
     if (container === global.document.body) {
-      viewport.width += global.document.documentElement.clientWidth;
-      viewport.height += global.document.documentElement.clientHeight;
-
-      // We update body rect computing because
-      // when you have relative/absolute childs, you get bad compute
-      // we need to create a new Object, because it's read only
-      containerRect = {
-        bottom: container.scrollHeight,
-        top: 0,
-        left: 0,
-        right: container.scrollWidth
+      viewport = {
+        top: -offset,
+        left: -offset,
+        right: global.document.documentElement.clientWidth + offset,
+        bottom: global.document.documentElement.clientHeight + offset
       };
     } else {
-      pos.left -= containerRect.left;
-      pos.top -= containerRect.top;
-      viewport.width += container.clientWidth;
-      viewport.height += container.clientHeight;
+      var containerRect = container.getBoundingClientRect();
+      viewport = {
+        top: containerRect.top - offset,
+        left: containerRect.left - offset,
+        right: containerRect.right + offset,
+        bottom: containerRect.bottom + offset
+      };
     }
 
+    // The element must overlap with the visible part of the viewport
     var visible =
-      // 1. They must overlap
-      !(
-        eltRect.right < containerRect.left ||
-        eltRect.left > containerRect.right ||
-        eltRect.bottom < containerRect.top ||
-        eltRect.top > containerRect.bottom
-      ) && (
-        // 2. They must be visible in the viewport
-        pos.top <= viewport.height &&
-        pos.left <= viewport.width
+      (
+        eltRect.right >= viewport.left &&
+        eltRect.left <= viewport.right &&
+        eltRect.bottom >= viewport.top &&
+        eltRect.top <= viewport.bottom
       );
 
     return visible;
@@ -314,11 +297,9 @@ function createWatches() {
   var watches = [];
 
   function add(elt, offset, cb) {
-    setTimeout(function () {
-      if (!isWatched(elt)) {
-        watches.push([elt, offset, cb]);
-      }
-    }, 0);
+    if (!isWatched(elt)) {
+      watches.push([elt, offset, cb]);
+    }
   }
 
   function remove(elt) {

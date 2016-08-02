@@ -7,6 +7,8 @@ title: "Les locomotives du Transsibérien"
 tags:
 - transsiberien
 - locomotive
+- train
+- transport
 - fil rouge
 excerpt: "<p>Quand on parcourt le Transsibérien, il est impossible de passer à côté de ces énormes locomotives tractant des dizaines de wagons tout au long de la Sibérie.</p><p>Comme <a href='/les-bagnoles-russes'>les UAZ</a>, je me suis pris d'une courte passion pour les différentes locomotives qu'on a croisées sur notre chemin: il y en avait de toutes sortes, à vapeur, électriques...</p>"
 excerpt_image: https://farm8.staticflickr.com/7349/13845793104_d1ee2e5f8a_c.jpg
