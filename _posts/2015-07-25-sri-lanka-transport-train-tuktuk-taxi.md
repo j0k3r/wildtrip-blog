@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: 2015-12-06
+date: 2016-09-02
 date_travel: 2015-07-25
 title: "Se déplacer au Sri Lanka. Patience. Prêt pour l’aventure ?"
 location: "[80.661934, 7.682562]"

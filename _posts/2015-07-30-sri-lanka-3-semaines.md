@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: 2015-12-07
+date: 2016-09-07
 date_travel: 2015-07-30
 title: "Le Sri Lanka en 3 semaines, que faut-il voir?"
 location: "[80.661934, 7.682562]"

@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: 2015-12-02
+date: 2016-08-13
 date_travel: 2015-07-13
 title: "Les magnifiques plages sri lankaise de l’est (pendant l’été)"
 location: "[81.839216, 6.858697]"

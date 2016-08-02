@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: 2015-12-04
+date: 2016-08-23
 date_travel: 2015-07-21
 title: "Tangalle et les plages du sud en basse saison"
 location: "[80.785575, 6.028849]"

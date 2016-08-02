@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: 2015-12-03
+date: 2016-08-18
 date_travel: 2015-07-17
 title: "Haputale et les magnifiques plantations de thé"
 location: "[80.954969, 6.771550]"

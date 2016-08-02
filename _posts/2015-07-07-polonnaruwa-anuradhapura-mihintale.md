@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: 2015-11-30
+date: 2016-08-02
 date_travel: 2015-07-07
 title: "Les cités historiques de Polonnaruwa et Anurâdhapura"
 location: "[80.388133, 8.345185]"
@@ -34,7 +34,7 @@ Avant de sauter dans notre bus le lendemain, on décide de faire l’aller-retou
 
 De là, hop dans un bus pour rejoindre **Dambulla** et faire la connaissance de *Pali*, chauffeur de tuktuk et guide, avec qui nous décidons de visiter le triangle culturel. Il nous a été chaudement recommandé par des amis et effectivement, il est parfait!
 
-C’est le point de départ de notre balade de trois jours et on commence, habillés de nos sarongs indonésiens, la visite des grottes (Golden Temple du nom  d’un temple très neuf et kitch à l’entrée…). On croise sur le chemin plein de petits singes (fil rouge des temples sri lankais) et nous voilà aux grottes qui abritent des fresques magnifiques et surtout de très beaux bouddhas dont un impressionnant bouddha couché, aux pieds ornés de fleurs de lotus. 
+C’est le point de départ de notre balade de trois jours et on commence, habillés de nos sarongs indonésiens, la visite des grottes (Golden Temple du nom  d’un temple très neuf et kitch à l’entrée…). On croise sur le chemin plein de petits singes (fil rouge des temples sri lankais) et nous voilà aux grottes qui abritent des fresques magnifiques et surtout de très beaux bouddhas dont un impressionnant bouddha couché, aux pieds ornés de fleurs de lotus.
 
 C’est vraiment sympa de déambuler dans les cinq grottes en fin d’après-midi, sans la foule.
 
@@ -91,5 +91,5 @@ Notre chauffeur, *Pali*, était topissime. Il parle bien anglais et répond auss
 
 #### Restaurant
 
-À Kandy: [Kandyan Muslim Hotel](https://www.tripadvisor.fr/Restaurant_Review-g304138-d2703089-Reviews-Kandyan_Muslim_Hotel-Kandy_Central_Province.html): un super souvenir, le Kandyan Muslim Hotel, un resto sans chi-chi et savoureux! 
+À Kandy: [Kandyan Muslim Hotel](https://www.tripadvisor.fr/Restaurant_Review-g304138-d2703089-Reviews-Kandyan_Muslim_Hotel-Kandy_Central_Province.html): un super souvenir, le Kandyan Muslim Hotel, un resto sans chi-chi et savoureux!
 

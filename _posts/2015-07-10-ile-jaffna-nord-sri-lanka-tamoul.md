@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: 2015-12-01
+date: 2016-08-08
 date_travel: 2015-07-10
 title: "Immergé dans la culture tamoul, à Jaffna, au nord de l'île"
 location: "[80.025547, 9.661498]"
