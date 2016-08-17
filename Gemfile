@@ -13,3 +13,10 @@ gem 'i18n', '~> 0.7.0'
 # gem 'rb-gsl', '~> 1.16.0.2'
 gem 'algoliasearch', '~> 1.10.0'
 gem 'rails-html-sanitizer', '~> 1.0.2'
+gem 'jekyll-sitemap', '~> 0.11.0'
+
+# rb-fsevent > 0.9.4 no longer supports OS X 10.6 through 10.8.
+require 'rbconfig'
+if RbConfig::CONFIG['target_os'] =~ /darwin(1[0-3])/i
+  gem 'rb-fsevent', '<= 0.9.4'
+end

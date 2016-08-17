@@ -129,3 +129,6 @@ assets:
   # Default: false
   #
   debug: false
+
+gems:
+  - jekyll-sitemap
