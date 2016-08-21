@@ -3,60 +3,27 @@ layout: default
 ---
 
 <div class="large-12 columns">
-  <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-
-  <dl class="sub-nav">
-    <dd class="active"><span>
-    {% if page.date_travel %}
-      <img src="/img/pencil2.png" title="Écrit le" alt="Écrit le" /> {{ page.date | localize: "%d %B %Y" | downcase }} - <img src="/img/airplane.png" title="Voyagé le" alt="Voyagé le" /> {{ page.date_travel | localize: "%d %B %Y" | downcase }}
-    {% else %}
-      <img src="/img/pencil2.png" title="Écrit le" alt="Écrit le" /> <img src="/img/airplane.png" title="Voyagé le" alt="Voyagé le" /> {{ page.date | localize: "%d %B %Y" | downcase }}
-    {% endif %}
-    </span></dd>
-    {% if page.tags != empty %}
-      {% for tag in page.tags %}
-        <dd class="hide-for-small"><a href="/tag/{{ tag | replace:' ','' }}">{{ tag }}</a></dd>
-      {% endfor %}
-    {% endif %}
-  </dl>
-
-  {% if page.excerpt %}
-    {{ page.excerpt }}
-  {% endif %}
-
-  {% if page.excerpt_image %}
-    <p style="text-align: center;">
-      <img class="th" src="{{ page.excerpt_image }}" alt="{{ page.title }}" />
-    </p>
-  {% endif %}
+  {% include article-header.html page=page %}
 
   {{ content }}
 </div>
 
 <hr/>
 
-<div class="hide-for-small large-12 columns share-links">
-  <p><i>Vous avez aimé cet article ? Alors partagez-le avec vos amis en cliquant sur les boutons ci-dessous :</i></p>
-  <ul class="inline-list">
-    <li><a target="_blank" title="Twitter" href="https://twitter.com/share?url={{ site.url }}{{ page.url }}&text={{ page.title }}&via=j0k" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=400,width=700');return false;"><img src="/img/twitter_icon.png" alt="Twitter" /></a></li>
-    <li><a target="_blank" title="Facebook" href="https://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}&t={{ page.title }}" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=500,width=700');return false;"><img src="/img/facebook_icon.png" alt="Facebook" /></a></li>
-    <li><a target="_blank" title="Google +" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}&hl=fr" rel="nofollow" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=450,width=650');return false;"><img src="/img/gplus_icon.png" alt="Google Plus" /></a></li>
-    <li><a target="_blank" title="Envoyer par mail" href="mailto:?subject={{ page.title }}&body={{ site.url }}{{ page.url }}" rel="nofollow"><img src="/img/email_icon.png" alt="email" /></a></li>
-  </ul>
-</div>
-
 <div class="hide-for-small large-12 columns">
-  <div id="disqus_thread"></div>
-  <script type="text/javascript">
-      var disqus_shortname = 'blogwildtrip';
+  <p class="edit">Si vous voulez signaler une erreur ou proposer une modification de ce texte, n'hésitez pas à l'éditer directement à <a href="https://github.com/j0k3r/wildtrip-blog/blob/blog/{{ page.path }}">la source sur Github</a>.</p>
 
-      (function() {
-          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <h3>À découvrir aussi</h3>
+  {% for post in site.related_posts limit:3 %}
+    {% if post.id != page.id %}
+      <article>
+        <h4>
+          <small>{{ post.date | localize: "%d %B %Y" | downcase }} »</small>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+      </article>
+    {% endif %}
+  {% endfor %}
 </div>
 
 {% if page.location %}

@@ -175,22 +175,8 @@ blockquote {
   border-left: 2px solid #ddd;
 }
 
-.share-links p {
-  margin-bottom: 10px;
-}
-
-.share-links li {
-  margin-left: 10px;
-}
-
-.share-links ul {
-  margin-left: -10px;
-}
-
 .sub-nav img {
   vertical-align: middle;
-  width: 16px;
-  height: 16px;
 }
 
 #search-query {
@@ -204,6 +190,10 @@ blockquote {
 
 p.pagination-centered, ul.pagination {
   text-align: center;
+}
+
+p.edit {
+  color: #999
 }
 
 /**

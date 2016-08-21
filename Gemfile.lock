@@ -26,6 +26,7 @@ GEM
     fastimage (1.8.1)
       addressable (~> 2.3, >= 2.3.5)
     ffi (1.9.14)
+    gsl (2.1.0.1)
     hike (1.2.3)
     httpclient (2.7.2)
     i18n (0.7.0)
@@ -124,6 +125,7 @@ PLATFORMS
 DEPENDENCIES
   algoliasearch (~> 1.10.0)
   flickraw!
+  gsl (~> 2.1, >= 2.1.0.1)
   i18n (~> 0.7.0)
   jekyll (~> 2.5.0)
   jekyll-assets (~> 0.14.0)

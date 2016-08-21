@@ -1,0 +1,28 @@
+<h2><a href="{{ include.page.url }}">{{ include.page.title }}</a></h2>
+
+<dl class="sub-nav">
+  <dd class="active"><span>
+  {% if include.page.date_travel %}
+    <img src="/img/pencil.png" title="Écrit le" alt="Écrit le" /> {{ include.page.date | localize: "%d %B %Y" | downcase }} -
+    <img src="/img/plane.png" title="Voyagé le" alt="Voyagé le" /> {{ include.page.date_travel | localize: "%d %B %Y" | downcase }}
+  {% else %}
+    <img src="/img/pencil.png" title="Écrit le" alt="Écrit le" />
+    <img src="/img/plane.png" title="Voyagé le" alt="Voyagé le" /> {{ include.page.date | localize: "%d %B %Y" | downcase }}
+  {% endif %}
+  </span></dd>
+  {% if include.page.tags != empty %}
+    {% for tag in include.page.tags %}
+      <dd class="hide-for-small"><a href="/tag/{{ tag | remove:' ' }}">{{ tag }}</a></dd>
+    {% endfor %}
+  {% endif %}
+</dl>
+
+{% if include.page.excerpt %}
+  {{ include.page.excerpt }}
+{% endif %}
+
+{% if include.page.excerpt_image %}
+  <p class="pagination-centered">
+    <img class="th" data-src="{{ include.page.excerpt_image }}" alt="{{ include.page.title }}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" onload="lzld(this)" />
+  </p>
+{% endif %}

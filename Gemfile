@@ -10,7 +10,7 @@ gem 'uglifier', '~> 2.7.1'
 # gem 'foundation-rails', '~> 5.2.2.0'
 gem 'i18n', '~> 0.7.0'
 # When I will think about related_post at the bottom of each post
-# gem 'rb-gsl', '~> 1.16.0.2'
+gem 'gsl', '~> 2.1', '>= 2.1.0.1'
 gem 'algoliasearch', '~> 1.10.0'
 gem 'rails-html-sanitizer', '~> 1.0.2'
 gem 'jekyll-sitemap', '~> 0.11.0'
