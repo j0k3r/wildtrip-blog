@@ -1,9 +1,9 @@
 ---
 layout: post
 published: true
-date: 2016-08-13
+date: 2016-08-11
 date_travel: 2015-07-13
-title: "Les magnifiques plages sri lankaise de l’est (pendant l’été)"
+title: "Les magnifiques plages sri lankaises de l’Est (pendant l’été)"
 location: "[81.839216, 6.858697]"
 location_zoom: 12
 tags:

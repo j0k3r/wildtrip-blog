@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: 2016-08-23
+date: 2016-08-22
 date_travel: 2015-07-21
 title: "Tangalle et les plages du sud en basse saison"
 location: "[80.785575, 6.028849]"
@@ -12,14 +12,14 @@ tags:
 - mirissa
 - welligama
 - plage
-excerpt: "<p>Après avoir crapahutés dans les montagnes, il est temps pour nous de revenir sur les plages et la tranquillité pour finir le séjour.</p><p>Cap vers le sud, en bus, à fond la caisse dans les petites routes de montagnes. Même pas peur.</p>"
+excerpt: "<p>Après avoir crapahuté dans les montagnes, il est temps pour nous de revenir sur les plages pour un peu de tranquillité avant la fin le séjour.</p><p>Cap vers le sud, en bus, à fond la caisse sur les petites routes de montagnes. Même pas peur.</p>"
 excerpt_image: https://c2.staticflickr.com/2/1694/24890142794_c000e718be_c.jpg
 ---
 A l'arrivée, les plages sont là mais comme ce n'est pas la meilleure période de l'année de ce côté là de l'île, la pluie est de temps en temps au rendez-vous.
 
 # Tangalle
 
-Notre passage à Tangalle a été rapide mais énormément reposant. A vrai dire, on n'a pas vraiment découvert autre chose que la plage. Les gros rouleaux se fracassent pas mal sur cette partie de l'île et ce n'est pas très simple de trouver un coin accessible sans se ramasser la trombine à chaque fois qu'on va dans l'eau. Mais on a réussi à trouver un coin tranquille, qui devait être le seul des alentours vu qu'il y a un peu de monde, enfin 3 personnes... (oui parce que les plages sont désertes).
+Notre passage à Tangalle a été rapide mais très reposant. A vrai dire, on n'a pas vraiment découvert autre chose que la plage. Les gros rouleaux se fracassent pas mal sur cette partie de l'île et ce n'est pas très simple de trouver un coin accessible sans se ramasser la trombine à chaque fois qu'on va dans l'eau. Mais on a réussi à trouver un coin tranquille, qui devait être le seul des alentours vu qu'il y a un peu de monde, enfin 3 personnes... (oui parce que les plages sont désertes).
 
 A notre arrivée, il faisait un temps bien menaçant. La pluie tombe par averses, bouleversant un peu nos balades à pied. Mais c'est bien aussi de courir sous la pluie pour rentrer à son hôtel :)
 
@@ -41,7 +41,7 @@ Mais juste avant, notre hôtel, Rose Blossom, était vraiment chouette, surtout 
 
 On prend un bus depuis Mirissa, à la sri lankaise : on lève le bras et pof le bus s'arrête. L'idée est de rejoindre *Ahangama*, une petite ville dans laquelle il y aurait des pêcheurs selon notre guesthouse.
 
-Après que le bus nous ait déposé, on remonte un peu la route et on voit des mini-bus de touristes s’arrêter à tour de rôle. Effectivement, le spot à pécheur est ici (pour les curieux [c'est exactement là](https://www.google.fr/maps/search/5.969944,+80.367833/@5.9699455,80.3672272,314m/data=!3m2!1e3!4b1)) mais il faut d’abord payer pour pouvoir les prendre en photo...
+Après que le bus nous ait déposé, on remonte un peu la route et on voit des mini-bus de touristes s’arrêter à tour de rôle. Effectivement, le spot à pécheurs est ici (pour les curieux [c'est exactement là](https://www.google.fr/maps/search/5.969944,+80.367833/@5.9699455,80.3672272,314m/data=!3m2!1e3!4b1)) mais il faut d’abord payer pour pouvoir les prendre en photo...
 
 On continue de marcher un peu plus loin pour s’installer et pouvoir les regarder. Elsa a le malheur de sortir mon iPhone pour prendre une photo quand les FAUX pécheurs sur échasses lèvent la main et crient. Ni une ni deux, un mec rapplique en courant sur les rochers pour nous demander si on prend des photos. On lui dit qu’on veut simplement regarder mais ne pas prendre de photos.
 
@@ -53,6 +53,18 @@ On n'a pas tellement envie de cautionner ce genre de chose ni de prendre en phot
 
 {% flickr_photoset 72157664775263969 %}
 
-Au final, le sud en cette saison est encore agréable. Le soleil n'est pas omniprésent mais il fait suffisamment bon pour se baigner. Attention tout de même aux orages (plutôt en fin de journée) : quand il se mets à pleuvoir, c'est la douche.
+Au final, le sud en cette saison est encore agréable. Le soleil n'est pas omniprésent mais il fait suffisamment bon pour se baigner. Attention tout de même aux orages (plutôt en fin de journée) : quand il se met à pleuvoir, c'est la douche.
 
 Notre passage à Tangalle était vraiment superbe. Le fait d'avoir l'hôtel au bord de la mer, ça change complètement la vie.
+
+# Infos pratiques
+
+#### Hotels
+
+ - [Cinnabar](http://4sq.com/1ddH6sR), à Tangalle. Vous serez éloigné du centre (et c'est bien) et au bord de la plage (c'est encore mieux).
+ - [Rose Blossom](https://www.tripadvisor.fr/Hotel_Review-g1407334-d1910433-Reviews-Rose_Blossom_Guesthouse-Mirissa_Southern_Province.html), à Mirissa. Un peu en retrait de la grande route et très au calme.
+
+#### Trajet
+
+Pour rejoindre Tangalle depuis Ella, c'est pas _trop_ compliqué. Il y a pas mal de bus qui partent dans la matinée et qui mettent aux alentours de 4h.
+A noter sur le trajet un peu avant d'arriver à Tangalle vous traverserez une "piscine" pour faire dessaler l’eau de mer. Les couleurs sont assez folles, du rouge en pagaille !
