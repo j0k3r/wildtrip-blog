@@ -1,7 +1,6 @@
 ---
 layout: post
 published: true
-permalink: la-crimee-avant-qu-elle-ne-devienne-russe
 date: 2015-04-17
 date_travel: 2011-11-08
 title: "La Crimée (avant qu'elle ne devienne russe)"

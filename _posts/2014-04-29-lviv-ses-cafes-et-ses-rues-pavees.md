@@ -1,7 +1,6 @@
 ---
 layout: post
 published: true
-permalink: lviv-ses-cafes-et-ses-rues-pavees
 date: 2015-04-14
 date_travel: 2011-11-04
 title: "Lviv, ses cafés et ses rues pavées"

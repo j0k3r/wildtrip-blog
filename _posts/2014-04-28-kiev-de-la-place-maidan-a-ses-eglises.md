@@ -1,7 +1,6 @@
 ---
 layout: post
 published: true
-permalink: kiev-de-la-place-maidan-a-ses-eglises
 date: 2015-04-10
 date_travel: 2011-11-01
 title: "Kiev, de la place Maïdan à ses églises"
