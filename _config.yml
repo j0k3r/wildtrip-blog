@@ -132,3 +132,11 @@ assets:
 
 gems:
   - jekyll-sitemap
+
+exclude:
+  - deploy.sh
+  - Gemfile*
+  - README.md
+  - Rakefile
+include:
+  - .htaccess

@@ -21,7 +21,7 @@ On ressent tout de suite cette atmosphère mi-asiatique mi-européenne dès qu'o
 
 {% flickr_photoset 72157664895692090 %}
 
-# Infos pratiques
+### Infos pratiques
 
 #### Hotel
 

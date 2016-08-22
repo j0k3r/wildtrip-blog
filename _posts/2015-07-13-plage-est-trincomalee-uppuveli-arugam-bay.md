@@ -17,7 +17,7 @@ excerpt_image: https://c2.staticflickr.com/2/1571/25151677639_a7a4e20542_c.jpg
 ---
 En cette période de l'année, la côte Est est assez touristique. Du coup, en arrivant à la gare routière de Trincomalee, les chauffeurs de tuktuks nous ont sauté dessus. Pour l'anecdote, nous n'avions absolument rien réservé pour cette journée, aucune idée d'où est-ce qu'on voulait aller. Après être montés dans le premier tuktuk qui nous semblait sympathique et pour répondre à sa première question une fois qu'on avait commencé à rouler "alors vous allez où?". Réflexe: on ouvre le Routard, cherche Uppuveli et on lui indique l'adresse du premier hôtel de la liste. Inch'Allah, on verra ! Finalement, la guesthouse est cool avec pieds dans le sable et en plus il y a de la place.
 
-# Uppuveli & Trincomalee
+### Uppuveli & Trincomalee
 Je parle de Trincomalee dans cet article mais en fait on n'y a quasiment pas mis les pieds si ce n'est en arrivant du bus de Jaffna.
 
 En revanche, **Uppuveli** c'est très sympa. Ça ressemble beaucoup à une ville touristique avec une avenue principale qui longe la mer, d'un côté il n'y a que des hôtels (mais pas des immenses tours, de simple petits bungalows) et de l'autre les magasins.
@@ -36,7 +36,7 @@ Plus loin je rencontre d'autres pêcheurs qui posaient leurs filets depuis la ri
 
 {% flickr_photoset 72157664894791740 %}
 
-# Arugam bay
+### Arugam bay
 Voilà le spot de surf de la côte Est. En lisant les guides, on ne voulait pas y rester trop longtemps tellement l'image qu'ils en donnent faisait penser à certaines villes du sud de Bali: remplis d'Australiens blonds et bronzés et des gros Américains venus uniquement pour faire la fête. Pas vraiment notre tasse de thé.
 
 Finalement, bonne surprise, ce n'est pas du tout pris d'assault. L'ambiance est même plutôt tranquille. En fait, notre hôtel n'est pas du côté bruyant de la ville. Il est au Nord alors que tous les bars pour faire la java sont au Sud. Et il y a des surfeurs, mais des vrais, qui se lèvent à 5h pour prendre de belles vagues :)
@@ -49,7 +49,7 @@ Et tout au bout de la plage, c'est le coin des surfeurs. Le vrai coin. Là où l
 
 {% flickr_photoset 72157664894791760 %}
 
-# Infos pratiques
+### Infos pratiques
 
 Si vous voulez rejoindre Arugam Bay depuis Jaffna, il faut prendre un bus direction Kalmunai (de mémoire, le bus 76), de là, prendre un autre bus pour Pottuvil (la ville _carrefour_ d'Arugam Bay). Une fois à Pottuvil, prenez un tuktuk pour rejoindre votre hôtel.
 

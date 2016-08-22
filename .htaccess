@@ -1,1 +1,8 @@
 AddType video/mp4  .mp4
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # bad url
+    RewriteRule ^46586683 /marufuku-barbecue-japonais [QSA,L,R=301]
+</IfModule>

@@ -17,8 +17,7 @@ tags:
 excerpt: "<p>Nous débutons notre découverte de l’ancien Ceylan par le triangle culturel pour ensuite pousser notre voyage au Nord vers Jaffna. Le centre de l’île est son coeur historique et abrite ses grandes anciennes capitales.</p><p>Un triangle est formé des villes de <b>Kandy</b>, <b>Anurâdhapura</b> et <b>Polonnaruwa</b>. Des villes enfouies dans la jungle, des éléphants, des dagobas blanches et des bouddhas magnifiques nous attendent.</p>"
 excerpt_image: https://c2.staticflickr.com/2/1542/25415951651_c4758288fb_c.jpg
 ---
-
-# Kandy
+### Kandy
 
 Nous quittons Colombo pour notre premier voyage en train et destination **Kandy**. C’est le début de l’aventure et le train est top avec ses jolies peintures turquoises et rouges, les portes des wagons ouvertes pour admirer les montagnes, la vue...
 
@@ -30,7 +29,7 @@ Avant de sauter dans notre bus le lendemain, on décide de faire l’aller-retou
 
 {% flickr_photoset 72157669052341375 %}
 
-# Dambulla
+### Dambulla
 
 De là, hop dans un bus pour rejoindre **Dambulla** et faire la connaissance de *Pali*, chauffeur de tuktuk et guide, avec qui nous décidons de visiter le triangle culturel. Il nous a été chaudement recommandé par des amis et effectivement, il est parfait!
 
@@ -40,7 +39,7 @@ C’est vraiment sympa de déambuler dans les cinq grottes en fin d’après-mid
 
 {% flickr_photoset 72157668959932676 %}
 
-# Sigirîya
+### Sigirîya
 
 On se couche tôt car demain matin, *serious business* avec la visite de **Sigiriya** aux aurores! La forteresse-palais perchée au sommet d’un gigantesque rocher, au milieu de la jungle, s’offre aux lèvent-tôt car pour monter les 1202 marches (presque comme la tour Eiffel), la relative fraicheur du matin est juste top. Sans parler qu’on évite les cars de touristes qui se déversent en masse dès 9h.
 
@@ -50,7 +49,7 @@ Les jardins sont immenses et après avoir découvert la forteresse au sommet ou 
 
 {% flickr_photoset 72157664758348689 %}
 
-# Polonnaruwa
+### Polonnaruwa
 
 Après un petit déjeuner succulent à notre guest house et plein de bons jus de fruits frais, on fonce sur notre bolide pour la seconde destination de la journée: **Polonnaruwa**. Le trajet dure environ une heure et on a le temps d’admirer les alentours. Cette ancienne capitale du XIème est mieux conservée que Anuradhapura mais c’est plus un musée à ciel ouvert et moins un lieu spirituel. On décide de visiter la ville avec Pali et son tuktuk. Certains décident de faire la balade en louant des vélos pour rejoindre les sites. C’est une option tout à fait faisable mais n’oubliez pas qu’au mois de juillet la chaleur est très importante et casse vite les jambes.
 
@@ -60,7 +59,7 @@ Sur le chemin du retour, on va guetter les éléphants avec Pali et ainsi sauter
 
 {% flickr_photoset 72157665470983555 %}
 
-# Anurâdhapura
+### Anurâdhapura
 
 Nous partons le lendemain pour **Anurâdhapura** avec Pali, qui nous y laissera car nous continuons vers le Nord et nous prendrons un train pour Jaffna. Anuradhapura est la ville sainte du bouddhisme cinghalais et sera la capitale de l’île jusqu’au XIème siècle. Certes, elle est moins bien conservée que Polonnaruwa, mais sur les bons conseils de Pali, nous y allons à la fin d’après-midi, surtout pour voir la poya de fin de journée et la ferveur spirituelle qui s’en dégage est très belle.
 
@@ -68,7 +67,7 @@ Ici, ce que nous avons trouvé de plus beaux se sont les dagobas. Ils sont juste
 
 {% flickr_photoset 72157665470328125 %}
 
-# Mihintale
+### Mihintale
 
 Et pour conclure ces trois jours culturels à fond, le lendemain matin à 4h, on va avec Pali à **Mihintale**, là où fut construit le premier stupa du Sri Lanka! Jérémy est fan de l’idée d’escalader un rocher dans la nuit, de se geler pendant une bonne heure pour un lever de soleil magnifique sur toute la région et le stupa 😃
 
@@ -76,8 +75,7 @@ Le site est ouvert 24h/24, alors go. J’admets que le paysage est top et le lie
 
 {% flickr_photoset 72157665470328105 %}
 
-
-# Infos pratiques
+### Infos pratiques
 
 #### Transport
 

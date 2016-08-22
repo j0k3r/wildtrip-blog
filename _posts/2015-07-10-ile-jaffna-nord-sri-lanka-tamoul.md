@@ -24,7 +24,8 @@ A noter sur le trajet:
 
 En arrivant vers la péninsule de Jaffna, le train se transforme en omnibus: on s'arrête toutes les 5 minutes dans des gares identiques (toutes construites après la guerre) et où personne ne descend quasiment jamais.
 
-# Jaffna
+### Jaffna
+
 L'atmosphère est complètement différente des autres villes sri-lankaises. Les maisons, les temples, les gens, la nourriture, tout est différent. Nous sommes en pays tamoul.
 
 Le centre _intéressant_ de Jaffna n'est pas très grand et tout peut facilement se faire à pied. Par contre, c'est toujours une ville sri lankaise avec ses égouts qui se déversent dans les caniveaux et une circulation toujours aussi dense et anarchique.
@@ -35,7 +36,8 @@ En se baladant, on a remarqué que les habitants de Jaffna étaient particulièr
 
 {% flickr_photoset 72157664758348639 %}
 
-# Les Tamouls
+### Les Tamouls
+
 Les Tamouls vivent principalement dans le sud de l'Inde et dans le nord du [Sri Lanka](/tag/srilanka). Les Tamouls sont principalement hindous, mais comptent d'importantes minorités chrétiennes et musulmanes. Leurs revendications d'autonomie élargie furent le déclencheur du conflit qui a longtemps coupé le pays en deux.
 
 A l'initiative des Anglais, une petite partie d'entre eux est arrivée vers la fin du XIXe siècle pour servir de main-d'oeuvre bon marché dans les plantations de café puis de thé.
@@ -44,7 +46,8 @@ Cette première immersion est vraiment éblouissante et me rappelle mon voyage a
 
 {% flickr_photoset 72157664758348669 %}
 
-# La région de Jaffna
+### La région de Jaffna
+
 Via notre guesthouse, on a pu organiser une journée en tuktuk pour faire un peu le tour de la région du Nord et des îles. On a payé au kilomètre et en terme de temps, ça a vraiment été une solution assez économique.
 
 A Point Pedro, on a croisé des pêcheurs qui revenaient tout juste et qui rapportaient une énorme raie pour la  peser à l'abri du soleil sous leur préau. Quand on est arrivé sur la plage pour admirer les couleurs de tous les bateaux, ils ont tout de suite voulu discuter avec nous et qu'on les prenne en photo. C'était très sympa si on oublie l'odeur du poisson séché omniprésente. :)
@@ -61,7 +64,7 @@ Sur notre route, le conducteur de confession catholique a été super fier de no
 
 {% flickr_photoset 72157664758348599 %}
 
-# Infos pratiques
+### Infos pratiques
 
 #### Train
 
@@ -72,7 +75,7 @@ On a pris le train d'Anurâdhapura à Jaffna :
 
 #### Logement
 
-[Theresa Inn](http://www.theresainnjaffna.com/), les prix sont assez bas et, même si le proprio est un peu sévère, il est vraiment réglo et serviable ! Les chambres sont très correctes et il a deux teckels! 
+[Theresa Inn](http://www.theresainnjaffna.com/), les prix sont assez bas et, même si le proprio est un peu sévère, il est vraiment réglo et serviable ! Les chambres sont très correctes et il a deux teckels!
 
 #### Tuktuk
 

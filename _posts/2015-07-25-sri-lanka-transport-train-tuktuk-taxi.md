@@ -15,7 +15,7 @@ tags:
 excerpt: "<p>Comme dans la plupart des pays asiatiques, la conduite au Sri Lanka oscille entre le pur divertissement et la peur. Les taxis roulent comme des fous, les bus vont à fond la caisse dans les petites routes de montagnes, les trains sont bondés, etc ...</p><p>J'ai voulu faire cet article sur les différentes façons de se déplacer au Sri Lanka, d'une part pour vous les présenter mais aussi parce que c'est souvent hors du commun (en tout cas pour moi).</p>"
 excerpt_image: https://c2.staticflickr.com/2/1455/25493961166_98f1b76518_c.jpg
 ---
-# Le train, le moyen le moins cher
+### Le train, le moyen le moins cher
 
 C'est la façon de voir du pays la plus tranquille et la plus sûre. C'est certes un peu lent mais ça permet de prendre le temps d'admirer les paysages et de potasser les guides.
 
@@ -37,7 +37,7 @@ Dernière remarque, les grandes gares. A l'heure de pointe, c'est un spectacle p
 
 {% flickr_photoset 72157664895692060 %}
 
-# Le bus, pour ceux qui n'ont pas froid aux yeux
+### Le bus, pour ceux qui n'ont pas froid aux yeux
 
 Vous prendrez souvent le bus, c'est sûr.
 
@@ -67,7 +67,7 @@ Dans le bus, on peut aussi s'acheter des snacks et des fruits! C'est vraiment ch
 
 {% flickr_photoset 72157664895692070 %}
 
-# Tuk tuk, l'efficacité tape cul
+### Tuk tuk, l'efficacité tape cul
 
 C'est le moyen le plus rapide pour faire des petits trajets. En fait, c'est presque comme les taxis en Europe, sauf qu'on négocie tout le temps la course avant de monter. L'avantage c'est qu'ils se faufilent partout et comme c'est tout ouvert, la chaleur est moins pesante.
 
@@ -77,7 +77,7 @@ Et on a même croisé un tuktuk auto-école, il avait le "L" de Learner (qui ind
 
 {% flickr_photoset 72157664895692020 %}
 
-# Taxi (ou voiture avec chauffeur), pour les pressés
+### Taxi (ou voiture avec chauffeur), pour les pressés
 
 Les vrais taxis n'existent pas au Sri Lanka. Et si vous voulez louer une voiture, ce n'est vraiment pas recommandé et il vaut mieux prendre l'option du chauffeur.
 

@@ -17,7 +17,7 @@ excerpt_image: https://c2.staticflickr.com/2/1694/24890142794_c000e718be_c.jpg
 ---
 A l'arrivée, les plages sont là mais comme ce n'est pas la meilleure période de l'année de ce côté là de l'île, la pluie est de temps en temps au rendez-vous.
 
-# Tangalle
+### Tangalle
 
 Notre passage à Tangalle a été rapide mais très reposant. A vrai dire, on n'a pas vraiment découvert autre chose que la plage. Les gros rouleaux se fracassent pas mal sur cette partie de l'île et ce n'est pas très simple de trouver un coin accessible sans se ramasser la trombine à chaque fois qu'on va dans l'eau. Mais on a réussi à trouver un coin tranquille, qui devait être le seul des alentours vu qu'il y a un peu de monde, enfin 3 personnes... (oui parce que les plages sont désertes).
 
@@ -31,7 +31,7 @@ A noter que c'est ici que j'ai pris mes premières photos de nuits du voyage et 
 
 {% flickr_photoset 72157664775263919 %}
 
-# Mirissa où l'arnaque des pêcheurs perchés
+### Mirissa où l'arnaque des pêcheurs perchés
 
 Après Tangalle, nous continuons vers l'ouest, le long de la côte. Notre prochain arrêt est Mirissa. En fait, cet arrêt on l'a surtout fait à cause de la couverture du Lonely Planet de cette année: une superbe photo dans les tons rouges avec un pêcheur perché en premier plan. Elle est superbe. Et c'est justement dans ce petit coin du [Sri Lanka](/tag/srilanka) que l'on peut les voir.
 
@@ -57,7 +57,7 @@ Au final, le sud en cette saison est encore agréable. Le soleil n'est pas omnip
 
 Notre passage à Tangalle était vraiment superbe. Le fait d'avoir l'hôtel au bord de la mer, ça change complètement la vie.
 
-# Infos pratiques
+### Infos pratiques
 
 #### Hotels
 
