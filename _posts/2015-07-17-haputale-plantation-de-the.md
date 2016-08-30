@@ -10,7 +10,7 @@ tags:
 - sri lanka
 - haputale
 - ella
-- plantation thé
+- plantation the
 - lipton seat
 excerpt: "<p>Après avoir profité du soleil sur la côte Est, il est temps de revenir dans les terres et d'aller voir les fameuses plantations de thé. Autant le dire tout de suite, il n'y a pas de trajet direct et facile pour faire Arugam Bay → Haputale. Après 8h, 2 tuktuks, 2 bus et un train, nous sommes arrivés! En prenant le premier bus d'Arugam Bay (Pottuvil), tout s'enchaîne plutôt facilement.</p><p>Mais ça en valait la peine, les paysages sont magnifiques. Le trajet en train était splendide et la vue de notre hôtel bluffante.</p>"
 excerpt_image: https://c2.staticflickr.com/2/1610/25426744951_3ca68ce36c_c.jpg
