@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: 2016-08-28
+date: 2016-08-30
 date_travel: 2015-07-24
 title: "Galle, une belle ville que l’on apprécie visiter !"
 location: "[80.215130, 6.033687]"
@@ -10,14 +10,22 @@ tags:
 - sri lanka
 - galle
 - forteresse
-excerpt: "<p>Enfin une vraie ville digne de ce nom.</p><p>Une ville dans laquelle on prend plaisir à se promener, à déambuler dans les petites rues, où les égouts ne se déversent pas dans chaque caniveau. En fait, c'est une des rares villes villes du Sri Lanka où l'on ressent autant l'influence européenne, avec son fort, ses églises... Certainement parce que Galle est une ville fortifiée, construite par les néerlandais.</p>"
+excerpt: "<p>Enfin une vraie ville digne de ce nom.</p><p>Une ville dans laquelle on prend plaisir à se promener, à flâner dans les petites rues, où les égouts ne se déversent pas dans chaque caniveau. En fait, c'est une des rares villes du Sri Lanka où l'on ressent autant l'influence européenne, avec son fort, ses églises... Certainement parce que Galle est une ville fortifiée construite par les Néerlandais en 1663. Et avant de commencer cet article, petit cours de prononciation: vous pourrez entendre “Gallé” à la cinghalaise ou “Gaulle” à l'anglaise. À vous de choisir!</p>"
 excerpt_image: https://c2.staticflickr.com/2/1643/25401632252_e0a81c7504_c.jpg
 ---
+Coup de coeur du Sud de l'île, la ville balayée par les vents est un trésor architectural.
 
-> La vieille ville de Galle est délimitée par le fort dans lequel on retrouve de jolies ruelles où l'on peut encore voir quelques anciennes demeures néerlandaises. Elle est classée au patrimoine mondial. En effet, elle représente la plus grande forteresse construite en Asie par les colons européens.
+La vieille ville de Galle, coeur historique, est délimitée par le fort dans lequel on retrouve de jolies ruelles pavées où l'on peut encore voir quelques anciennes demeures néerlandaises et portugaises aux toits de tuiles. Elle est classée au patrimoine mondial de l'Unesco. En effet, elle représente **la plus grande forteresse construite en Asie** par les Européens.
 
-On ressent tout de suite cette atmosphère mi-asiatique mi-européenne dès qu'on arrive dans la vieille ville.
+On ressent tout de suite cette atmosphère mi-asiatique mi-européenne dès qu'on arrive dans la vieille ville. Contraste saisissant avec la ville moderne qui fourmille et grouille de voitures et scooters!
 
+C'est agréable de se promener sur les remparts, de voir ces deux villes se faire face, d'imaginer les bateaux de pirates jeter l'ancre...
+
+La construction du fort date du XVIIème siècle et ce dernier a limité les dégâts du tsunami de 2004. Ca nous rappelle les constructions de Vauban, dans l'océan Indien! Un fort n'est jamais entier sans son phare, croquignolet.
+
+Ce qui est agréable aussi ce sont les habitations d'un étage maximum, ce qui donne l'impression  d'être dans une ville à taille humaine. Sans oublier les jolis bougainvilliers et les cocotiers qui poussent un peu partout.
+
+On aura bien profiter de la ville sous tous les temps: crachin (saison des pluies oblige) et le lendemain grand soleil! Double check. Quand on aime, on ne compte pas.
 
 {% flickr_photoset 72157664895692090 %}
 
