@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: 2016-08-30
+date: 2016-08-31
 date_travel: 2015-07-24
 title: "Galle, une belle ville que l’on apprécie visiter !"
 location: "[80.215130, 6.033687]"

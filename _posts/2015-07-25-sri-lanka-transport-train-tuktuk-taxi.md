@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: 2016-09-02
+date: 2016-09-06
 date_travel: 2015-07-25
 title: "Se déplacer au Sri Lanka. Patience. Prêt pour l’aventure ?"
 location: "[80.661934, 7.682562]"
@@ -86,3 +86,5 @@ En effet, si vous n'avez pas trop de temps pour vos vacances, vous pouvez opter 
 Et forcément, c'est aussi plus cher puisque vous payez un bonhomme et sa voiture pendant tout votre séjour. A noter que généralement, vous n'aurez pas besoin de payer une chambre d'hôtel pour lui puisque beaucoup d'hôtels ont justement des dortoirs pour les chauffeurs. C'est en quelque sorte compris dans le prix de votre chambre.
 
 Nous n'avons pas choisit cette option. Je ne peux donc pas réellement juger, mais l'idée me déplait un peu. J'aurais l'impression de découvrir un pays à fond la caisse, et de sauter d'un point intéressant à un autre sans jamais réellement prendre le temps d'en profiter. Un peu comme les Chinois qui visitent _toute_ la France en 4 jours (La Tour Eiffel, le Louvre, Saint-Émilion et le Mont-Saint-Michel).
+
+Bon voyage ! 🚌
