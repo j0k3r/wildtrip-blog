@@ -2,7 +2,7 @@ This is my travel blog, previously hosted on Posterous, and now powered by Jekyl
 
 *Since Github doesn't allow plugins in Jekyll hosted website (I use them mostly for Flickr integration), I hosted it on my own server.*
 
-https://blog.wildtrip.net/
+https://wildtrip.blog/
 
 ````
 bundle install
