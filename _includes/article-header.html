@@ -3,11 +3,10 @@
 <dl class="sub-nav">
   <dd class="active"><span>
   {% if include.page.date_travel %}
-    <img src="/img/pencil.png" title="Écrit le" alt="Écrit le" /> {{ include.page.date | localize: "%d %B %Y" | downcase }} -
-    <img src="/img/plane.png" title="Voyagé le" alt="Voyagé le" /> {{ include.page.date_travel | localize: "%d %B %Y" | downcase }}
+    Écrit le {{ include.page.date | localize: "%d/%m/%Y" | downcase }} -
+    Voyagé le {{ include.page.date_travel | localize: "%d/%m/%Y" | downcase }}
   {% else %}
-    <img src="/img/pencil.png" title="Écrit le" alt="Écrit le" />
-    <img src="/img/plane.png" title="Voyagé le" alt="Voyagé le" /> {{ include.page.date | localize: "%d %B %Y" | downcase }}
+    Écrit et voyagé le {{ include.page.date | localize: "%d/%m/%Y" | downcase }}
   {% endif %}
   </span></dd>
   {% if include.page.tags != empty %}

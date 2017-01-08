@@ -84,6 +84,10 @@ body {
   font-family: "Open Sans", "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
 }
 
+.sub-nav {
+  padding-top: .8rem;
+}
+
 .sub-nav dt, .sub-nav dd, .sub-nav li, .top-bar-section ul li>a {
   font-family: inherit;
 }
@@ -97,17 +101,17 @@ h1, h2, h3, h4 {
   line-height: 1em;
 }
 
-h2 {
-  font-size: 45px;
+h1 {
+  line-height: normal;
 }
 
 h3 {
-  font-size: 30px;
+  /*font-size: 30px;*/
   padding-bottom: 5px;
 }
 
 h4 {
-  font-size: 25px;
+  /*font-size: 25px;*/
   color: #595959;
 }
 
@@ -119,12 +123,22 @@ h4 {
   color: #333;
 }
 
+a.clearing-close {
+  color: #CCCCCC;
+}
+
 .sub-nav dd a {
   padding: 0;
 }
 
 .content {
-  margin-top: 1.875em;
+  margin-top: .6em;
+}
+
+@media screen and (min-width: 39.9375em) {
+  .content {
+    margin-top: 1.875em;
+  }
 }
 
 .sub-nav dt.active span, .sub-nav dd.active span {
@@ -136,12 +150,21 @@ h4 {
   color: white;
 }
 
+.sub-nav dt, .sub-nav dd, .sub-nav li {
+  margin-left: 0;
+  margin-right: .7rem;
+}
+
 ul.pagination li.current a, .sub-nav dt.active span, .sub-nav dd.active span {
   background: #F85931
 }
 
-ul, ol, dl {
+ul, ol {
   list-style-position: inside;
+}
+
+ul, ol {
+  list-style-position: outside;
 }
 
 .clearing-thumbs {
@@ -184,8 +207,17 @@ blockquote {
 }
 
 .content p, .content ul {
-  font-size: 1.2rem;
   text-align: justify;
+}
+
+.content ul {
+  padding-left: 1.8rem;
+}
+
+@media screen and (min-width: 39.9375em) {
+  .content p, .content ul {
+    font-size: 1.2rem;
+  }
 }
 
 p.pagination-centered, ul.pagination {
