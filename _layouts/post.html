@@ -18,7 +18,7 @@ layout: default
     {% if post.id != page.id %}
       <article>
         <h4>
-          <small>{{ post.date | localize: "%d %B %Y" | downcase }} »</small>
+          <small>{{ post.date | localize: "%d/%m/%Y" | downcase }} »</small>
           <a href="{{ post.url }}">{{ post.title }}</a>
         </h4>
       </article>

@@ -32,11 +32,12 @@ $(function() {
           $.each(results, function(key, post) {
             var date = new Date(post.date),
                 day = date.getDate().toString().length == 1 ? '0'+date.getDate() : date.getDate(),
-                months = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+                month = date.getMonth()+1,
+                month = month.toString().length == 1 ? '0'+month : month;
 
             entries.append('<article>'+
             '  <h4>'+
-            '    <small><time>'+day+' '+months[date.getMonth()]+' '+date.getFullYear()+'</time> »</small>'+
+            '    <small><time>'+day+'/'+month+'/'+date.getFullYear()+'</time> »</small>'+
             '    <a href="'+post.url+'">'+post.title+'</a>'+
             '  </h4>'+
             '</article>');
