@@ -5,4 +5,21 @@ AddType video/mp4  .mp4
 
     # bad url
     RewriteRule ^46586683 /marufuku-barbecue-japonais [QSA,L,R=301]
+
+    # Redirect from domain without dash
+    RewriteCond %{HTTP_HOST} wildtrip\.blog$ [NC]
+    RewriteRule ^(.*) https://wildtrip.blog/$1 [QSA,R=301,L]
+
+    # If it's a request to index(.html)
+    RewriteCond %{REQUEST_URI} (.+/)?index(\.html)  [NC]
+    # Remove it.
+    RewriteRule ^(.+/)?index(\.html)?$ https://wildtrip.blog/%1 [R=301,L]
+
+    # redirect content with trailing slash (when they are not ending with .html)
+    RewriteCond %{REQUEST_URI} !\.html$
+    RewriteRule ^(.*)/$ /$1.html [R=301,NC]
+
+    # redirect content without trailing slash (when they are not ending with .html)
+    RewriteCond %{REQUEST_URI} !\.html$
+    RewriteRule ^(.*)/?$ /$1.html [R=301,NC]
 </IfModule>

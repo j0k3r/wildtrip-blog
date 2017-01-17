@@ -68,7 +68,7 @@ module Jekyll
         name, count = tag
         name_url = name.delete(' ')
         # html << "<a style='font-size: #{size}#{unit}' href='/tags.html##{name}'>#{name}</a>\n"
-        html << "<li><a href='/tag/#{name_url}'>#{name} <span>(#{count})</span></a></li>\n"
+        html << "<li><a href=\"/tag/#{name_url}.html\">#{name} <span>(#{count})</span></a></li>\n"
       end
     end
 

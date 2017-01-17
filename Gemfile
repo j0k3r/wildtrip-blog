@@ -1,20 +1,24 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-# gem "rails"
-gem 'jekyll', '~> 2.5.0'
+gem 'jekyll'
 gem 'flickraw', '~> 0.9.9'
-gem 'jekyll-assets', '~> 0.14.0'
-gem 'uglifier', '~> 2.7.1'
-# gem 'foundation-rails', '~> 5.2.2.0'
 gem 'i18n', '~> 0.7.0'
 gem 'gsl', '~> 2.1', '>= 2.1.0.1'
-gem 'algoliasearch', '~> 1.10.0'
-gem 'rails-html-sanitizer', '~> 1.0.2'
-gem 'jekyll-sitemap', '~> 0.11.0'
+gem 'algoliasearch', '~> 1.10'
+gem 'rails-html-sanitizer', '~> 1.0'
+gem 'classifier-reborn', '~> 2.0'
+gem 'redcarpet', '~> 3.4'
 
 # rb-fsevent > 0.9.4 no longer supports OS X 10.6 through 10.8.
 require 'rbconfig'
 if RbConfig::CONFIG['target_os'] =~ /darwin(1[0-3])/i
   gem 'rb-fsevent', '<= 0.9.4'
+end
+
+group :jekyll_plugins do
+  gem 'jekyll-assets'
+  gem 'uglifier'
+  gem 'jekyll-paginate'
+  gem 'jekyll-sitemap'
 end

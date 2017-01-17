@@ -11,7 +11,7 @@
   </span></dd>
   {% if include.page.tags != empty %}
     {% for tag in include.page.tags %}
-      <dd class="hide-for-small"><a href="/tag/{{ tag | remove:' ' }}">{{ tag }}</a></dd>
+      <dd class="hide-for-small"><a href="/tag/{{ tag | remove:' ' }}.html">{{ tag }}</a></dd>
     {% endfor %}
   {% endif %}
 </dl>

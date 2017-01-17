@@ -16,11 +16,11 @@ layout: default
 
 <script type="text/javascript">
   {% if page.location['points'] %}
-  var geoTagSetview = {{ page.location.['points'] }}.reverse();
+  var geoTagSetview = {{ page.location['points'] }}.reverse();
   {% endif %}
 
-  {% if page.location.['zoom'] %}
-  var geoSetzoom = {{ page.location.['zoom'] }};
+  {% if page.location['zoom'] %}
+  var geoSetzoom = {{ page.location['zoom'] }};
   {% endif %}
 </script>
 

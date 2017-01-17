@@ -1,10 +1,10 @@
-safe:   false
+safe: false
 
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 
-permalink: /:title
+permalink: /:title.html
 
 paginate: 5
 
@@ -19,9 +19,8 @@ flickr:
   access_token:     xx-xx
   access_secret:    xx
 
-tag_dir: tag
-tag_title_prefix: 'Billets étiquetés &ldquo;'
-tag_title_suffix: '&rdquo;'
+tag_title_prefix: 'Billets tagués «&nbsp;'
+tag_title_suffix: '&nbsp;»'
 
 algolia:
   index_name: blog_posts
@@ -130,13 +129,11 @@ assets:
   #
   debug: false
 
-gems:
-  - jekyll-sitemap
-
 exclude:
   - deploy.sh
   - Gemfile*
   - README.md
   - Rakefile
+
 include:
   - .htaccess
