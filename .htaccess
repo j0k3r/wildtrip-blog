@@ -15,13 +15,13 @@ AddType video/mp4  .mp4
     RewriteCond %{REQUEST_URI} !^\/page([0-9]+)\/$
     RewriteCond %{REQUEST_URI} !^\/$
     RewriteCond %{REQUEST_URI} /$
-    RewriteCond %{REQUEST_URI} !\.(html|css|js)$
+    RewriteCond %{REQUEST_URI} !\.(html|css|js|xml|txt)$
     RewriteRule ^(.*)/$ /$1.html?1 [R=301,NC]
 
     # redirect content without trailing slash (when they are not ending with .html)
     RewriteCond %{REQUEST_URI} !^\/page([0-9]+)$
     RewriteCond %{REQUEST_URI} !^\/$
     RewriteCond %{REQUEST_URI} !/$
-    RewriteCond %{REQUEST_URI} !\.(html|css|js)$
+    RewriteCond %{REQUEST_URI} !\.(html|css|js|xml|txt)$
     RewriteRule ^(.*)/?$ /$1.html?2 [R=301,NC]
 </IfModule>
