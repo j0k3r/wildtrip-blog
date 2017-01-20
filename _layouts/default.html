@@ -8,18 +8,11 @@
 
   {% stylesheet app %}
 
-  <!-- Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Lato:900,300" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-
   <link rel="alternate" type="application/rss+xml" href="https://wildtrip.blog/rss.xml"/>
   <link rel="shortcut icon" href="https://github.global.ssl.fastly.net/images/icons/emoji/earth_africa.png"/>
 
-  <script src="https://cdn.jsdelivr.net/modernizr/2.7.2/modernizr.min.js"></script>
   {% javascript lazyload %}
 
-  <script src="https://api.tiles.mapbox.com/mapbox.js/v1.6.5/mapbox.js"></script>
   <link href="https://api.tiles.mapbox.com/mapbox.js/v1.6.5/mapbox.css" rel="stylesheet" />
 
   <meta name="description" content="{% if page.title %}{{ page.title }}{% endif %} {% if page.excerpt %}{{ page.excerpt | remove_xml }}{% endif %}" />
@@ -197,7 +190,8 @@
     ga('send', 'pageview');
   </script>
   <script async src='https://www.google-analytics.com/analytics.js'></script>
-
+  <script src="https://api.tiles.mapbox.com/mapbox.js/v1.6.5/mapbox.js"></script>
+  <script src="https://cdn.jsdelivr.net/modernizr/2.7.2/modernizr.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   <script async src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.jquery.min.js"></script>
 
