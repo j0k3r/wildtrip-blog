@@ -1,4 +1,8 @@
+//= require fastclick
 //= require foundation
+//= require foundation.clearing
+//= require foundation.orbit
+//= require foundation.topbar
 
 $(function() {
   $('#search').find('input.button').on('click', function() {
