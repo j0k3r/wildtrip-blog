@@ -48,7 +48,7 @@ Elle est bien plus grande que Stromboli. Les voitures circulent sans souci. Mais
 
 C'est d'ailleurs dans cette dernière ville que nous profiterons d'un magnifique coucher de soleil au bord de l'eau, à côté de garages à bateaux creusés dans la falaise. La dernière photo panoramique reflète parfaitement l'atmosphère.
 
-Salina est une île réputée pour ses vignes et surtout sa spécialité: la malvasia. C'est un vin blanc liquoreux bu souvent en fin de repas et qui est délicieux. 
+Salina est une île réputée pour ses vignes et surtout sa spécialité: la malvasia. C'est un vin blanc liquoreux bu souvent en fin de repas et qui est délicieux.
 
 {% flickr_photoset 72157677549707011 %}
 
