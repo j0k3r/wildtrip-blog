@@ -50,7 +50,7 @@ module Jekyll
           output += "  <br/><span class=\"alt-flickr\"><a href=\"#{photos[0]['urlFlickr']}\" target=\"_blank\">Voir la video en grand</a></span>\n"
           output += "</p>\n"
         else
-          output = "<p style=\"text-align: center;\"><img class=\"th\" src=\"#{photos[0]['urlEmbeded']}\" title=\"#{photos[0]['title']}\" alt=\"#{photos[0]['title']}\" /></p>\n"
+          output = "<p class=\"pagination-centered\"><img class=\"th\" src=\"#{photos[0]['urlEmbeded']}\" title=\"#{photos[0]['title']}\" alt=\"#{photos[0]['title']}\" /></p>\n"
         end
       else
         output = "<div class=\"row\">\n"

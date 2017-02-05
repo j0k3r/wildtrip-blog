@@ -12,12 +12,12 @@ tags:
 - ragusa
 - noto
 - modica
-excerpt: "<p>Dans notre séjour un peu court, nous avions décidé de ne pas aller à Catane car, malgré ses belles églises et ses beaux parcs, la ville ne nous semblait pas une étape indispensable. Nous avions envie de petites villes, de tranquillité, de rues piétonnes... C'est pour cela que nous avons filé tout de suite vers <b>Syracuse</b>.</p><p>Cela nous a permis de flâner dans les jolies ruelles de Syracuse, d'être moins dans le brouhaha d'une grande ville, de découvrir les environs, comme la calme Noto et de profiter des petites routes.</p><p>Après Syracuse, nous avons roulé jusqu'à Ragusa en faisant une rapide étape dans la magnifique ville de Modica, à flanc de montagne.</p>"
+excerpt: "<p>Dans notre séjour un peu court, nous avions décidé de ne pas aller à Catane car, malgré ses belles églises et ses beaux parcs, la ville ne nous semblait pas une étape indispensable. Nous avions envie de petites villes, de tranquillité, de rues piétonnes … C'est pour cela que nous avons filé tout de suite vers <b>Syracuse</b>.</p><p>Cela nous a permis de flâner dans les jolies ruelles de Syracuse, d'être moins dans le brouhaha d'une grande ville, de découvrir les environs, comme la calme Noto et de profiter des petites routes.</p><p>Après Syracuse, nous avons roulé jusqu'à Ragusa en faisant une rapide étape dans la magnifique ville de Modica, à flanc de montagne.</p>"
 excerpt_image: https://c1.staticflickr.com/1/700/32329323776_f8f0e1a5f5_c.jpg
 ---
 **Syracuse** est à une petite heure de Catane et grâce à l'autoroute le trajet est plutôt rapide. Nous avons vite découvert que les Italiens roulent comme des fous furieux, fidèles à leur réputation. Exit le code de la route, les panneaux ne doivent être là que pour les étrangers et la devise "si tu veux doubler, double" est reine. Bref.
 
-**Syracuse** est divisée en deux parties : la nouvelle ville et la vieille ville (appelée *Ortigia*, *Ortygie* en français). *Ortigia* est une île reliée au reste de Syracuse par 3 petits ponts. 
+**Syracuse** est divisée en deux parties : la nouvelle ville et la vieille ville (appelée *Ortigia*, *Ortygie* en français). *Ortigia* est une île reliée au reste de Syracuse par 3 petits ponts.
 
 A l'entrée de l'île, une fois passé un des ponts, nous arrivons sur une place baignant dans le soleil avec en fond, les ruines du temple d'Apollon dont il ne reste que quelques colonnes. Son éclairage bleu-vert quand il fait nuit a son petit effet.
 
