@@ -13,6 +13,7 @@ AddType video/mp4  .mp4
 
     # redirect content with trailing slash (when they are not ending with .html)
     RewriteCond %{REQUEST_URI} !^\/page([0-9]+)\/$
+    RewriteCond %{REQUEST_URI} !.html\/$
     RewriteCond %{REQUEST_URI} !^\/$
     RewriteCond %{REQUEST_URI} /$
     RewriteCond %{REQUEST_URI} !\.(html|css|js|xml|txt)$
@@ -24,4 +25,8 @@ AddType video/mp4  .mp4
     RewriteCond %{REQUEST_URI} !/$
     RewriteCond %{REQUEST_URI} !\.(html|css|js|xml|txt)$
     RewriteRule ^(.*)/?$ /$1.html?2 [R=301,NC]
+
+    # fix for facebookexternalhit which automatically add a / at the end of an url
+    RewriteCond %{REQUEST_URI} .html\/$
+    RewriteRule ^(.*)/$ /$1?3 [R=301,NC]
 </IfModule>
