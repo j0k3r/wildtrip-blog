@@ -11,6 +11,7 @@ tags:
 - stromboli
 - volcan
 - iles eoliennes
+- ile
 excerpt: "<p>En activité quasi permanente, crachant poussière et gaz, voire parfois des jets de pierres en fusion, le volcan <b>Stromboli</b> est vraiment une étape à ne pas manquer lors d'un voyage en Sicile. Sensations assurées !</p><p>Nichée au nord de la Sicile et faisant partie de l'archipel des îles Éoliennes, l'île de Stromboli est vraiment un lieu paisible. Les voitures n'y existent pas. Les ruelles du principal village sont de toute façon trop petites. Les seuls véhicules se limitent à des voitures de golf et des mobylettes.</p><p>Ce n'était pas prévu si tôt dans notre voyage, mais nous avons finalement fait l'ascension un 31 décembre !</p>"
 excerpt_image: https://c1.staticflickr.com/1/558/31993052470_5b22cdbe42_c.jpg
 ---
