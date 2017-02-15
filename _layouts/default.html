@@ -16,11 +16,12 @@
 
   <link href="https://api.tiles.mapbox.com/mapbox.js/v1.6.5/mapbox.css" rel="stylesheet" />
 
-  <meta name="description" content="{% if page.title %}{{ page.title }}{% endif %} {% if page.excerpt %}{{ page.excerpt | remove_xml }}{% endif %}" />
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | remove_xml }}{% else %}{{ page.title }}{% endif %}" />
 
   <meta property="og:title" content="{% if page.title %}{{ page.title }} – {% endif %}My little world wide tour" />
   <meta property="og:locale" content="fr_FR" />
-  <meta property="og:description" content="{% if page.title %}{{ page.title }}{% endif %} {% if page.excerpt %}{{ page.excerpt | remove_xml }}{% endif %}" />
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | remove_xml }}{% else %}{{ page.title }}{% endif %}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 
   {% if page.excerpt_image %}
     <meta property="og:image" content="{{ page.excerpt_image }}" />
@@ -31,12 +32,6 @@
 
   <meta name="twitter:widgets:csp" content="on" />
   <meta name="twitter:dnt" content="on" />
-
-  {% if page.date %}
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}/" />
-  {% else %}
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  {% endif %}
 
   {% if page.title %}
 
