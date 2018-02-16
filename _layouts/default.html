@@ -7,12 +7,12 @@
   <meta name="google-site-verification" content="xwcfBQawRXyEr-eEEmQCGYnrMgVefZAbETjJ2JioX3U" />
   <title>{% if page.title %} {{ page.title }} – {% endif %}My little world wide tour – Blog de voyage de Jérémy</title>
 
-  {% stylesheet app %}
+  {% asset app.css %}
 
   <link rel="alternate" type="application/rss+xml" href="https://wildtrip.blog/rss.xml"/>
   <link rel="shortcut icon" href="https://github.global.ssl.fastly.net/images/icons/emoji/earth_africa.png"/>
 
-  {% javascript lazyload %}
+  {% asset lazyload.js %}
 
   <link href="https://api.tiles.mapbox.com/mapbox.js/v1.6.5/mapbox.css" rel="stylesheet" />
 
@@ -192,7 +192,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
   <script async src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.jquery.min.js"></script>
 
-  {% javascript app %}
+  {% asset app.js %}
   <script>
     $(document).foundation();
   </script>
