@@ -52,7 +52,7 @@ Visite de [Noto](/sicile-sud-est-syracuse-noto.html) dans la matinée et nouvell
 
 {% flickr_photoset 72157677843226822 %}
 
-Route jusqu'à [Ragusa](/sicile-sud-est-syracuse-noto.html) en faisant une halte à Modica. Visite de la vieille ville de Ragusa.
+Route jusqu'à [Raguse](/sicile-sud-est-syracuse-noto.html) en faisant une halte à Modica. Visite de la vieille ville de Raguse.
 
 #### Jour 4
 

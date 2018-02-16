@@ -1,9 +1,9 @@
 ---
 layout: post
 published: true
-date: 2018-01-18
+date: 2017-02-09
 date_travel: 2017-01-01
-title: "L'ascension du Stromboli et les îles éoliennes"
+title: "L'ascension du Stromboli et les paisibles îles Éoliennes"
 location: "[15.214106, 38.795082]"
 location_zoom: 8
 tags:
