@@ -9,7 +9,7 @@ location_zoom: 12
 tags:
 - sicile
 - agrigente
-- vallées des temples
+- vallees des temples
 excerpt: "<p>Pour finir notre boucle de Sicile, nous devions faire une étape à Agrigente et aller voir la Vallée des Temples. L'idée même de voir des temples encore debout des milliers d'années après leur construction, après avoir subi des guerres, plusieurs tremblements de terre et des re-modélisations religieuses était fascinante.</p><p><b>Agrigente</b> est un peu repoussante quand on l'aperçoit au loin en arrivant, trop d'immondes barres d'immeubles entourant la ville. Mais son coeur historique, regorgeant de petites ruelles et d'escaliers dans tous les sens, arrive à nous faire oublier ce premier jugement.</p>"
 excerpt_image: https://c1.staticflickr.com/1/466/31559226523_932649a360_c.jpg
 ---
