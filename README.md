@@ -6,6 +6,7 @@ https://wildtrip.blog/
 
 ````
 bundle install
+bundle exec jekyll build
 rake site:index[ALGOLIA_ADMIN_API_KEY]
 sh deploy.sh
 ````
