@@ -56,6 +56,14 @@
       <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
     {% endif %}
   {% endif %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-345518-8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-345518-8');
+  </script>
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
 
@@ -181,12 +189,6 @@
     </div>
   </footer>
 
-  <script>
-    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-    ga('create', 'UA-345518-8', 'auto');
-    ga('send', 'pageview');
-  </script>
-  <script async src='https://www.google-analytics.com/analytics.js'></script>
   <script src="https://api.tiles.mapbox.com/mapbox.js/v1.6.5/mapbox.js"></script>
   <script src="https://cdn.jsdelivr.net/modernizr/2.7.2/modernizr.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
