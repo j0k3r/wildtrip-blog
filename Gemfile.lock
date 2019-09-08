@@ -25,7 +25,7 @@ GEM
       forwardable-extended (~> 2.5)
     fast-stemmer (1.0.2)
     fastimage (2.1.1)
-    ffi (1.9.23)
+    ffi (1.11.1)
     flickraw (0.9.9)
     forwardable-extended (2.6.0)
     gsl (2.1.0.3)
