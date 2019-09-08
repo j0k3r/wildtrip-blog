@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 gem 'jekyll'
-gem 'flickraw', '~> 0.9.9'
+gem 'flickraw', '~> 0.9.10'
 gem 'i18n', '~> 0.7.0'
 gem 'gsl', '~> 2.1', '>= 2.1.0.1'
 gem 'algoliasearch', '~> 1.10'
