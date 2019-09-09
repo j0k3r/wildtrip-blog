@@ -87,7 +87,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (4.0.1)
     rack (2.0.7)
-    rails-html-sanitizer (1.0.4)
+    rails-html-sanitizer (1.2.0)
       loofah (~> 2.2, >= 2.2.2)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
@@ -125,7 +125,7 @@ DEPENDENCIES
   jekyll-sitemap
   loofah (~> 2.2.3)
   nokogiri (~> 1.10.4)
-  rails-html-sanitizer (~> 1.0.4)
+  rails-html-sanitizer (~> 1.2.0)
   redcarpet (~> 3.4)
   uglifier
 
