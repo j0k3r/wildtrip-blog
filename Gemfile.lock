@@ -31,7 +31,7 @@ GEM
     gsl (2.1.0.3)
     http_parser.rb (0.6.0)
     httpclient (2.8.3)
-    i18n (0.7.0)
+    i18n (0.8.0)
     jekyll (3.8.6)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -118,7 +118,7 @@ DEPENDENCIES
   classifier-reborn (~> 2.0)
   flickraw (~> 0.9.9)
   gsl (~> 2.1, >= 2.1.0.1)
-  i18n (~> 0.7.0)
+  i18n (~> 0.8.0)
   jekyll
   jekyll-assets
   jekyll-paginate
