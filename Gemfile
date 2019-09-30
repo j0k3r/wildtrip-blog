@@ -11,7 +11,7 @@ gem 'classifier-reborn', '~> 2.0'
 gem 'redcarpet', '~> 3.4'
 gem 'nokogiri', '~> 1.10.4'
 # because of CVE-2018-8048 (https://github.com/flavorjones/loofah/issues/144)
-gem 'loofah', '~> 2.2.3'
+gem 'loofah', '~> 2.3.0'
 
 # rb-fsevent > 0.9.4 no longer supports OS X 10.6 through 10.8.
 require 'rbconfig'
