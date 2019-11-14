@@ -82,6 +82,8 @@ module Jekyll
     def generate_photo_data(photoset, flickrConfig)
       returnSet = Array.new
 
+      puts "Getting photos from: #{photoset}"
+
       FlickRaw.secure = true
       # force certificate validation to false to avoid error from https://github.com/j0k3r/jekyll-flickr-photoset/issues/2
       FlickRaw.check_certificate = false
