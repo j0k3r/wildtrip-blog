@@ -1,7 +1,7 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem 'jekyll'
+gem 'jekyll', '~> 3.8.6'
 gem 'flickraw', '~> 0.9.9'
 gem 'i18n', '~> 0.9.5'
 gem 'gsl', '~> 2.1', '>= 2.1.0.1'
@@ -12,6 +12,7 @@ gem 'redcarpet', '~> 3.4'
 gem 'nokogiri', '~> 1.10.5'
 # because of CVE-2018-8048 (https://github.com/flavorjones/loofah/issues/144)
 gem 'loofah', '~> 2.4.0'
+gem 'rubyzip'
 
 # rb-fsevent > 0.9.4 no longer supports OS X 10.6 through 10.8.
 require 'rbconfig'

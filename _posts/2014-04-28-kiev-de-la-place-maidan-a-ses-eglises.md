@@ -93,6 +93,6 @@ Elle nous avait été recommandée par Nikolaï, le mec de notre hostel. Elle po
 Kiev est souvent le point de départ pour aller *visiter* Tchernobyl. Les abords du site ne seraient plus trop contaminés et feraient la part belle aux agences de voyages locales qui mettent grandement en avant cette *attraction touristique*. Autant la visite de [la DMZ entre les deux Corée](/la-dmz-entre-les-deux-coree/) avait attisé notre curiosité, autant aller "visiter" Tchernobyl nous semblait un peu mal venu et nous mettait mal à l'aise.
 Il est plus intéressant d'aller au musée de Tchernobyl qui rend vraiment compte de l'horreur de cet accident nucléaire qui a eu lieu le 26 avril 1986. On y apprend beaucoup de choses et on prend conscience de l'importance du nombre des victimes et des villes rasées (photo ci-dessous).
 
-{% flickr_photoset 72157648674025172 "Square" "Medium 640" "Large" %}
+{% flickr_photoset 72157648674025172 %}
 
 En bref, Kiev valait vraiment le coup. Dommage qu'il ait fait un temps maussade pendant notre séjour, un grand soleil aurait donné bien plus de couleurs et beauté à tous les dômes dorés que nous avons croisés.
