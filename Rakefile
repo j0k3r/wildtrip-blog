@@ -56,12 +56,15 @@ namespace :site do
 
   desc "Build the website"
   task :build do
+    puts "Copying config file"
     if !File.exist?('_config.yml')
       FileUtils.mv('_config.yml.dist', '_config.yml')
     end
 
+    puts "Creating Flickr cache folder"
     FileUtils.mkdir_p jekyll_config['flickr']['cache_dir']
 
+    puts "Download Flickr cache"
     Rake::Task["site:flickrcache"].execute
   end
 end
