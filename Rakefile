@@ -1,10 +1,9 @@
-require 'fileutils'
-require 'net/http'
-require 'zip'
-require 'rubygems'
-require 'bundler/setup'
-require 'jekyll'
-require 'algoliasearch'
+require "fileutils"
+require "net/http"
+require "rubygems"
+require "bundler/setup"
+require "jekyll"
+require "algoliasearch"
 
 namespace :site do
   jekyll_config = Jekyll.configuration(source: '.', destination: '_site')
@@ -44,12 +43,8 @@ namespace :site do
       file.write(zipped_folder)
     end
 
-    Zip::File.open('cache.zip') do |zip_file|
-      zip_file.each do |entry|
-        puts "Extracting #{entry.name}"
-        entry.extract(jekyll_config['flickr']['cache_dir'] + '/' + entry.name) { true }
-      end
-    end
+    # got an issue with using 'zip' on Netlify
+    `unzip -o cache.zip -d ./_cache/flickr`
 
     File.delete('cache.zip')
   end
