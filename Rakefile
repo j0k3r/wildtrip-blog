@@ -44,7 +44,7 @@ namespace :site do
     end
 
     # got an issue with using 'zip' on Netlify
-    `unzip -o cache.zip -d ./_cache/flickr`
+    `unzip -o cache.zip -d #{jekyll_config['flickr']['cache_dir']}`
 
     File.delete('cache.zip')
   end
