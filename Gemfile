@@ -9,7 +9,7 @@ gem 'algoliasearch', '~> 1.27'
 gem 'rails-html-sanitizer', '~> 1.3.0'
 gem 'classifier-reborn', '~> 2.0'
 gem 'redcarpet', '~> 3.4'
-gem 'nokogiri', '~> 1.10.6'
+gem 'nokogiri', '~> 1.10.7'
 # because of CVE-2018-8048 (https://github.com/flavorjones/loofah/issues/144)
 gem 'loofah', '~> 2.4.0'
 
