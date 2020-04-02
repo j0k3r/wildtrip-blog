@@ -28,7 +28,7 @@ layout: default
 
 {% if page.location %}
 <script type="text/javascript">
-var geoSetview = {{ page.location }}.reverse();
+var geoSetview = {{ page.location }};
 
 {% if page.location_zoom %}
 var geoSetzoom = {{ page.location_zoom }};
