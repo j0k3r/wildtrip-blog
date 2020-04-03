@@ -70,11 +70,10 @@ if ("undefined" !== typeof geoJson) {
     $('#map').hide();
   }
 
-  var map = L.mapbox.map(mapId, 'j0k.g65a64bm', {
-    tileLayer: {
-      detectRetina: true
-    }
-  });
+  L.mapbox.accessToken = 'pk.eyJ1IjoiajBrIiwiYSI6ImNrOGlzbDB3YzAybzczZ3FpcTJyaXFpdjYifQ._v6Om2_LkhJALoyKIRRa7g';
+
+  var map = L.mapbox.map(mapId)
+    .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
 
   // disable drag and zoom handlers
   // map.dragging.disable();
@@ -85,21 +84,20 @@ if ("undefined" !== typeof geoJson) {
   // disable tap handler, if present.
   // if (map.tap) map.tap.disable();
 
+  var featureLayer = L.mapbox
+    .featureLayer(geoJson)
+    .addTo(map);
+
   // Add custom popups to each using our custom feature properties
-  map.markerLayer.on('layeradd', function(e) {
-    var marker = e.layer,
-    feature = marker.feature;
-
+  featureLayer.eachLayer(function(layer) {
     // Create custom popup content
-    var popupContent = '<a target="_blank" class="popup" href="' + feature.properties.url + '">' + feature.properties.title + '</a>';
+    var popupContent = '<a target="_blank" class="popup" href="' + layer.feature.properties.url + '">' + layer.feature.properties.title + '</a>';
 
-    marker.bindPopup(popupContent,{
+    layer.bindPopup(popupContent,{
       closeButton: false,
       minWidth: 320
     });
   });
-
-  map.markerLayer.setGeoJSON(geoJson);
 
   if ("undefined" !== typeof geoSetview) {
     // define view is more zoomed: 10
