@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    algoliasearch (1.27.1)
+    algoliasearch (1.27.2)
       httpclient (~> 2.8, >= 2.8.3)
       json (>= 1.5.1)
     classifier-reborn (2.2.0)
