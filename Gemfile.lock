@@ -90,7 +90,7 @@ GEM
     public_suffix (4.0.6)
     racc (1.5.2)
     rack (2.2.3)
-    rails-html-sanitizer (1.3.0)
+    rails-html-sanitizer (1.4.1)
       loofah (~> 2.3)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
@@ -128,7 +128,7 @@ DEPENDENCIES
   jekyll-sitemap
   loofah (~> 2.10.0)
   nokogiri (~> 1.12.3)
-  rails-html-sanitizer (~> 1.3.0)
+  rails-html-sanitizer (~> 1.4.1)
   redcarpet (~> 3.5)
   uglifier
 
