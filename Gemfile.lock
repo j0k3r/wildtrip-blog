@@ -82,7 +82,7 @@ GEM
     mercenary (0.3.6)
     mini_portile2 (2.8.0)
     minitest (5.14.1)
-    nokogiri (1.13.3)
+    nokogiri (1.13.4)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -127,7 +127,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   loofah (~> 2.16.0)
-  nokogiri (~> 1.13.3)
+  nokogiri (~> 1.13.4)
   rails-html-sanitizer (~> 1.4.2)
   redcarpet (~> 3.5)
   uglifier
