@@ -11,8 +11,9 @@ GEM
     algoliasearch (1.27.5)
       httpclient (~> 2.8, >= 2.8.3)
       json (>= 1.5.1)
-    classifier-reborn (2.2.0)
+    classifier-reborn (2.3.0)
       fast-stemmer (~> 1.0)
+      matrix (~> 0.4)
     colorator (1.1.0)
     concurrent-ruby (1.1.10)
     crass (1.0.6)
@@ -79,6 +80,7 @@ GEM
     loofah (2.18.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
+    matrix (0.4.2)
     mercenary (0.3.6)
     mini_portile2 (2.8.0)
     minitest (5.14.1)
@@ -118,7 +120,7 @@ PLATFORMS
 
 DEPENDENCIES
   algoliasearch (~> 1.27)
-  classifier-reborn (~> 2.0)
+  classifier-reborn (~> 2.3)
   flickraw (~> 0.9.9)
   gsl (~> 2.1, >= 2.1.0.1)
   i18n (~> 0.9.5)
