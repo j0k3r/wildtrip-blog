@@ -6,12 +6,12 @@ gem 'flickraw', '~> 0.9.9'
 gem 'i18n', '~> 0.9.5'
 gem 'gsl', '~> 2.1', '>= 2.1.0.1'
 gem 'algoliasearch', '~> 1.27'
-gem 'rails-html-sanitizer', '~> 1.4.3'
+gem 'rails-html-sanitizer', '~> 1.5.0'
 gem 'classifier-reborn', '~> 2.3'
 gem 'redcarpet', '~> 3.5'
 gem 'nokogiri', '~> 1.13.10'
 # because of CVE-2018-8048 (https://github.com/flavorjones/loofah/issues/144)
-gem 'loofah', '~> 2.18.0'
+gem 'loofah', '~> 2.19.1'
 
 # rb-fsevent > 0.9.4 no longer supports OS X 10.6 through 10.8.
 require 'rbconfig'
