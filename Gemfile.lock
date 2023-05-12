@@ -32,7 +32,7 @@ GEM
     gsl (2.1.0.3)
     http_parser.rb (0.8.0)
     httpclient (2.8.3)
-    i18n (0.9.5)
+    i18n (1.13.0)
       concurrent-ruby (~> 1.0)
     jekyll (3.9.3)
       addressable (~> 2.4)
@@ -123,7 +123,7 @@ DEPENDENCIES
   classifier-reborn (~> 2.3)
   flickraw (~> 0.9.9)
   gsl (~> 2.1, >= 2.1.0.1)
-  i18n (~> 0.9.5)
+  i18n (~> 1.13.0)
   jekyll (~> 3.9.3)
   jekyll-assets
   jekyll-paginate
