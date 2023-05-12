@@ -77,9 +77,9 @@ GEM
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    loofah (2.21.1)
+    loofah (2.21.2)
       crass (~> 1.0.2)
-      nokogiri (>= 1.5.9)
+      nokogiri (>= 1.12.0)
     matrix (0.4.2)
     mercenary (0.3.6)
     mini_portile2 (2.8.2)
@@ -128,7 +128,7 @@ DEPENDENCIES
   jekyll-assets
   jekyll-paginate
   jekyll-sitemap
-  loofah (~> 2.21.1)
+  loofah (~> 2.21.2)
   nokogiri (~> 1.14.4)
   rails-html-sanitizer (~> 1.5.0)
   redcarpet (~> 3.6)
