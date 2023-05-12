@@ -97,7 +97,7 @@ GEM
     rb-fsevent (0.11.1)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    redcarpet (3.5.1)
+    redcarpet (3.6.0)
     rexml (3.2.5)
     rouge (3.28.0)
     safe_yaml (1.0.5)
@@ -131,7 +131,7 @@ DEPENDENCIES
   loofah (~> 2.21.1)
   nokogiri (~> 1.13.10)
   rails-html-sanitizer (~> 1.4.3)
-  redcarpet (~> 3.5)
+  redcarpet (~> 3.6)
   uglifier
 
 BUNDLED WITH
