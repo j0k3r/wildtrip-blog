@@ -15,7 +15,7 @@ GEM
       fast-stemmer (~> 1.0)
       matrix (~> 0.4)
     colorator (1.1.0)
-    concurrent-ruby (1.2.2)
+    concurrent-ruby (1.2.3)
     crass (1.0.6)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
@@ -34,7 +34,7 @@ GEM
     httpclient (2.8.3)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
-    jekyll (3.9.4)
+    jekyll (3.9.5)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -125,7 +125,7 @@ DEPENDENCIES
   flickraw (~> 0.9.9)
   gsl (~> 2.1, >= 2.1.0.1)
   i18n (~> 1.14.1)
-  jekyll (~> 3.9.4)
+  jekyll (~> 3.9.5)
   jekyll-assets
   jekyll-paginate
   jekyll-sitemap

@@ -1,7 +1,7 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 3.9.4'
+gem 'jekyll', '~> 3.9.5'
 gem 'flickraw', '~> 0.9.9'
 gem 'i18n', '~> 1.14.1'
 gem 'gsl', '~> 2.1', '>= 2.1.0.1'
