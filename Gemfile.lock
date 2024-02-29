@@ -91,7 +91,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (5.0.4)
     racc (1.7.3)
-    rack (2.2.7)
+    rack (2.2.8.1)
     rails-html-sanitizer (1.6.0)
       loofah (~> 2.21)
       nokogiri (~> 1.14)
