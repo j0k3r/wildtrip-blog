@@ -3,7 +3,7 @@ source "https://rubygems.org"
 
 gem 'jekyll', '~> 3.9.5'
 gem 'flickraw', '~> 0.9.9'
-gem 'i18n', '~> 1.14.3'
+gem 'i18n', '~> 1.14.4'
 gem 'gsl', '~> 2.1', '>= 2.1.0.1'
 gem 'algoliasearch', '~> 1.27'
 gem 'rails-html-sanitizer', '~> 1.6.0'
