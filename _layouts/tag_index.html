@@ -16,7 +16,7 @@ layout: default
 
 <script type="text/javascript">
   {% if page.location['points'] %}
-  var geoTagSetview = {{ page.location['points'] }}.reverse();
+  var geoTagSetview = {{ page.location['points'] }};
   {% endif %}
 
   {% if page.location['zoom'] %}

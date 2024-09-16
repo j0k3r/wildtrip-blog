@@ -70,44 +70,82 @@ if ("undefined" !== typeof geoJson) {
     $('#map').hide();
   }
 
-  L.mapbox.accessToken = 'pk.eyJ1IjoiajBrIiwiYSI6ImNrOGlzbDB3YzAybzczZ3FpcTJyaXFpdjYifQ._v6Om2_LkhJALoyKIRRa7g';
+  mapboxgl.accessToken = 'pk.eyJ1IjoiajBrIiwiYSI6ImNrOGlzbDB3YzAybzczZ3FpcTJyaXFpdjYifQ._v6Om2_LkhJALoyKIRRa7g';
+  var map = new mapboxgl.Map({
+    container: mapId,
+    style: 'mapbox://styles/j0k/ciwts6fc100822pnyaro48h27?optimize=true'
+  });
 
-  var map = L.mapbox.map(mapId)
-    .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
+  // disable map zoom when using scroll
+  map.scrollZoom.disable();
 
-  // disable drag and zoom handlers
-  // map.dragging.disable();
-  // map.touchZoom.disable();
-  // map.doubleClickZoom.disable();
-  map.scrollWheelZoom.disable();
+  map.on('load', function() {
+    map.addSource('places', {
+      'type': 'geojson',
+      'data': {
+        'type': 'FeatureCollection',
+        'features': geoJson,
+      },
+    })
 
-  // disable tap handler, if present.
-  // if (map.tap) map.tap.disable();
+    // Add a layer showing the places.
+    map.addLayer({
+      'id': 'places',
+      'type': 'symbol',
+      'source': 'places',
+      'layout': {
+        'icon-image': 'attraction-15',
+        'icon-allow-overlap': true,
+        'icon-size': 1.5
+      }
+    });
 
-  var featureLayer = L.mapbox
-    .featureLayer(geoJson)
-    .addTo(map);
+    // When a click event occurs on a feature in the places layer, open a popup at the
+    // location of the feature, with description HTML from its properties.
+    map.on('click', 'places', function(e) {
+      var coordinates = e.features[0].geometry.coordinates.slice();
 
-  // Add custom popups to each using our custom feature properties
-  featureLayer.eachLayer(function(layer) {
-    // Create custom popup content
-    var popupContent = '<a target="_blank" class="popup" href="' + layer.feature.properties.url + '">' + layer.feature.properties.title + '</a>';
+      // Create custom popup content
+      var popupContent = '<a target="_blank" class="popup" href="' + e.features[0].properties.url + '">' + e.features[0].properties.title + '</a>';
 
-    layer.bindPopup(popupContent,{
-      closeButton: false,
-      minWidth: 320
+      // Ensure that if the map is zoomed out such that multiple
+      // copies of the feature are visible, the popup appears
+      // over the copy being pointed to.
+      while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+      }
+
+      new mapboxgl.Popup({
+          closeButton: false,
+        })
+        .setLngLat(coordinates)
+        .setHTML(popupContent)
+        .addTo(map);
+    });
+
+    // Change the cursor to a pointer when the mouse is over the places layer.
+    map.on('mouseenter', 'places', function() {
+      map.getCanvas().style.cursor = 'pointer';
+    });
+
+    // Change it back to a pointer when it leaves.
+    map.on('mouseleave', 'places', function() {
+      map.getCanvas().style.cursor = '';
     });
   });
 
   if ("undefined" !== typeof geoSetview) {
     // define view is more zoomed: 10
-    map.setView(geoSetview, ("undefined" !== typeof geoSetzoom) ? geoSetzoom : 10);
+    map.setCenter(geoSetview);
+    map.setZoom(("undefined" !== typeof geoSetzoom) ? geoSetzoom : 9);
   } else if ("undefined" !== typeof geoTagSetview) {
     // tag view might be more global, zommed: 5
-    map.setView(geoTagSetview, ("undefined" !== typeof geoSetzoom) ? geoSetzoom : 5);
+    map.setCenter(geoTagSetview);
+    map.setZoom(("undefined" !== typeof geoSetzoom) ? geoSetzoom : 4);
   } else if ("undefined" !== typeof geoDefaultSetview) {
-    // default view is less zommed: 2
-    map.setView(geoDefaultSetview, 2);
+    // default view is less zommed: 1
+    map.setCenter(geoDefaultSetview);
+    map.setZoom(1);
   } else {
     // no setview, so we don't show the map
     $('#map').hide();

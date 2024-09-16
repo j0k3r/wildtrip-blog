@@ -14,7 +14,7 @@ namespace :site do
     jekyll_site.process
   end
 
-  desc "Generate, index and publish blog to gh-pages"
+  desc "Generate and index posts"
   task :index, [:algolia_api_key] => :generate do |t, args|
     application_id = ENV['ALGOLIA_APP_ID'] || jekyll_config['algolia']['application_id']
 
