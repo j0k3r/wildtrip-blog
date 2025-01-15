@@ -1,0 +1,84 @@
+---
+# this will generate all paginate pages
+pagination:
+  data: collections.posts
+  size: 5
+  reverse: true
+
+permalink: "{% if pagination.pageNumber > 0 %}page{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+
+eleventyComputed:
+  title: "{% if pagination.pageNumber > 0 %}Tous les articles, page {{ pagination.pageNumber + 1 }}{% endif %}"
+
+defaultlocation: "[38, 45]"
+excerpt: "Blog de voyage de Jérémy. En vadrouille en asie du sud, en Chine, en Russie, via le Transsibérien mais aussi le Sri Lanka, l'Europe, etc."
+---
+{% set postslist = pagination.items.reverse() %}
+
+<div class="large-12 columns">
+  {% include "posts-list.njk" %}
+</div>
+
+{% set currentPage = pagination.pageNumber+1 %}
+{% set totalPage = pagination.pages.length %}
+
+<div class="large-12 columns pagination-centered">
+  <ul class="pagination">
+    {% if pagination.href.previous %}
+      <li class="arrow">
+      {% if pagination.href.previous == '/page1/' %}
+        <a href="/">&laquo;</a>
+      {% else %}
+        <a href="{{ pagination.href.previous }}">&laquo;</a>
+      {% endif %}
+      </li>
+    {% endif %}
+
+    {% if currentPage == 1 %}
+      <li class="current"><a href="/">1</a></li>
+    {% else %}
+      <li><a href="/">1</a></li>
+    {% endif %}
+
+    {% set page_start = 2 %}
+    {% if currentPage > 5 %}
+      {% set page_start = currentPage-2 %}
+      <li class="disabled">…</li>
+    {% endif %}
+
+    {% set page_end = totalPage %}
+    {% set to_end = totalPage-currentPage %}
+    {% if to_end > 4 %}
+      {% set page_end = currentPage+3 %}
+    {% endif %}
+
+    {% for index in range(page_start, page_end) %}
+      {% if index == currentPage %}
+        <li class="current"><a href="/page{{index}}/">{{index}}</a></li>
+      {% else %}
+        <li><a href="/page{{index}}/">{{index}}</a></li>
+      {% endif %}
+    {% endfor %}
+
+    {% if to_end > 4 %}
+      <li class="disabled">…</li>
+    {% endif %}
+
+    {% if currentPage == totalPage %}
+      <li class="current"><a href="/page{{currentPage}}/">{{currentPage}}</a></li>
+    {% else %}
+      <li><a href="/page{{totalPage}}/">{{totalPage}}</a></li>
+    {% endif %}
+
+    {% if pagination.href.next %}
+      <li class="arrow"><a href="{{ pagination.href.next }}">&raquo;</a></li>
+    {% else %}
+      <li class="disabled">&raquo;</li>
+    {% endif %}
+  </ul>
+</div>
+
+<script src="/_allpoints.js"></script>
+<script type="text/javascript">
+  const geoDefaultSetview = {{ defaultlocation }};
+</script>
