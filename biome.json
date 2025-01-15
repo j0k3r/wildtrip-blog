@@ -7,7 +7,13 @@
   },
   "files": {
     "ignoreUnknown": false,
-    "include": ["eleventy.config.js", "content/**/*.js", "_data/**/*.js", "_config/**/*.js"],
+    "include": [
+      "eleventy.config.js",
+      "content/**/*.js",
+      "_data/**/*.js",
+      "_data/**/*.json",
+      "_config/**/*.js"
+    ],
     "ignore": ["node_modules", "OLD", "_site"]
   },
   "formatter": {

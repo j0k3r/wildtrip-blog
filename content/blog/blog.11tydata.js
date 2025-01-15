@@ -25,7 +25,7 @@ const geoJson =
         "marker-color": "#f1762d",
         "marker-symbol": "star",
         "url": "${data.page.url}",
-        "title": "${data.title.replace(/"/, '')}"
+        "title": "${data.title.replace(/"/g, '')}"
     }
 }];
 </script>`;

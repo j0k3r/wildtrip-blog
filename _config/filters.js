@@ -62,6 +62,13 @@ export default function (eleventyConfig) {
     return array.slice(0, limit);
   });
 
+  eleventyConfig.addFilter('upperFirstLetters', (string) => {
+    return string
+      .split(' ')
+      .map((word) => word[0].toUpperCase() + word.substring(1))
+      .join(' ');
+  });
+
   eleventyConfig.addFilter('remove_xml', (data) => {
     // TODO
     return data;

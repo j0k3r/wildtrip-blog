@@ -1,25 +1,112 @@
 ---js
+// this will generate all tags pages
 // <script>
 const pagination = {
-	data: "collections",
-	size: 1,
-	alias: "tag",
-	filter: ["all", "posts"],
-	// addAllPagesToCollections: true,
+  data: "collections",
+  size: 1,
+  alias: "tag",
+  filter: ["all", "posts"],
 };
 
 const eleventyExcludeFromCollections = true;
 
 const eleventyComputed = {
-	title: "Tagged '{{ tag }}'",
-	permalink: function(data) {
-		return `/tags/${this.slugify(data.tag)}/`;
-	}
+  title: "Billets tagués « {{ tag | safe | upperFirstLetters }} »",
+  permalink: function(data) {
+    return `/tag/${this.slugify(data.tag.replace(/ /g, ''))}/`;
+  },
+  geoData: (data) => {
+    let points = undefined
+    let zoom = undefined
+
+    switch (data.tag) {
+      case 'chine': {
+        points = "[104.195397, 35.861660]"
+        zoom = 4
+        break
+      }
+      case 'hong kong': {
+        points = "[114.109497, 22.396428]"
+        zoom = 9
+        break
+      }
+      case 'coree du sud': {
+        points = "[127.766922, 35.907757]"
+        zoom = 6
+        break
+      }
+      case 'indonesie': {
+        points = "[113.921327, -0.789275]"
+        break
+      }
+      case 'thailande': {
+        points = "[99.711914, 13.496473]"
+        break
+      }
+      case 'malaisie': {
+        points = "[101.975766, 4.210484]"
+        break
+      }
+      case 'france': {
+        points = "[2.213749, 46.227638]"
+        break
+      }
+      case 'ukraine': {
+        points = "[30.794678, 49.337204]"
+        break
+      }
+      case 'russie': {
+        points = "[62.132492, 56.628924]"
+        zoom = 4
+        break
+      }
+      case 'mongolie': {
+        points = "[106.907272, 47.921720]"
+        break
+      }
+      case 'sri lanka': {
+        points = "[80.661934, 7.682562]"
+        zoom = 7
+        break
+      }
+      case 'sicile': {
+        points = "[14.658782, 37.397930]"
+        zoom = 7
+      }
+    }
+
+    if (points && zoom) {
+      return `<script type="text/javascript">const geoTagSetview = [${JSON.parse(points).reverse()}]; const geoSetzoom = ${zoom};</script>`
+    }
+
+    if (points) {
+      return `<script type="text/javascript">const geoTagSetview = [${JSON.parse(points).reverse()}];</script>`
+    }
+
+    return ''
+  }
 };
+const layout = 'layouts/tag.njk';
 ---
-<h1>Tagged “{{ tag }}”</h1>
+{% set postslist = collections[tag] %}
 
-{% set postslist = collections[ tag ] %}
-{% include "posts-list.njk" %}
+<h1 class="subheader">{{title}}</h1>
+<hr/>
 
-<p>See <a href="tags.njk">all tags</a>.</p>
+{%- for post in postslist | reverse %}
+  {% set url = post.url %}
+  {% set title = post.data.title %}
+  {% set date = post.date %}
+  {% set date_travel = post.data.date_travel %}
+  {% set tags = post.data.tags %}
+  {% set excerpt = post.data.excerpt %}
+  {% set excerpt_image = post.data.excerpt_image %}
+
+  <div class="large-12 columns">
+    {% include 'header.njk' %}
+  </div>
+{%- endfor %}
+
+<script src="/_allpoints.js"></script>
+
+{{ geoData | safe }}
