@@ -1,25 +1,30 @@
 ---
 layout: layouts/base.njk
 ---
-<h1>{{ title }}</h1>
+<div class="large-12 columns">
+  {% include 'header.njk' %}
 
-<ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-	{%- for tag in tags | filterTagList %}
-	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
-	{%- endfor %}
-</ul>
+  {{ content | safe }}
+</div>
 
-{{ content | safe }}
+<hr class="hide-for-small" />
 
-{%- if collections.posts %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem %}
-{%- set nextPost = collections.posts | getNextCollectionItem %}
-{%- if nextPost or previousPost %}
-<ul class="links-nextprev">
-	{%- if previousPost %}<li class="links-nextprev-prev">← Previous<br> <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-	{%- if nextPost %}<li class="links-nextprev-next">Next →<br><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-</ul>
-{%- endif %}
-{%- endif %}
+<div class="hide-for-small large-12 columns">
+  <p class="edit">Si vous voulez signaler une erreur ou proposer une modification de ce texte, n'hésitez pas à l'éditer directement à <a href="https://github.com/j0k3r/wildtrip-blog/blob/blog/{{ page.inputPath }}">la source sur Github</a>.</p>
+
+  {% set tagsNumber = tags | length | min(2) %}
+  {% set linkedContent = collections.posts | hasSomeTags(page.url, tagsNumber, tags) %}
+  {% if linkedContent | length > 0 %}
+    <h3>À découvrir aussi</h3>
+    {% for item in linkedContent | limit(5) %}
+    <article>
+      <h4>
+        <small>{{ item.date | readableDate }} »</small>
+        <a href="{{ item.url }}">{{ item.data.title }}</a>
+      </h4>
+    </article>
+    {% endfor %}
+  {% endif %}
+</div>
+
+{{ geoData | safe }}

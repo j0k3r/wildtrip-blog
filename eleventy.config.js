@@ -123,7 +123,7 @@ export default async function (eleventyConfig) {
     return dayjs(dateValue).toDate();
   });
 
-  // build list of tags with number of contents per tag sorted by most contennts per tag
+  // build list of tags with number of contents per tag sorted by most contents per tag (with a minimum of 3 contents)
   eleventyConfig.addCollection('tagsList', (collection) => {
     const tagsObject = {};
     for (const item of collection.getAll()) {
@@ -143,7 +143,7 @@ export default async function (eleventyConfig) {
       tagList.push({ tagName: tagObject, tagCount: tagsObject[tagObject] });
     }
 
-    return tagList.sort((a, b) => b.tagCount - a.tagCount);
+    return tagList.filter((tag) => tag.tagCount >= 3).sort((a, b) => b.tagCount - a.tagCount);
   });
 
   // build all points for the main map
@@ -173,7 +173,7 @@ export default async function (eleventyConfig) {
 export const config = {
   // Control which files Eleventy will process
   // e.g.: *.md, *.njk, *.html, *.liquid
-  templateFormats: ['md', 'njk', 'html', 'liquid', '11ty.js'],
+  templateFormats: ['md', 'njk', 'html', '11ty.js'],
 
   // Pre-process *.md files with: (default: `liquid`)
   markdownTemplateEngine: 'njk',

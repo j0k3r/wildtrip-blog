@@ -1,7 +1,14 @@
 ---
 defaultlocation: "[38, 45]"
 excerpt: "Blog de voyage de Jérémy. En vadrouille en asie du sud, en Chine, en Russie, via le Transsibérien mais aussi le Sri Lanka, l'Europe, etc."
+
+numberOfLatestPostsToShow: 10
 ---
+
+{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+
+{% include "posts-list.njk" %}
+
 {# {% for post in paginator.posts %}
 
 <div class="large-12 columns">
