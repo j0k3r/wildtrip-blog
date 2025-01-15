@@ -1,5 +1,4 @@
 _site/
-_cache/
-.jekyll-cache/
-/.jekyll-metadata
-_config.yml
+node_modules/
+.cache
+OLD

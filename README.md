@@ -1,12 +1,7 @@
-This is my travel blog, previously hosted on Posterous, and now powered by Jekyll, Flickr & Foundation.
+# wildtrip.blog
 
-*Since Github doesn't allow plugins in Jekyll hosted website (I use them mostly for Flickr integration), I hosted it on my own server.*
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4fd8a740-1dd7-4e91-b2ca-2f06c899ce71/deploy-status)](https://app.netlify.com/sites/wildtrip-blog/deploys)
 
-https://wildtrip.blog/
+This my [my travel blog](https://wildtrip.blog) hosted on Netlify, built using 11ty and Foundation 5.5.3.
 
-````
-bundle install
-bundle exec jekyll build
-rake site:index[ALGOLIA_ADMIN_API_KEY]
-sh deploy.sh
-````
+It was previously hosted on [Posterous](https://en.wikipedia.org/wiki/Posterous) and build using Jekyll.
