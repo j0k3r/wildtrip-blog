@@ -12,14 +12,13 @@ layout: layouts/base.njk
 <div class="hide-for-small large-12 columns">
   <p class="edit">Si vous voulez signaler une erreur ou proposer une modification de ce texte, n'hésitez pas à l'éditer directement à <a href="https://github.com/j0k3r/wildtrip-blog/blob/blog/{{ page.inputPath }}">la source sur Github</a>.</p>
 
-  {% set tagsNumber = tags | length | min(2) %}
-  {% set linkedContent = collections.posts | hasSomeTags(page.url, tagsNumber, tags) %}
+  {% set linkedContent = collections.posts | hasSomeTags(page.url, tags) %}
   {% if linkedContent | length > 0 %}
     <h3>À découvrir aussi</h3>
     {% for item in linkedContent | limit(5) %}
     <article>
       <h4>
-        <small>{{ item.date | readableDate }} »</small>
+        <small>{{ item.date | htmlDateString }} »</small>
         <a href="{{ item.url }}">{{ item.data.title }}</a>
       </h4>
     </article>

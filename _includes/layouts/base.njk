@@ -92,31 +92,31 @@
 
           <section class="top-bar-section">
             <ul>
-              <li><a href="/la-carte-au-tresor.html">La carte au trésor</a></li>
+              <li><a href="/la-carte-au-tresor/">La carte au trésor</a></li>
               <li class="has-dropdown"><a href="#">Par pays</a>
                 <ul class="dropdown">
                   <li class="has-dropdown"><a href="#">Asie</a>
                     <ul class="dropdown">
-                      <li><a href="/tag/chine.html">Chine</a></li>
-                      <li><a href="/tag/coreedusud.html">Corée du Sud</a></li>
-                      <li><a href="/tag/hongkong.html">Hong Kong</a></li>
-                      <li><a href="/tag/indonesie.html">Indonésie</a></li>
-                      <li><a href="/tag/malaisie.html">Malaisie</a></li>
-                      <li><a href="/tag/srilanka.html">Sri Lanka</a></li>
-                      <li><a href="/tag/thailande.html">Thaïlande</a></li>
+                      <li><a href="/tag/chine/">Chine</a></li>
+                      <li><a href="/tag/coreedusud/">Corée du Sud</a></li>
+                      <li><a href="/tag/hongkong/">Hong Kong</a></li>
+                      <li><a href="/tag/indonesie/">Indonésie</a></li>
+                      <li><a href="/tag/malaisie/">Malaisie</a></li>
+                      <li><a href="/tag/srilanka/">Sri Lanka</a></li>
+                      <li><a href="/tag/thailande/">Thaïlande</a></li>
                     </ul>
                   </li>
                   <li class="has-dropdown"><a href="#">Transsibérien</a>
                     <ul class="dropdown">
-                      <li><a href="/tag/mongolie.html">Mongolie</a></li>
-                      <li><a href="/tag/russie.html">Russie</a></li>
-                      <li><a href="/tag/ukraine.html">Ukraine</a></li>
+                      <li><a href="/tag/mongolie/">Mongolie</a></li>
+                      <li><a href="/tag/russie/">Russie</a></li>
+                      <li><a href="/tag/ukraine/">Ukraine</a></li>
                     </ul>
                   </li>
                   <li class="has-dropdown"><a href="#">Europe</a>
                     <ul class="dropdown">
-                      <li><a href="/tag/france.html">France</a></li>
-                      <li><a href="/tag/sicile.html">Sicile</a></li>
+                      <li><a href="/tag/france/">France</a></li>
+                      <li><a href="/tag/sicile/">Sicile</a></li>
                     </ul>
                   </li>
                 </ul>
@@ -140,7 +140,6 @@
   </div>
 
   <div class="row content">
-
     <div class="large-12 columns" id="search-results" style="display: none;">
       <h1 class="subheader">Résultats de la recherche</h1>
       <div class="entries"></div>
@@ -148,7 +147,6 @@
     </div>
 
     {{ content | safe }}
-
   </div>
 
   <footer>
@@ -156,27 +154,9 @@
       <div class="large-4 columns">
         <h6>Vous pouvez me contacter</h6>
         <p>
-          Via <a rel="me" href="https://twitter.com/j0k">Twitter</a>,
-          <a href="https://www.facebook.com/jeremy.benoist">Facebook</a> ou par
+          Via <a rel="me" href="https://mamot.fr/@j0k">Mastodon</a> ou par
           <a href="mailto:&#106;&#101;&#114;&#101;&#109;&#121;&#046;&#098;&#101;&#110;&#111;&#105;&#115;&#116;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">mail</a>.
         </p>
-        <h6>Recevez les articles par e-mail</h6>
-        <p>Vous recevrez quotidiennement les nouveaux articles.</p>
-        <form action="https://feed.press/e/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed_id=blogwildtrip', 'popupwindow', 'scrollbars=yes,width=550,height=400');return true">
-          <div class="row">
-            <div class="large-12 columns">
-              <div class="row collapse">
-                <div class="small-8 columns">
-                  <input type="text" name="email" title="E-mail" placeholder="E-mail">
-                </div>
-                <div class="small-4 columns">
-                  <input type="hidden" value="blogwildtrip" name="feed_id"/>
-                  <button type="submit" class="button postfix success">S'abonner</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </form>
       </div>
       <div class="large-3 columns hide-for-small">
         <h6>D'autres sites à visiter</h6>
@@ -190,7 +170,7 @@
         <h6>Tags populaires</h6>
         <ul class="inline-list">
           {% for data in collections.tagsList %}
-          <li><a href="/tag/{{ data.tagName | slugify }}/">{{ data.tagName }} <span>({{ data.tagCount }})</span></a></li>
+          <li><a href="/tag/{{ data.tagName | replace(" ", "") | slugify }}/">{{ data.tagName }} <span>({{ data.tagCount }})</span></a></li>
           {% endfor %}
         </ul>
       </div>

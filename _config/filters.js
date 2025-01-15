@@ -16,7 +16,7 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return dayjs(dateObj).format('YYYY-MM-D');
+    return dayjs(dateObj).format('DD/MM/YYYY');
   });
 
   // Get the first `n` elements of a collection.
@@ -41,7 +41,7 @@ export default function (eleventyConfig) {
   });
 
   // display "related posts" based on matching tags
-  eleventyConfig.addFilter('hasSomeTags', (collection, currentItemUrl, number, tags) => {
+  eleventyConfig.addFilter('hasSomeTags', (collection, currentItemUrl, tags) => {
     if (!tags) {
       return [];
     }
@@ -51,7 +51,7 @@ export default function (eleventyConfig) {
         return false;
       }
 
-      return filterTags(tags).filter((tag) => item.data.tags.includes(tag)).length >= number;
+      return filterTags(tags).filter((tag) => item.data.tags.includes(tag)).length >= 1;
     });
 
     // ensure recent posts are coming first
