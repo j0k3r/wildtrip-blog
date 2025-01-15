@@ -7,7 +7,9 @@ numberOfLatestPostsToShow: 10
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 
-{% include "posts-list.njk" %}
+<div class="large-12 columns">
+  {% include "posts-list.njk" %}
+</div>
 
 {# {% for post in paginator.posts %}
 
