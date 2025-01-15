@@ -28,16 +28,14 @@
 
   <link href="https://api.mapbox.com/mapbox.js/v3.3.0/mapbox.css" rel="stylesheet" />
 
-  <meta name="description" content="{% if excerpt %}{{ excerpt | remove_xml }}{% else %}{{ title }}{% endif %}" />
+  <meta name="description" content="{% if excerpt %}{{ excerpt | safe | striptags() }}{% else %}{{ title }}{% endif %}" />
 
   <meta property="og:title" content="{% if title %}{{ title }} – {% endif %}My little world wide tour" />
   <meta property="og:locale" content="fr_FR" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | remove_xml }}{% else %}{{ title }}{% endif %}" />
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:description" content="{% if excerpt %}{{ excerpt | safe | striptags() }}{% else %}{{ title }}{% endif %}" />
+  <meta property="og:url" content="{{ metadata.url }}{{ page.url }}" />
 
-  {% if excerpt_image %}
-    <meta property="og:image" content="{{ page.excerpt_image }}" />
-  {% endif %}
+  {% if excerpt_image %}<meta property="og:image" content="{{ excerpt_image }}" />{% endif %}
 
   <meta property="og:site_name" content="My little world wide tour" />
   <meta property="og:type" content="{% if title %}article{% else %}website{% endif %}" />
@@ -45,29 +43,26 @@
   <meta name="twitter:widgets:csp" content="on" />
   <meta name="twitter:dnt" content="on" />
 
-  {% if title %}
-
+  {% if title -%}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@j0k">
     <meta name="twitter:creator" content="@j0k">
     <meta name="twitter:title" content="{{ title }}">
-    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | remove_xml }}{% else %}{{ title }}{% endif %}">
-    <meta name="twitter:image" content="{% if page.excerpt_image %}{{ page.excerpt_image }}{% endif %}">
+    <meta name="twitter:description" content="{% if excerpt %}{{ excerpt | safe | striptags() }}{% else %}{{ title }}{% endif %}">
+    <meta name="twitter:image" content="{% if excerpt_image %}{{ excerpt_image }}{% endif %}">
 
-    <meta property="article:author" content="https://www.facebook.com/jeremy.benoist" />
+    {% if tags -%}
+      <meta property="article:section" content="{% if tags != empty %}{{ tags | filterTagList | first }}{% endif %}" />
 
-    {% if page.tags %}
-      <meta property="article:section" content="{% if page.tags != empty %}{{ page.tags[0] }}{% endif %}" />
-
-      {% for tag in page.tags %}
+      {% for tag in tags | filterTagList -%}
       <meta property="article:tag" content="{{ tag }}" />
       {% endfor %}
-    {% endif %}
+    {% endif -%}
 
-    {% if page.date %}
-      <meta property="article:published_time" content="{{ page.date }}" />
+    {% if date -%}
+      <meta property="article:published_time" content="{{ date | utcDate }}" />
     {% endif %}
-  {% endif %}
+  {% endif -%}
 
   <meta name="generator" content="{{ eleventy.generator }}">
 </head>
@@ -169,9 +164,9 @@
       <div class="large-5 columns hide-for-small">
         <h6>Tags populaires</h6>
         <ul class="inline-list">
-          {% for data in collections.tagsList %}
+          {% for data in collections.tagsList -%}
           <li><a href="/tag/{{ data.tagName | replace(" ", "") | slugify }}/">{{ data.tagName }} <span>({{ data.tagCount }})</span></a></li>
-          {% endfor %}
+          {% endfor -%}
         </ul>
       </div>
     </div>

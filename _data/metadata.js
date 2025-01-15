@@ -1,6 +1,6 @@
 export default {
   title: 'wildtrip.blog',
-  url: 'https://wildtrip.blog/',
+  url: 'https://wildtrip.blog',
   language: 'fr',
   description: 'En vadrouille en Asie du sud, en Chine, en Russie et ailleurs dans le monde',
   author: {

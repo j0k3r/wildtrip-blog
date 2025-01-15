@@ -19,6 +19,10 @@ export default function (eleventyConfig) {
     return dayjs(dateObj).format('DD/MM/YYYY');
   });
 
+  eleventyConfig.addFilter('utcDate', (dateObj) => {
+    return dayjs(dateObj).format();
+  });
+
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter('head', (array, n) => {
     if (!Array.isArray(array) || array.length === 0) {
@@ -67,10 +71,5 @@ export default function (eleventyConfig) {
       .split(' ')
       .map((word) => word[0].toUpperCase() + word.substring(1))
       .join(' ');
-  });
-
-  eleventyConfig.addFilter('remove_xml', (data) => {
-    // TODO
-    return data;
   });
 }
