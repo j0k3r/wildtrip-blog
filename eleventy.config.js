@@ -145,6 +145,29 @@ export default async function (eleventyConfig) {
 
     return tagList.sort((a, b) => b.tagCount - a.tagCount);
   });
+
+  // build all points for the main map
+  eleventyConfig.addCollection('geoJson', (collection) => {
+    const geoJson = [];
+    for (const item of collection.getAll()) {
+      if (item.data.location) {
+        geoJson.push({
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
+            coordinates: JSON.parse(item.data.location),
+          },
+          properties: {
+            'marker-color': '#F85931',
+            url: `${item.data.page.url}`,
+            title: `${item.data.title}`,
+          },
+        });
+      }
+    }
+
+    return geoJson;
+  });
 }
 
 export const config = {

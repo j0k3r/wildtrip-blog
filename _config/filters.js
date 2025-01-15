@@ -61,4 +61,9 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter('limit', (array, limit) => {
     return array.slice(0, limit);
   });
+
+  eleventyConfig.addFilter('remove_xml', (data) => {
+    // TODO
+    return data;
+  });
 }

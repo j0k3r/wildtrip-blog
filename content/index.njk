@@ -1,29 +1,72 @@
----js
-const eleventyNavigation = {
-	key: "Home",
-	order: 1
-};
-
-const numberOfLatestPostsToShow = 3;
 ---
-{% set postsCount = collections.posts | length %}
-{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+defaultlocation: "[38, 45]"
+excerpt: "Blog de voyage de Jérémy. En vadrouille en asie du sud, en Chine, en Russie, via le Transsibérien mais aussi le Sri Lanka, l'Europe, etc."
+---
+{# {% for post in paginator.posts %}
 
-{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
-{% set postslistCounter = postsCount %}
-{% include "postslist.njk" %}
+<div class="large-12 columns">
+  {% include article-header.html page=post %}
+</div>
 
-{% set morePosts = postsCount - numberOfLatestPostsToShow %}
-{% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="blog.njk">the archive</a>.</p>
-{% endif %}
+{% endfor %}
 
-{# List every content page in the project #}
-{#
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
-#}
+<div class="large-12 columns pagination-centered">
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+      <li class="arrow">
+      {% if paginator.previous_page == 1 %}
+        <a href="/">&laquo;</a>
+      {% else %}
+        <a href="/page{{paginator.previous_page}}">&laquo;</a>
+      {% endif %}
+      </li>
+    {% endif %}
+
+    {% if paginator.page == 1 %}
+      <li class="current"><a href="/">1</a></li>
+    {% else %}
+      <li><a href="/">1</a></li>
+    {% endif %}
+
+    {% assign page_start = 2 %}
+    {% if paginator.page > 5 %}
+      {% assign page_start = paginator.page | minus: 2 %}
+      <li class="disabled">…</li>
+    {% endif %}
+
+    {% assign page_end = paginator.total_pages | minus: 1 %}
+    {% assign to_end = paginator.total_pages | minus: paginator.page %}
+    {% if to_end > 4 %}
+      {% assign page_end = paginator.page | plus: 2 %}
+    {% endif %}
+
+    {% for index in (page_start..page_end) %}
+      {% if index == paginator.page %}
+        <li class="current"><a href="/page{{index}}">{{index}}</a></li>
+      {% else %}
+        <li><a href="/page{{index}}">{{index}}</a></li>
+      {% endif %}
+    {% endfor %}
+
+    {% if to_end > 4 %}
+      <li class="disabled">…</li>
+    {% endif %}
+
+    {% if paginator.page == paginator.total_pages %}
+      <li class="current"><a href="/page{{paginator.page}}">{{paginator.page}}</a></li>
+    {% else %}
+      <li><a href="/page{{paginator.total_pages}}">{{paginator.total_pages}}</a></li>
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <li class="arrow"><a href="/page{{paginator.next_page}}">&raquo;</a></li>
+    {% else %}
+      <li class="disabled">&raquo;</li>
+    {% endif %}
+  </ul>
+</div>
+ #}
+<script src="/_allpoints.js"></script>
+<script type="text/javascript">
+  var geoDefaultSetview = {{ defaultlocation }};
+</script>
