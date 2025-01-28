@@ -20,6 +20,10 @@
 
 {% if excerpt_image %}
   <p class="pagination-centered">
-    <img class="th" src="{{ excerpt_image }}" alt="{{ title }}" />
+    <img class="th" src="{{ excerpt_image }}" alt="{{ title }}">
+  </p>
+{% elif excerptImage %}
+  <p class="pagination-centered">
+    <img class="th" src="{{ excerptImage }}" alt="{{ title }}">
   </p>
 {% endif %}

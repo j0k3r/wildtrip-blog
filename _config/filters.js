@@ -1,3 +1,4 @@
+import util from 'node:util';
 import dayjs from 'dayjs';
 import 'dayjs/locale/fr.js';
 
@@ -71,5 +72,9 @@ export default function (eleventyConfig) {
       .split(' ')
       .map((word) => word[0].toUpperCase() + word.substring(1))
       .join(' ');
+  });
+
+  eleventyConfig.addFilter('console', (value) => {
+    return util.inspect(value);
   });
 }

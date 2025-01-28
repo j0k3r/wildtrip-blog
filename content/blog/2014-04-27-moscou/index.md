@@ -1,0 +1,69 @@
+---
+date: 2014-07-26
+date_travel: 2011-10-31
+title: "Moscou en une journée et demi"
+location: "[37.613068, 55.751608]"
+tags:
+- transsiberien
+- russie
+- moscou
+excerpt: "<p>Évidemment, Moscou n'est pas une ville à faire en si peu de temps. Sauf que, suite  à des soucis de visa, nous ne pouvions pas rester plus longtemps. Et comme c'est plus simple de revenir à Moscou plutôt qu'à <a href='/krasnoyarsk'>Krasnoyarsk</a>, on a préféré raccourcir notre séjour moscovite !</p><p>Nous y sommes arrivés en début d'après-midi et notre avion décollait le lendemain soir. Visite expéditive et condensée de cette capitale :)</p>"
+excerpt_image: excerpt.jpg
+---
+
+Moscou, c'est immense. Tout est grand et massif dans cette ville. On ressent bien le côté soviétique avec les énormes bâtiments en béton partout.
+
+Une des premières choses que l'on voit quand on est à Moscou, c'est le métro. Ça reste le mode de transport le plus rapide. Et le métro Russe vaut sacrément le détour. En dehors du fait que toutes les rames de métro sont plutôt classiques, l'intérieur des stations est **grandiose**. On les surnomme même les « palais souterrains ».
+
+On se croirait presque dans un musée permanent. Les plafonds sont recouverts de fresques, le haut des murs est orné de belles moulures et on retrouve même de temps en temps des vitraux !
+
+Ce qui est aussi frappant, c'est la profondeur des tunnels du métro. Ils pouvaient servir d’abris lors d'éventuels bombardements nucléaires. Et les escalators qui permettent d'y aller sont vertigineux !
+
+{# flickr_photoset 72157643947039375 #}
+
+**Le Bolchoï** a été notre petit craquage. Connaissant nos dates de passage à Moscou, on s'est empressé de réserver des places (dernier moment = prix assez cher et puis en tant qu'étrangers, on a eu le tarif correspondant, alors que le tarif russe est beaucoup plus abordable). Mais il ne fallait pas louper cette chance. Malheureusement lors de notre représentation, la salle principale du Bolchoï était en rénovation. On était donc dans le *Bolchoï New Stage*, mais c'était déjà grandiose !
+
+C'est fascinant de voir toutes les femmes russes déboulées avec des énormes manteaux, faire un passage (obligatoire) aux vestiaires (immense soit-disant passant) et finir en minijupe / micro-débardeur toutes pomponnées et sur talons hauts. Comme partout en Russie, il fait souvent très froid dehors (d'où la doudoune énorme) et très (voire trop) chaud à l'intérieur. C'est pourquoi, tout le monde passe au vestiaire et ce qui explique qu'il soit aussi grand (et bien organisé !).
+
+On a assisté à la 741ème représentation depuis la première en 1893 et c'était aussi la dernière de la saison.
+
+{# flickr_photoset 72157643947214525 #}
+
+Malgré ce passage rapide dans la capitale, on a tout de même eu la chance d'assister à un splendide coucher de soleil sur la Moskova, le Kremlin et Basile ! Top !
+
+{# flickr_photoset 72157643947434554 #}
+
+La cathédrale **Basile-le-Bienheureux**, de son petit nom *Basile*, est quasiment l'emblème de Moscou. Elle est placée au bout de la place rouge, en face du musée d'histoire et elle est encadrée par le Kremlin, le mausolée de Lénine et le Goum, l'énorme centre commercial de luxe de Moscou (ancien magasin d’état !). Et comme vous pouvez le voir, elle représente bien l'architecture russe.
+
+On ne peut pas s'empêcher de la prendre en photo ... :)
+
+{# flickr_photoset 72157643947582134 #}
+
+Même en si peu de temps, je me devais de visiter le **Kremlin de Moscou**. Alors, c'est parti pour la visite express !
+
+L'entrée se fait via une lente montée qui passe sous la tour de la Trinité. Tout de suite sur la gauche, l'Arsenal et puis le Sénat.
+
+Arrive enfin le canon du tsar, un énorme canon (40 tonnes - 1586) avec des boulets tout aussi gros ! De l'autre coté de la tour d'Ivan le Terrible, la cloche du Tsar (200 tonnes - 1733/5) tout aussi massive.
+
+En arrivant sur la place de la cathédrale se trouve:
+
+- en face: la Cathédrale de l'Annonciation
+- sur la droite: la Cathédrale de l'Assomption (avec derrière une petite église)
+- sur la gauche: la Cathédrale d'Archangel
+- et derrière: la tour d'Ivan le Terrible
+
+Tout est impressionnant même si quelques parties sont en rénovation.
+
+Passage rapide dans le jardin des secrets, puis le Palais du Grand Kremlin et enfin l'Armurerie où la queue commence a être longue (visite programmée obligatoire et places limitées).
+
+Exit par l'enceinte de la tour Borovitskaya, au sud. Fiou, une matinée, mais ça valait le coup !
+
+{# flickr_photoset 72157643947858855 #}
+
+La place rouge est le lieu incontournable de Moscou. C'est là que se déroule la majorité des manifestations et autres célébrations.
+
+{# flickr_photoset 72157643948159184 #}
+
+Bref, Moscou c'était chouette mais rapide.
+
+On a séjourné chez [Godzillas Hostels](http://godzillashostel.com/about/), un superbe hostel où le personnel est hyper serviable (on s'était fait livré les places du Bolchoï chez eux). Les chambres et dortoirs sont clean et spacieux. Une bonne adresse à la décoration détonnante :)

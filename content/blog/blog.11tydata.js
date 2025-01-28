@@ -1,7 +1,10 @@
+import path from 'node:path';
+import Image from '@11ty/eleventy-img';
+
 export default {
   tags: ['posts'],
   layout: 'layouts/post.njk',
-  permalink: '{{ page.fileSlug }}/',
+  permalink: (data) => `/${data?.page?.fileSlug}/`,
   eleventyComputed: {
     geoData: (data) => {
       let res = '';
@@ -32,6 +35,17 @@ const geoJson =
       }
 
       return res;
+    },
+    excerptImage: async (data) => {
+      if (!data.excerpt_image) {
+        return;
+      }
+
+      const { dir: blogPostSourceDirectory } = path.parse(data.page.inputPath);
+      const src = path.join(blogPostSourceDirectory, data.excerpt_image);
+
+      // remove first level `content` because the image plugin is adding it back (as it's the input dir for 11ty)
+      return src.replace(/^content\//, '');
     },
   },
 };
