@@ -33,10 +33,12 @@
   <meta property="og:description" content="{% if excerpt %}{{ excerpt | safe | striptags() }}{% else %}{{ title }}{% endif %}" />
   <meta property="og:url" content="{{ metadata.url }}{{ page.url }}" />
 
-  {% if excerpt_image %}<meta property="og:image" content="{{ excerpt_image }}" />{% endif %}
+  {% if excerpt_image %}<meta property="og:image" content="{{ excerpt_image }}" />{% endif -%}
 
   <meta property="og:site_name" content="My little world wide tour" />
   <meta property="og:type" content="{% if title %}article{% else %}website{% endif %}" />
+
+  <meta name="fediverse:creator" content="@j0k@mamot.fr" />
 
   <meta name="twitter:widgets:csp" content="on" />
   <meta name="twitter:dnt" content="on" />
