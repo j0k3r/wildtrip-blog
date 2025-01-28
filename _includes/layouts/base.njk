@@ -15,9 +15,7 @@
   <link rel="alternate" type="application/rss+xml" href="/rss.xml"/>
   <link rel="shortcut icon" href="/favicon.png"/>
 
-  {%- js "top" %}{% include "public/js/lazyload.js" %}{% endjs %}
-
-  <script src="{% getBundleFileUrl "js", "top" %}"></script>
+  <script src="{% getBundleFileUrl "js" %}"></script>
 
   {%- js %}{% include "public/js/fastclick.js" %}{% endjs %}
   {%- js %}{% include "public/js/foundation.js" %}{% endjs %}
