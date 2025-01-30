@@ -23,7 +23,7 @@ Après, nous remontons une grande rue, en sens unique, bordée de gros pots de f
 
 En fin de journée, ne manquez pas le coucher de soleil au sud de l'île, sur la promenade qui longe la mer. Il y a un même un bar, le [Sun Set](http://4sq.com/1XYF9gN) (rapidement pris d'assault en fin de journée) pour profiter de la lumière, vautré dans un transat en sirotant un Spritz !
 
-{# flickr_photoset 72157677547480441 #}
+{% photoset "72157677547480441" %}
 
 ### Noto et toutes ses églises
 
@@ -35,7 +35,7 @@ Certains palais de la ville possèdent des balcons originaux, agrémentés de ba
 
 La ville est organisée autour de 3 grands axes est / ouest (afin d'être éclairer toute la journée). Ça change des ruelles tortueuses de Syracuse (et des autres villes siciliennes).
 
-{# flickr_photoset 72157677547480491 #}
+{% photoset "72157677547480491" %}
 
 ### Modica, nichée à flanc de vallon
 
@@ -47,7 +47,7 @@ Sur les hauteurs de Modica, le *Duomo di San Georgio* domine la ville. Il est co
 
 Mais Modica est aussi réputée dans toute l'Italie (oui oui) pour son chocolat maigre et parfois relevé au piment. Il est travaillé à froid, sans lait ni beurre ajoutés. N'hésitez pas à faire une étape dans la patisserie [Antica Dolceria Bonajuto](https://www.bonajuto.it/en/), en face du *Duomo di San Pietro* (avec son escalier monumental et ses 12 apôtres), pour gouter (et/ou acheter) du chocolat. Mais surtout, **prenez des cannoli**, cette délicieuse spécialité dans une sorte de tuile frite et rempli de ricotta fouettée avec des fruits confits. Ils sont délicieux !!
 
-{# flickr_photoset 72157677547480511 #}
+{% photoset "72157677547480511" %}
 
 ### Raguse, avec son église au toit en faïence bleue
 
@@ -57,4 +57,4 @@ C'est d'ailleurs un bon point de départ pour faire une visite à la journée. L
 
 D'ailleurs, le spot idéal pour prendre une photo de la vieille ville de Raguse avec le toit bleu de l'église en premier plan, [il est là](https://goo.gl/maps/W4ToWJVj3V92) (accessible à pied ou en voiture si vous vous garez à l'arrache, mais c'est dans un virage en épingle).
 
-{# flickr_photoset 72157677547480481 #}
+{% photoset "72157677547480481" %}

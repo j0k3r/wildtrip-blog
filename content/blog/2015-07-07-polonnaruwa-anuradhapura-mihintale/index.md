@@ -25,7 +25,7 @@ Nous attendons 18h pour aller au **Temple de la dent de Bouddha** et assister à
 
 Avant de sauter dans notre bus le lendemain, on décide de faire l’aller-retour avec un tuktuk, pour visiter le jardin botanique de Kandy. C’est immense, on s’y perd, on croise le *cactus garden*, le *spices garden*, la palmeraie, des mariés trop beaux prenant la pose et des tonnes de chauves souris. Un super moment délicieux et détente.
 
-{# flickr_photoset 72157669052341375 #}
+{% photoset "72157669052341375" %}
 
 ### Dambulla
 
@@ -35,7 +35,7 @@ C’est le point de départ de notre balade de trois jours et on commence, habil
 
 C’est vraiment sympa de déambuler dans les cinq grottes en fin d’après-midi, sans la foule.
 
-{# flickr_photoset 72157668959932676 #}
+{% photoset "72157668959932676" %}
 
 ### Sigirîya
 
@@ -45,7 +45,7 @@ C’est vraiment chouette de grimper en se disant qu’un roi patricide (Kassyap
 
 Les jardins sont immenses et après avoir découvert la forteresse au sommet ou plutôt ce qu’il en reste, vous pourrez admirer le rocher et les fresques dont les exquises Demoiselles de Sigiriya. Les peintures sont en excellent état et magnifiques! Celle qu’on surnomme la Mona Lisa sri lankaise est plus souriante que la nôtre, sans mentionner son décolleté!
 
-{# flickr_photoset 72157664758348689 #}
+{% photoset "72157664758348689" %}
 
 ### Polonnaruwa
 
@@ -55,7 +55,7 @@ Après une courte visite instructive du musée qui permet de voir les maquettes 
 
 Sur le chemin du retour, on va guetter les éléphants avec Pali et ainsi sauter l’étape onéreuse du safari. En fin d’après midi, ils quittent la jungle et traversent routes, jardins… pour rejoindre les points d’eau. On va ainsi en croiser un tout apeuré de traverser la route (la jungle au sri lanka avec les camions et les tuktuks qui déboulent en klaxonnant dans tous les sens…) et hésitant, sous les objectifs confondus de Sri Lankais et de touristes. Un peu plus loin, au calme, on va rencontrer une jolie famille avec un tout bébé. La joie de cette soirée.
 
-{# flickr_photoset 72157665470983555 #}
+{% photoset "72157665470983555" %}
 
 ### Anurâdhapura
 
@@ -63,7 +63,7 @@ Nous partons le lendemain pour **Anurâdhapura** avec Pali, qui nous y laissera 
 
 Ici, ce que nous avons trouvé de plus beaux se sont les dagobas. Ils sont juste énormes, en briques, blancs… C’est époustouflant car ils se dégagent tellement bien entre le ciel bleu, la forêt et le lac. Les fidèles arrivent tout en blanc, les bras plein de plateaux avec des fleurs de lotus, des bougies… Ils vont pour certains d’abord vers le Sri Maha Bodhi Tree, allument les bougies et puis vont prier vers le dagoba Abhayagiri (haute de 75m), dont la base est entourée d’une ceinture aux couleurs du bouddhisme chaque soir par des moines. En effet, le dagoba est censé abriter la ceinture de Bouddha, du coup chaque soir, il a droit à une nouvelle ceinture offerte par les fidèles, qui sera enlevée dans la nuit avant une nouvelle le lendemain. C’est assez hypnotique et j’avoue que nous serions bien embêtés si nous devions choisir entre une de ces deux villes, car c’est vrai que les prix d’entrée sont assez hauts...
 
-{# flickr_photoset 72157665470328125 #}
+{% photoset "72157665470328125" %}
 
 ### Mihintale
 
@@ -71,7 +71,7 @@ Et pour conclure ces trois jours culturels à fond, le lendemain matin à 4h, on
 
 Le site est ouvert 24h/24, alors go. J’admets que le paysage est top et le lieux magique sans personne. On est presque hors du temps, juste avec les moines qui se réveillent, débutent les prières, leurs rituels… C’est assez magique! Même les singes dorment encore!!
 
-{# flickr_photoset 72157665470328105 #}
+{% photoset "72157665470328105" %}
 
 ### Infos pratiques
 

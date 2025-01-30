@@ -32,7 +32,7 @@ Mais ce qui vous marquera le plus dans cette ville, ceux sont les temples hindou
 
 En se baladant, on a remarqué que les habitants de Jaffna étaient particulièrement fan de glaces. Il y a des petites camionnettes qui en vendent un peu partout sur le bord de la route souvent annoncées par *La Lettre à Elise* et tout le monde en mange. C'est presque une institution. D'ailleurs, la deuxième chose que nous a indiqué le mec de notre guesthouse, après un bon restaurant, c'est le meilleur glacier de la ville !
 
-{# flickr_photoset 72157664758348639 #}
+{% photoset "72157664758348639" %}
 
 ### Les Tamouls
 
@@ -42,7 +42,7 @@ A l'initiative des Anglais, une petite partie d'entre eux est arrivée vers la f
 
 Cette première immersion est vraiment éblouissante et me rappelle mon voyage au [Kérala, une région du sud de l'Inde](https://fr.wikipedia.org/wiki/Kerala).
 
-{# flickr_photoset 72157664758348669 #}
+{% photoset "72157664758348669" %}
 
 ### La région de Jaffna
 
@@ -60,7 +60,7 @@ Nouvel arrêt presque obligatoire devant un temple étonnant: une gigantesque st
 
 Sur notre route, le conducteur de confession catholique a été super fier de nous montrer une reconstitution de la grotte de Lourdes, argentée, avec vue sur la mer. Bernadette n'en aurait jamais demandé tant :)
 
-{# flickr_photoset 72157664758348599 #}
+{% photoset "72157664758348599" %}
 
 ### Infos pratiques
 

@@ -17,13 +17,13 @@ Il se distingue aussi par ses leveurs de vannes qui permettent de laisser passer
 
 Ce grand barrage retient un immense lac qui est complètement gelé en hiver. Une route est même régulièrement empruntée par les voitures pour traverser le lac.
 
-{# flickr_photoset 72157643948635864 #}
+{% photoset "72157643948635864" %}
 
 La région de Krasnoyarsk fait 5 fois la superficie de la France, c'est la deuxième plus grande province de Russie et elle regroupe 3 millions d'habitants dont 1 million uniquement dans la ville. L'océan le plus proche est l'Arctique à ... 3.000 km ! L'Atlantique et le Pacifique sont à 5.000km.
 
 Nous sommes allés assister à l’autre attraction de la ville : le coup de canon. Il est tiré à blanc tous les jours à 12h pour célébrer la création de la ville (le _City Day_) depuis 2001. Ça déclenche généralement toutes les alarmes des voitures aux alentours, le bruit étant assez puissant !
 
-{# flickr_photoset 72157643948910523 #}
+{% photoset "72157643948910523" %}
 
 Anatoliy propose aussi [une dacha](http://www.sibtourguide.com/tours/russian_dacha_experience/) pour passer la nuit. La dacha c'est une sorte de chalet typiquement russe.
 
@@ -33,10 +33,10 @@ Construit en bois, la dacha que possède Anatoliy est en retrait de la ville au 
 
 C'était une sacré expérience :)
 
-{# flickr_photoset 72157643948912084 #}
+{% photoset "72157643948912084" %}
 
 Toujours avec Anatoliy, on est ensuite parti pour une excursion d'une demi journée dans la réserve naturelle de Stolbi. On marche jusqu'au Takmak Stolby, qui culmine à 450m. Il offre une vue imprenable sur toute la forêt et la ville. Splendide !
 
-{# flickr_photoset 72157643949007045 #}
+{% photoset "72157643949007045" %}
 
 Si vous voulez faire un arrêt dans votre trajet sur le Transsibérien, je vous conseille de le faire à Krasnoyarsk ! N'hésitez pas à contacter Anatoliy (de [SibTourGuide](http://www.sibtourguide.com/)) pour organiser votre séjour, il le fait à merveille !

@@ -15,8 +15,8 @@ Les [UAZ](http://www.uaz.ru/) me font penser à ces utilitaires (les J5/J7/J9 ch
 
 Celui que l'on croisait le plus souvent était le modèle [UAZ-452](https://en.wikipedia.org/wiki/UAZ-452). Ce modèle a eu un grand succès lors de sa sortie car très modulaire. La police et l'armée l'ont principalement utilisé et peu à peu, il se démocratisa et on le retrouva en mode mini-bus pour les transports en commun mais aussi pour les touristes. Le fait qu'il puisse se transformer en pickup, en 4x4 est sa valeur ajoutée.
 
-{# flickr_photoset 72157643949684304 #}
+{% photoset "72157643949684304" %}
 
 Et pour finir ce fil rouge, voici un petit aperçu des véhicules originaux qu'on a rencontré. Sans oublier des tanks sur des trains et plein d’autres petites choses qui, faute de « dégainage » rapide de l’appareil photo, resteront immortalisées dans notre petite tête (surtout la mienne car je pense qu’Elsa a déjà zappé !).
 
-{# flickr_photoset 72157643949660275 #}
+{% photoset "72157643949660275" %}

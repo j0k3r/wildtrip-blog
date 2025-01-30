@@ -9,13 +9,13 @@ excerpt: "<p>Le Transsibérien, c'est forcément dans les tops des rêves qu'on 
 excerpt_image: excerpt.jpg
 ---
 
-###Le contexte
+### Le contexte
 
 Mon point de départ pour le Transsibérien était Pékin. C'est une façon moins commune de prendre le Transsibérien puisque nous n'avions pas d'aller / retour à prévoir étant donné que nous rentrions de Chine et également moins onéreuse car les billets de train étaient souvent moins chers dans ce sens que dans l'autre...
 
 Tous les informations pour acheter les billets vont se trouver du point de vue d'un touriste français en Chine (sauf pour le visa mongol).
 
-###Acheter ses billets de train
+### Acheter ses billets de train
 
 Il est bon de rappeler qu'il ne faut pas se pointer dans une gare russe et demander "un billet de train pour le Transsibérien", personne ne comprendra ce que vous voulez ...
 
@@ -23,7 +23,7 @@ Il est bon de rappeler qu'il ne faut pas se pointer dans une gare russe et deman
 
 On n'achète pas de billets pour le Transsibérien. On achète simplement des billets pour des trains qui circulent d'un point A à un point B. Généralement, on achète ses billets de train de gare en gare plutôt que tout d'un coup (sauf si on décide de faire le Transsibérien sans s'arrêter – aucun intérêt) ou qu'on passe par une agence qui vous préparera votre voyage aux petits oignons.
 
-####Pékin → Oulan Bator = 250$
+#### Pékin → Oulan Bator = 250$
 Cette partie est très simple puisque vous pouvez passer par une agence sur place qui s'appelle [CITS](http://fr.cits.net/) (_pour China International Travel Service_). Nous avions contacté Monsieur CHEN (⇒ chenh@cits.com.cn). Les prix sont à peu près les mêmes qu'à la gare mais cet interlocuteur parle anglais et c'est quand même bien plus pratique.
 
 ####Oulan Bator → Irkourtsk = 65$
@@ -31,7 +31,7 @@ En Mongolie, les billets de trains sont moins cher quand ils sont achetés par d
 
 A noter que la différence de prix entre Chine → Mongolie et Mongolie → Russie est significative. C'est simplement que le prix des billets de train en Mongolie est vraiment bas. Pour un trajet dans l'autre sens (Russie → Mongolie → Chine) vous paierez votre billet Mongolie → Chine moins cher que dans l'autre sens.
 
-####Irkourtsk → Krasnoyarsk → Vladimir → Moscou = 235€
+#### Irkourtsk → Krasnoyarsk → Vladimir → Moscou = 235€
 Une fois en Russie, nous avons acheté tout nos billets directement dans les gares. A chaque fois qu'on s'arrêtait dans une gare, on achetait le billet pour trajet suivant avant de commencer les visites.
 
 Contrairement à ce qu'on pourrait penser, ce n'est pas si compliqué que ça. Certes les russes sont plutôt austères, ils feront rarement des efforts pour vous comprendre et parfois même ils ne voudront même pas vous vendre de billets et fermeront leur guichet ! Mais avec un grand sourire, on arrive à tout :)
@@ -45,16 +45,16 @@ Pour y arriver plus facilement, il suffit de tout bien préparer avant:
 
 À noter que [Way to Russia](http://www.waytorussia.net/) est un site très pratique qui vous aidera beaucoup pour trouver des trains !
 
-###Les visas russe et mongol
+### Les visas russe et mongol
 
 Pour faire le Transsibérien _via_ le Transmongolien, il vous faut seulement deux visas, le plus compliqué à avoir étant le visa russe.
 
-####Le visa mongol
+#### Le visa mongol
 Je l'ai fait faire depuis Paris et ça a été une formalité. Il suffit de remplir quelques documents, apporter quelques photocopies, de préparer un chèque de 60€ et de s'y pointer le matin. Il faut compter une semaine de délais.
 
 Tout est très bien expliqué sur [le site de l'ambassade](http://www.ambassademongolie.fr/index.php?option=com_content&view=article&id=77&Itemid=90&lang=en).
 
-####Le visa russe
+#### Le visa russe
 Faire une demande de visa russe en France, c'est un peu long et compliqué mais faire une demande de visa russe en tant que touriste en Chine, c'est ambitieux !
 
 Pour rappel, afin d'obtenir un visa russe, il vous faut une invitation et plein de papier à remplir. Pour l'invitation, je vous conseille de passer par [Russie Autrement](http://www.russieautrement.com/): simple et efficace !
@@ -65,7 +65,7 @@ Dans mon cas, je m'étais pointé à l'ambassade à 7h30 (pour être dans les pr
 
 A noter que le visa dure exactement le nombre de jours indiqué sur l'invitation et pas un de plus. 30 jours maximum. Dans mon cas, j'avais anticipé une seule semaine de traitement de visa (et non deux), du coup, mon visa russe ne durait que 23 jours!
 
-###Ce qu'il ne faut pas oublier et ce à quoi il faut penser
+### Ce qu'il ne faut pas oublier et ce à quoi il faut penser
 Je l'explique en détail dans un autre article, mais voilà en gros ce à quoi il faut penser quand on se prépare à faire 10.000 km et plus de 160h de train.
 
 Dès l'arrivée dans votre wagon, la _provodnista_ (hôtesse du train ou du wagon si vous préférez) vous fournira draps et serviettes. Vous pourrez aussi lui acheter de quoi manger mais c'est assez cher.
@@ -80,6 +80,6 @@ A chaque arrêt assez long en gare (~20 minutes), vous trouverez toujours des pe
 
 Petite information intéressante: dans chaque wagon, l'horaire des arrêts du train est affiché (à l'heure de Moscou – évidemment). On peut ainsi facilement savoir quand seront les arrêts les plus longs pour aller se dégourdir les jambes dans le froid sibérien et aussi quand les toilettes seront fermés (souvent lors de ces longs arrêts allant de 20 à 40 minutes).
 
-{# flickr_photoset 72157643991308965 #}
+{% photoset "72157643991308965" %}
 
 Dans le prochain article, je vous parlerai des différentes classes dans le Transsibérien et de comment survivre à un trajet de 60h d'affiler !

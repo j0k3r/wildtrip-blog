@@ -15,7 +15,7 @@ Malgré le fait que la ville ne soit pas très belle vue de l'extérieur, elle r
 
 Le coeur d'Agrigente se concentre en une grande rue qui la traverse en son centre, *Via Atena*. Une rue quasiment piétonne. Notre Bed & Breakfast était dans une rue parallèle, proche du centre mais plus au calme. Et c'était vraiment calme. Après avoir remonter Via Atena, il faut gravir les escaliers et les petites ruelles pour arriver à la *cattedrale*, située tout en haut de la ville (malheureusement en rénovation). Une belle marche. En redescendant, nous nous sommes volontairement perdus dans les ruelles, le nez au vent, pour goûter au charme de la ville.
 
-{# flickr_photoset 72157677550190301 #}
+{% photoset "72157677550190301" %}
 
 Mais nous sommes principalement venus à Agrigente pour la **Vallée des Temples**, comme un peu tout le monde de toute façon. La vallée est facilement accessible en voiture, nous avons choisi de nous garer sur le parking payant du bas (en arrivant tôt, c'était vide).
 
@@ -31,11 +31,11 @@ Le dernier temple, le *tempio di Giunone* (temple de Junon), ne possède que ses
 
 Et pour finir, nous avons croisé des chèvres d'Agrigente, dans un petit enclos en contrebas. C'est une race spécifique de Sicile qui possède de magnifiques cornes torsadées, assez impressionnantes !
 
-{# flickr_photoset 72157677550190351 #}
+{% photoset "72157677550190351" %}
 
 Pour finir dans cette région, nous ne pouvions pas faire l'impasse sur la **Scala Dei Turchi**, une des plus belles plages de Sicile. Vu la période, nous n'en avons pas profité pour nous baigner mais plutôt pour admirer le sable blanc et les hautes falaises de calcaire. C'est assez impressionnant de voir ces immenses falaises blanches !
 
-{# flickr_photoset 72157677550190341 #}
+{% photoset "72157677550190341" %}
 
 ### Infos pratiques
 

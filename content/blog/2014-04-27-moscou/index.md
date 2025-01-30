@@ -19,7 +19,7 @@ On se croirait presque dans un musée permanent. Les plafonds sont recouverts de
 
 Ce qui est aussi frappant, c'est la profondeur des tunnels du métro. Ils pouvaient servir d’abris lors d'éventuels bombardements nucléaires. Et les escalators qui permettent d'y aller sont vertigineux !
 
-{# flickr_photoset 72157643947039375 #}
+{% photoset "72157643947039375" %}
 
 **Le Bolchoï** a été notre petit craquage. Connaissant nos dates de passage à Moscou, on s'est empressé de réserver des places (dernier moment = prix assez cher et puis en tant qu'étrangers, on a eu le tarif correspondant, alors que le tarif russe est beaucoup plus abordable). Mais il ne fallait pas louper cette chance. Malheureusement lors de notre représentation, la salle principale du Bolchoï était en rénovation. On était donc dans le *Bolchoï New Stage*, mais c'était déjà grandiose !
 
@@ -27,17 +27,17 @@ C'est fascinant de voir toutes les femmes russes déboulées avec des énormes m
 
 On a assisté à la 741ème représentation depuis la première en 1893 et c'était aussi la dernière de la saison.
 
-{# flickr_photoset 72157643947214525 #}
+{% photoset "72157643947214525" %}
 
 Malgré ce passage rapide dans la capitale, on a tout de même eu la chance d'assister à un splendide coucher de soleil sur la Moskova, le Kremlin et Basile ! Top !
 
-{# flickr_photoset 72157643947434554 #}
+{% photoset "72157643947434554" %}
 
 La cathédrale **Basile-le-Bienheureux**, de son petit nom *Basile*, est quasiment l'emblème de Moscou. Elle est placée au bout de la place rouge, en face du musée d'histoire et elle est encadrée par le Kremlin, le mausolée de Lénine et le Goum, l'énorme centre commercial de luxe de Moscou (ancien magasin d’état !). Et comme vous pouvez le voir, elle représente bien l'architecture russe.
 
 On ne peut pas s'empêcher de la prendre en photo ... :)
 
-{# flickr_photoset 72157643947582134 #}
+{% photoset "72157643947582134" %}
 
 Même en si peu de temps, je me devais de visiter le **Kremlin de Moscou**. Alors, c'est parti pour la visite express !
 
@@ -58,11 +58,11 @@ Passage rapide dans le jardin des secrets, puis le Palais du Grand Kremlin et en
 
 Exit par l'enceinte de la tour Borovitskaya, au sud. Fiou, une matinée, mais ça valait le coup !
 
-{# flickr_photoset 72157643947858855 #}
+{% photoset "72157643947858855" %}
 
 La place rouge est le lieu incontournable de Moscou. C'est là que se déroule la majorité des manifestations et autres célébrations.
 
-{# flickr_photoset 72157643948159184 #}
+{% photoset "72157643948159184" %}
 
 Bref, Moscou c'était chouette mais rapide.
 

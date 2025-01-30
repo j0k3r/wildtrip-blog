@@ -27,7 +27,7 @@ Notre hôtel [Cinnabar](http://4sq.com/1ddH6sR) était une petite pépite: du th
 
 A noter que c'est ici que j'ai pris mes premières photos de nuits du voyage et j'avoue être assez content du rendu. Les couchers de soleil étaient magnifiques aussi!
 
-{# flickr_photoset 72157664775263919 #}
+{% photoset "72157664775263919" %}
 
 ### Mirissa où l'arnaque des pêcheurs perchés
 
@@ -49,7 +49,7 @@ On n'a pas tellement envie de cautionner ce genre de chose ni de prendre en phot
 
 > Evidemment, il suffit que je parle de ça pour que le National Geographic poste [une superbe photo de VRAIS pêcheurs perchés](https://www.instagram.com/p/BGXfiZOIVQE/) (mais pas dans le même coin que nous).
 
-{# flickr_photoset 72157664775263969 #}
+{% photoset "72157664775263969" %}
 
 Au final, le sud en cette saison est encore agréable. Le soleil n'est pas omniprésent mais il fait suffisamment bon pour se baigner. Attention tout de même aux orages (plutôt en fin de journée) : quand il se met à pleuvoir, c'est la douche.
 

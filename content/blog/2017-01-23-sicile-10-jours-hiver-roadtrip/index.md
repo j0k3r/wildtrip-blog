@@ -37,25 +37,25 @@ Mais aussi quelques inconvénients :
 
 #### Jour 1
 
-{# flickr_photoset 72157679860102796 #}
+{% photoset "72157679860102796" %}
 
 Arrivé à l'aéroport de Catane, nous filons tout de suite à [Syracuse](/sicile-sud-est-syracuse-noto.html), plus précisément dans la vieille ville, Ortygie. Visite de Syracuse (et premier cannoli <3).
 
 #### Jour 2
 
-{# flickr_photoset 72157676394871243 #}
+{% photoset "72157676394871243" %}
 
 Visite de [Noto](/sicile-sud-est-syracuse-noto.html) dans la matinée et nouvelle visite de Syracuse (avec une meilleure lumière).
 
 #### Jour 3
 
-{# flickr_photoset 72157677843226822 #}
+{% photoset "72157677843226822" %}
 
 Route jusqu'à [Raguse](/sicile-sud-est-syracuse-noto.html) en faisant une halte à Modica. Visite de la vieille ville de Raguse.
 
 #### Jour 4
 
-{# flickr_photoset 72157679860102786 #}
+{% photoset "72157679860102786" %}
 
 *Là, nous avons eu une réponse pour faire l'ascension du Stromboli. Nous avons donc arrêté notre avancée pour remonter tout au nord.*
 
@@ -63,37 +63,37 @@ Visite de la Villa Romana del Casale et ses belles mosaïques. Arrivée à Milaz
 
 #### Jour 5
 
-{# flickr_photoset 72157676395018933 #}
+{% photoset "72157676395018933" %}
 
 Arrivée dans les îles Éoliennes sur l'île Stromboli. [Ascension du Stromboli](/sicile-iles-eoliennes-stromboli.html) dans l'après midi. Nouvel an dans le seul bar du village !
 
 #### Jour 6
 
-{# flickr_photoset 72157678173471511 #}
+{% photoset "72157678173471511" %}
 
 Bateau pour [Salina](/sicile-iles-eoliennes-stromboli.html) et tour de l'île en scooter.
 
 #### Jour 7
 
-{# flickr_photoset 72157679860102806 #}
+{% photoset "72157679860102806" %}
 
 Retour à Milazzo en bateau. Passage par Cefalù, qui vaut largement une étape. Arrivée à [Agrigente](/sicile-sud-agrigente-vallee-temples.html) dans la soirée. Balade dans la ville.
 
 #### Jour 8
 
-{# flickr_photoset 72157679860359066 #}
+{% photoset "72157679860359066" %}
 
 Visite de la [Vallée des Temples](/sicile-sud-agrigente-vallee-temples.html) et de la plage Scala Dei Turchi.
 
 #### Jour 9
 
-{# flickr_photoset 72157679860102766 #}
+{% photoset "72157679860102766" %}
 
 Départ pour Nicolosi. Beaucoup de route avec une étape (non-obligatoire) à Caltagirone.
 
 #### Jour 10
 
-{# flickr_photoset 72157679860102746 #}
+{% photoset "72157679860102746" %}
 
 Tentative de monter voir l'Etna mais il neige beaucoup trop. Impossible de prendre le téléphérique. Nous nous arrêterons à ses pieds. Backup en allant voir un peu Catane
 
@@ -117,4 +117,4 @@ En Sicile, sur la route, c'est … n'importe quoi. À peine après avoir récup�
 
 Et je pense pouvoir en trouver encore plein ! Mais, dans tout ça, nous avons notre petite Fiat 500 sans accroc. Ouf !
 
-{# flickr_photoset 72157676225763153 #}
+{% photoset "72157676225763153" %}

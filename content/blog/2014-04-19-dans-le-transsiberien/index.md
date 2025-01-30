@@ -15,7 +15,7 @@ Le plus agréable dans le train, c'est le paysage. Quand on fait plus de 10.000 
 
 De temps en temps, on croisait un passage à niveau. Et à chaque fois, une personne indiquait au chauffeur que tout était ok. Parfois même, dans des coins complètement perdus au milieu de nulle part, cette personne venait spécialement en voiture pour être présente au passage du train, puis repartait une fois le long convoi passé.
 
-{# flickr_photoset 72157643991749634 #}
+{% photoset "72157643991749634" %}
 
 Mais l'épisode le plus marquant à bord du train (le deuxième étant la 3ème classe), restera sans aucun doute les 60h de train entre Krasnoyarsk et Vladimir (puis Souzdal), soit 4.000km. Pour vous donner un ordre d'idée de ce trajet qui traverse toute la Sibérie, voilà rapidement ce que raconte Google Map:
 
@@ -33,7 +33,7 @@ Et puis, arrive la _provodnista_ (la fameuse hôtesse du wagon – qui doit fair
 
 C'est impressionnant de voir l'autorité qu'ont ces nanas dans leur wagon fasse à ces colosses russes !
 
-{# flickr_photoset 72157643991905383 #}
+{% photoset "72157643991905383" %}
 
 Le passage dans les 3ème classes des trains russes se fait soit pour une question budgétaire soit pour assouvir sa curiosité et rencontrer des gens.
 
@@ -43,14 +43,14 @@ L'agencement est simple: un wagon sans aucune porte si ce n'est celle des toilet
 
 On partage nos couchettes avec des hommes ouzbeks qui sont ravis de découvrir qu'Elsa y a vécu. La majorité des personnes qui circulent en 3ème sont des habitants d’Asie Centrale (en tout cas sur cette portion) qui bossent sur des chantiers en Russie et ponctuellement rentrent chez eux en traversant tout le pays, puis le Kazakhstan avant d’arriver chez eux.
 
-{# flickr_photoset 72157643991417154 #}
+{% photoset "72157643991417154" %}
 
 La seconde classe, plus en rapport avec ce que nous connaissons en France, est “normale”. Une couchette de 4 personnes qui ferme avec un long couloir. Vous pouvez voir le fameux samovar qui se trouve dans chaque wagon et qui est, bien entendu, alimenté en charbon.
 
 Et aussi, notre petite installation !
 
-{# flickr_photoset 72157643991783683 #}
+{% photoset "72157643991783683" %}
 
 Et pour finir, la 1ère classe qui se distingue tout de suite avec ses boiseries, rappelant un peu l'intérieur d'un bateau. Ce sont des cabines de deux personnes et elles disposent d'un lavabo et de toilettes privées !
 
-{# flickr_photoset 72157643991323554 #}
+{% photoset "72157643991323554" %}

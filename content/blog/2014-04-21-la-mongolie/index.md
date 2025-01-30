@@ -20,22 +20,22 @@ L'ONU estime que Oulan-Bator est la seconde ville la plus polluée au monde. En 
 
 Le centre ville fait très récent avec de grands malls, de grandes tours de verre. Mais ça n'empêche pas les routes en terre d'en faire aussi parti !
 
-{# flickr_photoset 72157643989537164 #}
+{% photoset "72157643989537164" %}
 
 On a dormi à la [Guest House Khongor](http://www.khongor-expedition.com/index.php?option=com_content&view=category&layout=blog&id=98&Itemid=57) avec qui on a aussi planifié toute notre excursion de 3 nuits / 4 jours: [le KH-3 (ShTour-07)](http://www.khongor-expedition.com/index.php?option=com_content&view=category&layout=blog&id=89&Itemid=60), soit _Kharhorin, Mongol Sand dune,  Khogno Khaan Mountain, Lun village and Khustai National Park_.
 
 A noter que le prix est dégressif en fonction du nombre de participant: $72/pers/jour pour 2, $46 pour 4. Le personnel de la Guest House essaiera de vous trouver d'autres personnes pour participer à votre excursion, mais vous pouvez aussi vous en charger. On l'a finalement fait avec un coupe d'anglais, faisant chuter le prix par personne de près de 30%!
 
-###Jour 1: L'ancienne capitale Kharkhorin
+### Jour 1: L'ancienne capitale Kharkhorin
 Pour cette première journée de cette expédition, nous avons principalement roulé (360km). Mais ça permet de voir du paysage et nous n'avons pas été déçu.
 
 Mise à part le fait qu'on aie croisé une carcasse de cheval se faire dévorer par des vautours de près d’un mètre de haut, on a aussi vu pleins de troupeaux au beau milieu d'immense plaine. La neige a même était de la partie, l'occasion de découvrir une nouvelle couleur du paysage.
 
 Nous sommes arrivés le soir, impossible donc de voir la ville mais on a pu apprécié un joli coucher de soleil sur les yourtes :)
 
-{# flickr_photoset 72157643989684684 #}
+{% photoset "72157643989684684" %}
 
-###Jour 2: Monastère Erdene Zuu & Mongol Sand Dune
+### Jour 2: Monastère Erdene Zuu & Mongol Sand Dune
 
 Je me suis levé plus tôt le lendemain pour monter un peu sur une colline voisine du campement et ainsi me faire une idée de cette ancienne capitale avec en arrière-fond un magnifique lever de soleil. Aucune brume, aucune pollution pour gâcher le paysage !
 
@@ -45,9 +45,9 @@ Puis on a roulé vers les fameuses dunes de sable qui se trouvent sur le chemin 
 
 Et finalement, on arrive sur notre camp pour la nuit. L'occasion de dire bonjour à nos nouveau copains de balade: des chameaux !
 
-{# flickr_photoset 72157643990594143 #}
+{% photoset "72157643990594143" %}
 
-###Jour 3: Région de Lün
+### Jour 3: Région de Lün
 Cette prochaine étape nous emmène dans la région de Lün. Rien d'extraordinaire à raconter si ce n'est que les paysages sont toujours aussi beau (à n'importe quelle heure de la journée).
 
 La famille chez qui nous allons dormir possède des yaks mais aussi plusieurs chevaux. C'est d'ailleurs grace à eux qu'ils gèrent leur troupeau. C'est l'occasion de faire une petite balade. Pas forcément agréable étant donné que les selles mongoles sont en bois. Autant dire que ça fait mal au fessier quand on fait du galop !
@@ -58,15 +58,15 @@ L'intérieur des yourtes est très décorés et tout est agencé au milieu du po
 
 On y retrouve un petit autel, une petite table faisant office de coiffeuse avec un miroir et tous les produits de beauté de Madame, une petite télé et même une machine à laver. L’eau se trouve dans d’énormes fûts qu’ils vont chercher à la ville une fois par semaine. Elle est utilisée précieusement. Le chauffage se fait grâce aux crottes des moutons séchées. Combustible efficace mais qui s’éteint vite et donc la chaleur ne tient pas tellement. Heureusement, en plus de nos duvets, on peut compter sur les couvertures en poils de chameau.
 
-{# flickr_photoset 72157643990389525 #}
+{% photoset "72157643990389525" %}
 
-###Jour 4: Khustai National Park
+### Jour 4: Khustai National Park
 
 Ce parc a été créé pour la protection du _takhi_, le [cheval de Przewalski](https://fr.wikipedia.org/wiki/Cheval_de_Przewalski), une race de chevaux sauvages, jamais domestiqué par l'homme. C'est un des rares endroits dans le monde où on peut en apercevoir dans la nature. Et on a pu en voir, certes d'assez loin, mais on les a vu galoper!
 
 Mon petit plaisir, comme chaque matin en Mongolie, c'était de me lever assez tôt, monter en haut de la colline la plus proche et admirer le lever du soleil peindre la vallée de couleurs orangées. J'ai même croisé un cavalier solitaire un matin, qui venait de je ne sais où. Moment assez surréaliste !
 
-{# flickr_photoset 72157643990450965 #}
+{% photoset "72157643990450965" %}
 
 J'ai **vraiment** adoré la Mongolie. Les paysages sont magnifiques et on aimerait pouvoir partir des semaines en randos dans tous ces coins paumés. Il est tout de même recommandé de prendre part à une excursion organisée, le problème c'est que cela coûte assez cher. Mais le faire soit-même peut relever du défi (aucune indication sur les routes, des routes disparaissant soudainement, danger des chiens errants ou de garde des yourtes) ... si on ne possède aucune contrainte de temps.
 

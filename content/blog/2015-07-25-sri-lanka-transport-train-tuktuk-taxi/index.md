@@ -33,7 +33,7 @@ Dernière remarque, les grandes gares. A l'heure de pointe, c'est un spectacle p
 - La 1ère classe possède un wagon panoramique (c'est en fait le dernier wagon du train avec une grande vitre à l'arrière, on voit bien les rails quoi) et elle est climatisée. Avec la possibilité de se mettre à la porte des wagons, je ne vois que peu d'intérêt pour ce wagon panoramique et la clim...
 - Garder votre billet en quittant le train, vous serez contrôlé à la sortie de la gare (et si vous faites un grand sourire au monsieur, vous pourrez certainement le garder en souvenir).
 
-{# flickr_photoset 72157664895692060 #}
+{% photoset "72157664895692060" %}
 
 ### Le bus, pour ceux qui n'ont pas froid aux yeux
 
@@ -63,7 +63,7 @@ Dans le bus, on peut aussi s'acheter des snacks et des fruits! C'est vraiment ch
 - Essayez toujours de prendre une fenêtre sinon vous risquez de mourir de chaud
 - Et dans le bus gardez bien vos affaires à vos pieds pour ne pas vous les faire voler (même si on vous suggère le contraire)
 
-{# flickr_photoset 72157664895692070 #}
+{% photoset "72157664895692070" %}
 
 ### Tuk tuk, l'efficacité tape cul
 
@@ -73,7 +73,7 @@ C'est ce que nous avons fait pour notre périple dans [les cités historiques de
 
 Et on a même croisé un tuktuk auto-école, il avait le "L" de Learner (qui indique une auto-école en anglais) accroché à l'arrière !
 
-{# flickr_photoset 72157664895692020 #}
+{% photoset "72157664895692020" %}
 
 ### Taxi (ou voiture avec chauffeur), pour les pressés
 

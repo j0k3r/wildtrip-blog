@@ -25,7 +25,7 @@ Ce qui est agréable aussi ce sont les habitations d'un étage maximum, ce qui d
 
 On aura bien profiter de la ville sous tous les temps: crachin (saison des pluies oblige) et le lendemain grand soleil! Double check. Quand on aime, on ne compte pas.
 
-{# flickr_photoset 72157664895692090 #}
+{% photoset "72157664895692090" %}
 
 ### Infos pratiques
 

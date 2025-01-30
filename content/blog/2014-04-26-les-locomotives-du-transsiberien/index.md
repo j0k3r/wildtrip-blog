@@ -20,4 +20,4 @@ Sur la partie Est du Transsibérien, les locomotives sont toujours à vapeur, pu
 
 Par contre, plus on se rapproche de Moscou et plus les équipements semblent récents et donc, on croise plus souvent des locomotives électriques.
 
-{# flickr_photoset 72157643945058973 #}
+{% photoset "72157643945058973" %}

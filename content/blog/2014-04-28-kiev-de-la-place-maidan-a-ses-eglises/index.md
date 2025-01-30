@@ -20,11 +20,11 @@ La balade de repérage du premier jour nous emmène devant l'université de Kiev
 
 Le temps n'était pas super beau lors de notre passage, mais ça ne nous a pas empêché d'avoir de belle vue, comme celle depuis ce parc, donnant à la fois sur le Dniepr, qui traverse Kiev, et sur le quartier de Podil, baptisé le Montmartre de Kiev (avec colline et funiculaire).
 
-{# flickr_photoset 72157644055969913 #}
+{% photoset "72157644055969913" %}
 
 Je ne me souviens plus si ce marché était indiqué dans notre guide ou si, en se perdant, on s'était retrouvé à devoir le traverser. Quoiqu'il en soit, il était difficile de trouver un fruit, un légume ou un saucisson mal alignés dans les étalages. Tout le monde était au  garde-à-vous ! Par les couleurs et les odeurs, il ressemble presque aux marchés aux épices marocains. Forcément, difficile de résister à l'achat d'un peu de charcutaille :)
 
-{# flickr_photoset 72157644056089963 #}
+{% photoset "72157644056089963" %}
 
 ### La place Maïdan
 
@@ -34,11 +34,11 @@ Lors de notre passage, les vestiges de la [révolution orange](https://fr.wikipe
 
 La place est très grande et encerclée par d'immenses bâtiments rappelant la Russie soviétique.
 
-{# flickr_photoset 72157644056410254 #}
+{% photoset "72157644056410254" %}
 
 Ironie du sort, lors de notre passage à Kiev, une autre manifestation avait lieu devant le parlement. Les "liquidateurs" de Tchernobyl (ceux qui sont venus pour éteindre le feu suite à l'explosion) protestaient suite à des réductions de leurs retraites. Les grilles du parlement avaient été cassées et il y avait plein de policiers partout ! Ambiance.
 
-{# flickr_photoset 72157644056629383 #}
+{% photoset "72157644056629383" %}
 
 ### Le Monastère Saint-Michel-au-Dôme-d'Or
 
@@ -46,7 +46,7 @@ Ironie du sort, lors de notre passage à Kiev, une autre manifestation avait lie
 
 Il est difficile de passer à côté de ce monastère aux dômes dorés et aux façades entièrement bleu ciel.
 
-{# flickr_photoset 72157644056765513 #}
+{% photoset "72157644056765513" %}
 
 ### L'Église Saint-André
 
@@ -56,7 +56,7 @@ Malheureusement, il était impossible de la visiter lors notre passage. En effet
 
 Comme par coincidence, la rue pour y aller était elle aussi en travaux. Oubliez les petits travaux de canalisations qu'il peut y avoir en France, là ils avaient tout défoncé !
 
-{# flickr_photoset 72157644057836833 #}
+{% photoset "72157644057836833" %}
 
 ### La Cathédrale Sainte-Sophie
 
@@ -64,7 +64,7 @@ Comme par coincidence, la rue pour y aller était elle aussi en travaux. Oubliez
 
 Le bâtiment principal abrite de splendides mosaïques, dont certaines sont encore d'origine, datant de 1017/31 (années de sa construction). En fait, d'habitude, les églises ukrainiennes sont recouvertes de peintures des murs au plafond. Ici, ce ne sont pas des peintures mais de la mosaïque. C'est impressionnant !! Les photos étaient interdites mais on a réussi à prendre quelques captures.
 
-{# flickr_photoset 72157644057425225 #}
+{% photoset "72157644057425225" %}
 
 ### La Laure des Grottes
 
@@ -76,7 +76,7 @@ Plus bas, dans ce qui s'appelle la *Lavra basse*, nous pouvons entrer dans des s
 
 Petit clin d'oeil, il y avait un mariage dans une des petites églises.
 
-{# flickr_photoset 72157644056979794 #}
+{% photoset "72157644056979794" %}
 
 ### La Cathédrale Saint-Vladimir
 
@@ -84,13 +84,13 @@ Petit clin d'oeil, il y avait un mariage dans une des petites églises.
 
 Elle nous avait été recommandée par Nikolaï, le mec de notre hostel. Elle possède une imposante façade jaune et 7 dômes bleus. L'intérieur est décoré dans un style art-nouveau auquel on ne s'attend pas avant de rentrer. Malheureusement, aucune photo.
 
-{# flickr_photoset 72157644056810393 #}
+{% photoset "72157644056810393" %}
 
 ### Tchernobyl, l'attraction touristique
 
 Kiev est souvent le point de départ pour aller *visiter* Tchernobyl. Les abords du site ne seraient plus trop contaminés et feraient la part belle aux agences de voyages locales qui mettent grandement en avant cette *attraction touristique*. Autant la visite de [la DMZ entre les deux Corée](/la-dmz-entre-les-deux-coree/) avait attisé notre curiosité, autant aller "visiter" Tchernobyl nous semblait un peu mal venu et nous mettait mal à l'aise.
 Il est plus intéressant d'aller au musée de Tchernobyl qui rend vraiment compte de l'horreur de cet accident nucléaire qui a eu lieu le 26 avril 1986. On y apprend beaucoup de choses et on prend conscience de l'importance du nombre des victimes et des villes rasées (photo ci-dessous).
 
-{# flickr_photoset 72157648674025172 #}
+{% photoset "72157648674025172" %}
 
 En bref, Kiev valait vraiment le coup. Dommage qu'il ait fait un temps maussade pendant notre séjour, un grand soleil aurait donné bien plus de couleurs et beauté à tous les dômes dorés que nous avons croisés.

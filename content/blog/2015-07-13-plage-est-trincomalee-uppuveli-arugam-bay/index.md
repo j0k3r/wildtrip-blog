@@ -32,7 +32,7 @@ Il n'y a que des hommes. Et comme à chaque fois, ils sont très ouverts au dial
 
 Plus loin je rencontre d'autres pêcheurs qui posaient leurs filets depuis la rive. Un bateau part au loin, très loin, fait une boucle et revient, tout en déposant le filet. Ensuite les pêcheurs vont mettre 3 heures à tirer le filet pour aller attraper les poissons pris au piège.
 
-{# flickr_photoset 72157664894791740 #}
+{% photoset "72157664894791740" %}
 
 ### Arugam bay
 Voilà le spot de surf de la côte Est. En lisant les guides, on ne voulait pas y rester trop longtemps tellement l'image qu'ils en donnent faisait penser à certaines villes du sud de Bali: remplis d'Australiens blonds et bronzés et des gros Américains venus uniquement pour faire la fête. Pas vraiment notre tasse de thé.
@@ -45,7 +45,7 @@ C'est d'autant plus compliqué pour les pêcheurs de remonter leur bateau sur le
 
 Et tout au bout de la plage, c'est le coin des surfeurs. Le vrai coin. Là où les vagues sont accessibles pour eux. J'y trouve quelques photographes comme moi qui sont venus pour les prendre en photo justement. Les vagues n'arrivent pas face à la plage, mais de côté. Elles commencent sur la droite et avancent vers la gauche tout en se formant et se cassant. C'est assez changeant comme façon.
 
-{# flickr_photoset 72157664894791760 #}
+{% photoset "72157664894791760" %}
 
 ### Infos pratiques
 

@@ -39,7 +39,7 @@ Un peu avant de redescendre, quand il faisait déjà nuit, lors d'une dernière 
 
 La descente flingue les hanches vu que c'est encore du sable. Et on bénit le fait d'avoir des chaussures hautes, sans quoi, elles seraient complètement remplies de sable ...
 
-{# flickr_photoset 72157677549707081 #}
+{% photoset "72157677549707081" %}
 
 Une fois cette ascension finie et le nouvel anfêté au seul bar / restaurant du village où nous avons trinqué au prosecco bien entendu, nous avons quitté l'île pour faire une pause d'une nuit dans la très tranquille **île de Salina**.
 
@@ -49,7 +49,7 @@ C'est d'ailleurs dans cette dernière ville que nous profiterons d'un magnifique
 
 Salina est une île réputée pour ses vignes et surtout sa spécialité: la malvasia. C'est un vin blanc liquoreux bu souvent en fin de repas et qui est délicieux.
 
-{# flickr_photoset 72157677549707011 #}
+{% photoset "72157677549707011" %}
 
 C'est fini pour **les îles Éoliennes**. C'était un agréable moment reposant, sans touriste et vraiment dépaysant.
 

@@ -29,7 +29,7 @@ Passez la première nuit sur place (pas trop loin de la gare si possible) et sau
 
 ### Jour 2/3 : Kandy
 
-{# flickr_photoset 72157694520886321 #}
+{% photoset "72157694520886321" %}
 
 > **Kandy** peut se voir en une journée, pas la peine de "*sentir l'atmosphère pendant 2/3 jours*" comme le dit le Routard.
 
@@ -39,7 +39,7 @@ Passez la première nuit sur place (pas trop loin de la gare si possible) et sau
 
 ### Jour 4/5/6 : le triangle culturel
 
-{# flickr_photoset 72157695594017494 #}
+{% photoset "72157695594017494" %}
 
 > Un peu plus au nord de Kandy, faites le triangle culturel, composé de [Kandy, Anurâdhapura et Polonnaruwa](/polonnaruwa-anuradhapura-mihintale.html).
 > Vous pouvez le faire accompagné d'un tuktuk et de son chauffeur / guide. Pour ça, nous vous recommandons Pali (+947 77 45 74 10) qui parle très bien anglais. Vous pouvez lui envoyer des textos et lui dire que vous l'appelez de la part d'Elsa et Jérémy.
@@ -50,7 +50,7 @@ Passez la première nuit sur place (pas trop loin de la gare si possible) et sau
 
 ### Jour 7/8 : Jaffna
 
-{# flickr_photoset 72157696272134305 #}
+{% photoset "72157696272134305" %}
 
 > Nous avons adoré Jaffna ! Avec toute [la culture tamoule](/ile-jaffna-nord-sri-lanka-tamoul.html) (très différente du reste du Sri Lanka), les temples très colorés et l'absence de touristes.
 
@@ -59,7 +59,7 @@ Passez la première nuit sur place (pas trop loin de la gare si possible) et sau
 
 ### Jour 9/10 : de la plage à Uppuveli
 
-{# flickr_photoset 72157694521079491 #}
+{% photoset "72157694521079491" %}
 
 > [Uppuveli](/plage-est-trincomalee-uppuveli-arugam-bay.html) est super pour se baigner mais faites attention à la saison (c'est top Juillet / Aout, mais pas terrible en Janvier/ Février).
 
@@ -68,7 +68,7 @@ Passez la première nuit sur place (pas trop loin de la gare si possible) et sau
 
 ### Jour 11/12 : du surf à Arugam Bay
 
-{# flickr_photoset 72157696272219245 #}
+{% photoset "72157696272219245" %}
 
 > Plus au sud, vous pouvez aller à [**Arugam Bay**](/plage-est-trincomalee-uppuveli-arugam-bay.html), spot de surf bien sympa pour les grosses vagues et la baignade.
 
@@ -76,7 +76,7 @@ Le bus depuis Trincomalee n'est pas direct, il vous faudra faire un changement �
 
 ### Jour 13/14/15 : les plantations de thé
 
-{# flickr_photoset 72157690506842980 #}
+{% photoset "72157690506842980" %}
 
 > [Haputale](/haputale-plantation-de-the.html) pour les plantations de thé (essayer d'y dormir, c'est plus joli qu'Ella).
 
@@ -96,7 +96,7 @@ Et ensuite, sur place :
 
 ### Jour 16/17 : le sud et d'autres plages
 
-{# flickr_photoset 72157690506944050 #}
+{% photoset "72157690506944050" %}
 
 > Vous apprécierez [Tangalle, Mirissa](/tangalle-mirissa-plade-sud.html) ou Welligama pour les plages (tablez plutôt sur le premier, plus tranquille).
 
@@ -109,12 +109,12 @@ Et ensuite, sur place :
 
 ### Jour 18/19 : Galle !
 
-{# flickr_photoset 72157666392472777 #}
+{% photoset "72157666392472777" %}
 
 > [Galle](/galle-ville-forteresse.html), c'est obligatoire tellement c'est joli. Passez-y au moins 2 jours, c'est la seule ville du Sri Lanka où vous apprécierez flâner.
 
 ### Jour 20/21 : Relax à Negombo et retour
 
-{# flickr_photoset 72157695594654124 #}
+{% photoset "72157695594654124" %}
 
 Finissez par Negombo, c'est plus sympa pour finir le séjour avec sa grande plage !
