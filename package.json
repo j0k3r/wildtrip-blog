@@ -1,14 +1,13 @@
 {
   "name": "wildtrip.blog",
   "version": "1.0.0",
-  "description": "Blog based the starter repository using the Eleventy site generator.",
+  "description": "Jeremy's travel blog",
   "type": "module",
   "packageManager": "yarn@1.22.22",
   "scripts": {
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve --quiet",
     "debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
-    "benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
     "lint": "biome check"
   },
   "repository": {
@@ -21,7 +20,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=18"
+    "node": ">=22"
   },
   "homepage": "https://github.com/j0k3r/wildtrip-blog#readme",
   "devDependencies": {
@@ -35,7 +34,5 @@
     "zod": "^3.23.8",
     "zod-validation-error": "^3.3.1"
   },
-  "dependencies": {
-    "netlify-plugin-cache": "^1.0.3"
-  }
+  "dependencies": {}
 }
