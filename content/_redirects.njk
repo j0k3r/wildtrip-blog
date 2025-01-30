@@ -3,10 +3,8 @@ permalink: /_redirects
 layout: false
 eleventyExcludeFromCollections: true
 ---
-# redirect for netlify
-# https://www.netlify.com/docs/redirects/
+https://wildtrip-blog.netlify.com/*   https://wildtrip.blog/:splat      301
+https://wildtrip-blog.pages.dev/*     https://wildtrip.blog/:splat      301
 
-# Redirect default Netlify subdomain to primary domain
-https://wildtrip-blog.netlify.com/* https://wildtrip.blog/:splat 301!
-
-/46586683                   /marufuku-barbecue-japonais             301!
+/46586683                             /marufuku-barbecue-japonais       301
+/*.html                               /:splat/                          301
