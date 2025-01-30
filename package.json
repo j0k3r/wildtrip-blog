@@ -1,0 +1,38 @@
+{
+  "name": "wildtrip.blog",
+  "version": "1.0.0",
+  "description": "Jeremy's travel blog",
+  "type": "module",
+  "packageManager": "yarn@1.22.22",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve --quiet",
+    "debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
+    "lint": "biome check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/j0k3r/wildtrip-blog.git"
+  },
+  "author": {
+    "name": "Jeremy Benoist",
+    "url": "https://www.j0k3r.net/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "homepage": "https://github.com/j0k3r/wildtrip-blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^6.0.0",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-rss": "^2.0.2",
+    "@biomejs/biome": "1.9.4",
+    "cross-env": "^7.0.3",
+    "dayjs": "^1.11.13",
+    "zod": "^3.23.8",
+    "zod-validation-error": "^3.3.1"
+  },
+  "dependencies": {}
+}

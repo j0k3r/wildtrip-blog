@@ -1,0 +1,23 @@
+[
+    {
+        "number": 0,
+        "title": "Le snorkeling à Amed",
+        "path": "photos/72157632948391624/0-le-snorkeling-a-amed.mp4",
+        "poster": "photos/72157632948391624/0-le-snorkeling-a-amed.jpg",
+        "type": "video"
+    },
+    {
+        "number": 1,
+        "title": "Le snorkeling à Amed",
+        "path": "photos/72157632948391624/1-le-snorkeling-a-amed.mp4",
+        "poster": "photos/72157632948391624/1-le-snorkeling-a-amed.jpg",
+        "type": "video"
+    },
+    {
+        "number": 2,
+        "title": "Le snorkeling à Amed",
+        "path": "photos/72157632948391624/2-le-snorkeling-a-amed.mp4",
+        "poster": "photos/72157632948391624/2-le-snorkeling-a-amed.jpg",
+        "type": "video"
+    }
+]

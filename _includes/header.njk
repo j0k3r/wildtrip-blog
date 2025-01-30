@@ -1,0 +1,29 @@
+<h2><a href="{{ url }}">{{ title }}</a></h2>
+
+<dl class="sub-nav">
+  <dd class="active"><span>
+  {% if date_travel %}
+    Écrit le {{ date | readableDate }} -
+    Voyagé le {{ date_travel | readableDate }}
+  {% else %}
+    Écrit et voyagé le {{ date | readableDate }}
+  {% endif %}
+  </span></dd>
+  {%- for tag in tags | filterTagList %}
+    <dd class="hide-for-small"><a href="/tag/{{ tag | replace(" ", "") | slugify }}/">{{ tag }}</a></dd>
+  {%- endfor %}
+</dl>
+
+{% if excerpt %}
+  {{ excerpt | safe }}
+{% endif %}
+
+{% if excerpt_image %}
+  <p class="pagination-centered">
+    <img class="th" src="{{ excerpt_image }}" alt="{{ title }}">
+  </p>
+{% elif excerptImage %}
+  <p class="pagination-centered">
+    <img class="th" src="{{ excerptImage }}" alt="{{ title }}">
+  </p>
+{% endif %}

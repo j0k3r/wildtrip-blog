@@ -1,0 +1,12 @@
+
+{%- for post in postslist | reverse %}
+  {% set url = post.url %}
+  {% set title = post.data.title %}
+  {% set date = post.date %}
+  {% set date_travel = post.data.date_travel %}
+  {% set tags = post.data.tags %}
+  {% set excerpt = post.data.excerpt %}
+  {% set excerptImage = post.data.excerptImage %}
+
+  {% include 'header.njk' %}
+{%- endfor %}
