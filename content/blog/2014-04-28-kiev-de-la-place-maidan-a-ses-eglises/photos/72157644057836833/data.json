@@ -1,23 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Ukraine - Kiev - Église Sant-André",
         "path": "photos/72157644057836833/0-ukraine-kiev-e-glise-sant-andre.jpg",
-        "poster": "photos/72157644057836833/0-ukraine-kiev-e-glise-sant-andre.jpg",
+        "square": "photos/72157644057836833/0-ukraine-kiev-e-glise-sant-andre-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Ukraine - Kiev - Église Sant-André",
         "path": "photos/72157644057836833/1-ukraine-kiev-e-glise-sant-andre.jpg",
-        "poster": "photos/72157644057836833/1-ukraine-kiev-e-glise-sant-andre.jpg",
+        "square": "photos/72157644057836833/1-ukraine-kiev-e-glise-sant-andre-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Ukraine - Kiev - Église Sant-André",
         "path": "photos/72157644057836833/2-ukraine-kiev-e-glise-sant-andre.jpg",
-        "poster": "photos/72157644057836833/2-ukraine-kiev-e-glise-sant-andre.jpg",
+        "square": "photos/72157644057836833/2-ukraine-kiev-e-glise-sant-andre-square.jpg",
         "type": "image"
     }
 ]

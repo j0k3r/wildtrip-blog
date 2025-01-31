@@ -1,30 +1,26 @@
 [
     {
-        "number": 0,
         "title": "Ukraine - Kiev - Cathédrale Sainte-Sophie",
         "path": "photos/72157644057425225/0-ukraine-kiev-cathe-drale-sainte-sophie.jpg",
-        "poster": "photos/72157644057425225/0-ukraine-kiev-cathe-drale-sainte-sophie.jpg",
+        "square": "photos/72157644057425225/0-ukraine-kiev-cathe-drale-sainte-sophie-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Ukraine - Kiev - Cathédrale Sainte-Sophie",
         "path": "photos/72157644057425225/1-ukraine-kiev-cathe-drale-sainte-sophie.jpg",
-        "poster": "photos/72157644057425225/1-ukraine-kiev-cathe-drale-sainte-sophie.jpg",
+        "square": "photos/72157644057425225/1-ukraine-kiev-cathe-drale-sainte-sophie-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Ukraine - Kiev - Cathédrale Sainte-Sophie",
         "path": "photos/72157644057425225/2-ukraine-kiev-cathe-drale-sainte-sophie.jpg",
-        "poster": "photos/72157644057425225/2-ukraine-kiev-cathe-drale-sainte-sophie.jpg",
+        "square": "photos/72157644057425225/2-ukraine-kiev-cathe-drale-sainte-sophie-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Ukraine - Kiev - Cathédrale Sainte-Sophie",
         "path": "photos/72157644057425225/3-ukraine-kiev-cathe-drale-sainte-sophie.jpg",
-        "poster": "photos/72157644057425225/3-ukraine-kiev-cathe-drale-sainte-sophie.jpg",
+        "square": "photos/72157644057425225/3-ukraine-kiev-cathe-drale-sainte-sophie-square.jpg",
         "type": "image"
     }
 ]

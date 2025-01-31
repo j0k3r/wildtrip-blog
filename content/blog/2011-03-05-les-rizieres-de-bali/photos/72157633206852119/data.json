@@ -1,58 +1,50 @@
 [
     {
-        "number": 0,
         "title": "Les rizieres de Bali",
         "path": "photos/72157633206852119/0-les-rizieres-de-bali.jpg",
-        "poster": "photos/72157633206852119/0-les-rizieres-de-bali.jpg",
+        "square": "photos/72157633206852119/0-les-rizieres-de-bali-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Les rizieres de Bali",
         "path": "photos/72157633206852119/1-les-rizieres-de-bali.jpg",
-        "poster": "photos/72157633206852119/1-les-rizieres-de-bali.jpg",
+        "square": "photos/72157633206852119/1-les-rizieres-de-bali-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Les rizieres de Bali",
         "path": "photos/72157633206852119/2-les-rizieres-de-bali.jpg",
-        "poster": "photos/72157633206852119/2-les-rizieres-de-bali.jpg",
+        "square": "photos/72157633206852119/2-les-rizieres-de-bali-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Les rizieres de Bali",
         "path": "photos/72157633206852119/3-les-rizieres-de-bali.jpg",
-        "poster": "photos/72157633206852119/3-les-rizieres-de-bali.jpg",
+        "square": "photos/72157633206852119/3-les-rizieres-de-bali-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Les rizieres de Bali",
         "path": "photos/72157633206852119/4-les-rizieres-de-bali.jpg",
-        "poster": "photos/72157633206852119/4-les-rizieres-de-bali.jpg",
+        "square": "photos/72157633206852119/4-les-rizieres-de-bali-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Les rizieres de Bali",
         "path": "photos/72157633206852119/5-les-rizieres-de-bali.jpg",
-        "poster": "photos/72157633206852119/5-les-rizieres-de-bali.jpg",
+        "square": "photos/72157633206852119/5-les-rizieres-de-bali-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Les rizieres de Bali",
         "path": "photos/72157633206852119/6-les-rizieres-de-bali.jpg",
-        "poster": "photos/72157633206852119/6-les-rizieres-de-bali.jpg",
+        "square": "photos/72157633206852119/6-les-rizieres-de-bali-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "Les rizieres de Bali",
         "path": "photos/72157633206852119/7-les-rizieres-de-bali.jpg",
-        "poster": "photos/72157633206852119/7-les-rizieres-de-bali.jpg",
+        "square": "photos/72157633206852119/7-les-rizieres-de-bali-square.jpg",
         "type": "image"
     }
 ]

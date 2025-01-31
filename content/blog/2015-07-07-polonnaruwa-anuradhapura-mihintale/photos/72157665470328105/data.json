@@ -1,37 +1,32 @@
 [
     {
-        "number": 0,
         "title": "Sri Lanka - Mihintale",
         "path": "photos/72157665470328105/0-sri-lanka-mihintale.jpg",
-        "poster": "photos/72157665470328105/0-sri-lanka-mihintale.jpg",
+        "square": "photos/72157665470328105/0-sri-lanka-mihintale-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Sri Lanka - Mihintale",
         "path": "photos/72157665470328105/1-sri-lanka-mihintale.jpg",
-        "poster": "photos/72157665470328105/1-sri-lanka-mihintale.jpg",
+        "square": "photos/72157665470328105/1-sri-lanka-mihintale-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Sri Lanka - Mihintale",
         "path": "photos/72157665470328105/2-sri-lanka-mihintale.jpg",
-        "poster": "photos/72157665470328105/2-sri-lanka-mihintale.jpg",
+        "square": "photos/72157665470328105/2-sri-lanka-mihintale-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Sri Lanka - Mihintale",
         "path": "photos/72157665470328105/3-sri-lanka-mihintale.jpg",
-        "poster": "photos/72157665470328105/3-sri-lanka-mihintale.jpg",
+        "square": "photos/72157665470328105/3-sri-lanka-mihintale-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Sri Lanka - Mihintale",
         "path": "photos/72157665470328105/4-sri-lanka-mihintale.jpg",
-        "poster": "photos/72157665470328105/4-sri-lanka-mihintale.jpg",
+        "square": "photos/72157665470328105/4-sri-lanka-mihintale-square.jpg",
         "type": "image"
     }
 ]

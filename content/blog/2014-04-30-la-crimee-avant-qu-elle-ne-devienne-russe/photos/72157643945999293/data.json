@@ -1,79 +1,68 @@
 [
     {
-        "number": 0,
         "title": "Le port de Balaklava",
         "path": "photos/72157643945999293/0-le-port-de-balaklava.jpg",
-        "poster": "photos/72157643945999293/0-le-port-de-balaklava.jpg",
+        "square": "photos/72157643945999293/0-le-port-de-balaklava-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Le port de Balaklava",
         "path": "photos/72157643945999293/1-le-port-de-balaklava.jpg",
-        "poster": "photos/72157643945999293/1-le-port-de-balaklava.jpg",
+        "square": "photos/72157643945999293/1-le-port-de-balaklava-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Le port de Balaklava",
         "path": "photos/72157643945999293/2-le-port-de-balaklava.jpg",
-        "poster": "photos/72157643945999293/2-le-port-de-balaklava.jpg",
+        "square": "photos/72157643945999293/2-le-port-de-balaklava-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Le port de Balaklava",
         "path": "photos/72157643945999293/3-le-port-de-balaklava.jpg",
-        "poster": "photos/72157643945999293/3-le-port-de-balaklava.jpg",
+        "square": "photos/72157643945999293/3-le-port-de-balaklava-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Le port de Balaklava",
         "path": "photos/72157643945999293/4-le-port-de-balaklava.jpg",
-        "poster": "photos/72157643945999293/4-le-port-de-balaklava.jpg",
+        "square": "photos/72157643945999293/4-le-port-de-balaklava-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Le port de Balaklava",
         "path": "photos/72157643945999293/5-le-port-de-balaklava.jpg",
-        "poster": "photos/72157643945999293/5-le-port-de-balaklava.jpg",
+        "square": "photos/72157643945999293/5-le-port-de-balaklava-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Le port de Balaklava",
         "path": "photos/72157643945999293/6-le-port-de-balaklava.jpg",
-        "poster": "photos/72157643945999293/6-le-port-de-balaklava.jpg",
+        "square": "photos/72157643945999293/6-le-port-de-balaklava-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "Le port de Balaklava",
         "path": "photos/72157643945999293/7-le-port-de-balaklava.jpg",
-        "poster": "photos/72157643945999293/7-le-port-de-balaklava.jpg",
+        "square": "photos/72157643945999293/7-le-port-de-balaklava-square.jpg",
         "type": "image"
     },
     {
-        "number": 8,
         "title": "Le port de Balaklava",
         "path": "photos/72157643945999293/8-le-port-de-balaklava.jpg",
-        "poster": "photos/72157643945999293/8-le-port-de-balaklava.jpg",
+        "square": "photos/72157643945999293/8-le-port-de-balaklava-square.jpg",
         "type": "image"
     },
     {
-        "number": 9,
         "title": "Le port de Balaklava",
         "path": "photos/72157643945999293/9-le-port-de-balaklava.jpg",
-        "poster": "photos/72157643945999293/9-le-port-de-balaklava.jpg",
+        "square": "photos/72157643945999293/9-le-port-de-balaklava-square.jpg",
         "type": "image"
     },
     {
-        "number": 10,
         "title": "Le port de Balaklava",
         "path": "photos/72157643945999293/10-le-port-de-balaklava.jpg",
-        "poster": "photos/72157643945999293/10-le-port-de-balaklava.jpg",
+        "square": "photos/72157643945999293/10-le-port-de-balaklava-square.jpg",
         "type": "image"
     }
 ]

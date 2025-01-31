@@ -1,44 +1,38 @@
 [
     {
-        "number": 0,
         "title": "Koh Phi Phi, l'île aux couleurs paradisiaques !",
         "path": "photos/72157632850213499/0-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
-        "poster": "photos/72157632850213499/0-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
+        "square": "photos/72157632850213499/0-koh-phi-phi-l-ile-aux-couleurs-paradisiaques-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Koh Phi Phi, l'île aux couleurs paradisiaques !",
         "path": "photos/72157632850213499/1-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
-        "poster": "photos/72157632850213499/1-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
+        "square": "photos/72157632850213499/1-koh-phi-phi-l-ile-aux-couleurs-paradisiaques-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Koh Phi Phi, l'île aux couleurs paradisiaques !",
         "path": "photos/72157632850213499/2-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
-        "poster": "photos/72157632850213499/2-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
+        "square": "photos/72157632850213499/2-koh-phi-phi-l-ile-aux-couleurs-paradisiaques-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Koh Phi Phi, l'île aux couleurs paradisiaques !",
         "path": "photos/72157632850213499/3-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
-        "poster": "photos/72157632850213499/3-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
+        "square": "photos/72157632850213499/3-koh-phi-phi-l-ile-aux-couleurs-paradisiaques-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Koh Phi Phi, l'île aux couleurs paradisiaques !",
         "path": "photos/72157632850213499/4-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
-        "poster": "photos/72157632850213499/4-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
+        "square": "photos/72157632850213499/4-koh-phi-phi-l-ile-aux-couleurs-paradisiaques-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Koh Phi Phi, l'île aux couleurs paradisiaques !",
         "path": "photos/72157632850213499/5-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
-        "poster": "photos/72157632850213499/5-koh-phi-phi-l-ile-aux-couleurs-paradisiaques.jpg",
+        "square": "photos/72157632850213499/5-koh-phi-phi-l-ile-aux-couleurs-paradisiaques-square.jpg",
         "type": "image"
     }
 ]

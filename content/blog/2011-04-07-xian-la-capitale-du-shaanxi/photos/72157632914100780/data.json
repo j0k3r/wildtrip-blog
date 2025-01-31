@@ -1,51 +1,44 @@
 [
     {
-        "number": 0,
         "title": "Xi’an, la capitale du Shaanxi",
         "path": "photos/72157632914100780/0-xi-an-la-capitale-du-shaanxi.jpg",
-        "poster": "photos/72157632914100780/0-xi-an-la-capitale-du-shaanxi.jpg",
+        "square": "photos/72157632914100780/0-xi-an-la-capitale-du-shaanxi-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Xi’an, la capitale du Shaanxi",
         "path": "photos/72157632914100780/1-xi-an-la-capitale-du-shaanxi.jpg",
-        "poster": "photos/72157632914100780/1-xi-an-la-capitale-du-shaanxi.jpg",
+        "square": "photos/72157632914100780/1-xi-an-la-capitale-du-shaanxi-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Xi’an, la capitale du Shaanxi",
         "path": "photos/72157632914100780/2-xi-an-la-capitale-du-shaanxi.jpg",
-        "poster": "photos/72157632914100780/2-xi-an-la-capitale-du-shaanxi.jpg",
+        "square": "photos/72157632914100780/2-xi-an-la-capitale-du-shaanxi-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Xi’an, la capitale du Shaanxi",
         "path": "photos/72157632914100780/3-xi-an-la-capitale-du-shaanxi.jpg",
-        "poster": "photos/72157632914100780/3-xi-an-la-capitale-du-shaanxi.jpg",
+        "square": "photos/72157632914100780/3-xi-an-la-capitale-du-shaanxi-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Xi’an, la capitale du Shaanxi",
         "path": "photos/72157632914100780/4-xi-an-la-capitale-du-shaanxi.jpg",
-        "poster": "photos/72157632914100780/4-xi-an-la-capitale-du-shaanxi.jpg",
+        "square": "photos/72157632914100780/4-xi-an-la-capitale-du-shaanxi-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Xi’an, la capitale du Shaanxi",
         "path": "photos/72157632914100780/5-xi-an-la-capitale-du-shaanxi.jpg",
-        "poster": "photos/72157632914100780/5-xi-an-la-capitale-du-shaanxi.jpg",
+        "square": "photos/72157632914100780/5-xi-an-la-capitale-du-shaanxi-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Xi’an, la capitale du Shaanxi",
         "path": "photos/72157632914100780/6-xi-an-la-capitale-du-shaanxi.jpg",
-        "poster": "photos/72157632914100780/6-xi-an-la-capitale-du-shaanxi.jpg",
+        "square": "photos/72157632914100780/6-xi-an-la-capitale-du-shaanxi-square.jpg",
         "type": "image"
     }
 ]

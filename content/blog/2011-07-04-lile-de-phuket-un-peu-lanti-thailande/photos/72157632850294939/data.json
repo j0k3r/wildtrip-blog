@@ -1,37 +1,32 @@
 [
     {
-        "number": 0,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850294939/0-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850294939/0-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850294939/0-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850294939/1-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850294939/1-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850294939/1-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850294939/2-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850294939/2-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850294939/2-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850294939/3-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850294939/3-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850294939/3-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850294939/4-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850294939/4-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850294939/4-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     }
 ]

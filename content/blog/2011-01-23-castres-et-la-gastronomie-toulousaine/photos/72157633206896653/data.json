@@ -1,26 +1,26 @@
 [
     {
-        "number": 0,
         "title": "Castres et la gastronomie toulousaine",
         "path": "photos/72157633206896653/0-castres-et-la-gastronomie-toulousaine.jpg",
+        "square": "photos/72157633206896653/0-castres-et-la-gastronomie-toulousaine-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Castres et la gastronomie toulousaine",
         "path": "photos/72157633206896653/1-castres-et-la-gastronomie-toulousaine.jpg",
+        "square": "photos/72157633206896653/1-castres-et-la-gastronomie-toulousaine-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Castres et la gastronomie toulousaine",
         "path": "photos/72157633206896653/2-castres-et-la-gastronomie-toulousaine.jpg",
+        "square": "photos/72157633206896653/2-castres-et-la-gastronomie-toulousaine-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Castres et la gastronomie toulousaine",
         "path": "photos/72157633206896653/3-castres-et-la-gastronomie-toulousaine.jpg",
+        "square": "photos/72157633206896653/3-castres-et-la-gastronomie-toulousaine-square.jpg",
         "type": "image"
     }
 ]

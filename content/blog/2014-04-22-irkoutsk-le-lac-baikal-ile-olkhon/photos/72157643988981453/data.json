@@ -1,23 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Transsibérien - Lac Baïkal - Hostel",
         "path": "photos/72157643988981453/0-transsiberien-lac-baikal-hostel.jpg",
-        "poster": "photos/72157643988981453/0-transsiberien-lac-baikal-hostel.jpg",
+        "square": "photos/72157643988981453/0-transsiberien-lac-baikal-hostel-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Transsibérien - Lac Baïkal - Hostel",
         "path": "photos/72157643988981453/1-transsiberien-lac-baikal-hostel.jpg",
-        "poster": "photos/72157643988981453/1-transsiberien-lac-baikal-hostel.jpg",
+        "square": "photos/72157643988981453/1-transsiberien-lac-baikal-hostel-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Transsibérien - Lac Baïkal - Hostel",
         "path": "photos/72157643988981453/2-transsiberien-lac-baikal-hostel.jpg",
-        "poster": "photos/72157643988981453/2-transsiberien-lac-baikal-hostel.jpg",
+        "square": "photos/72157643988981453/2-transsiberien-lac-baikal-hostel-square.jpg",
         "type": "image"
     }
 ]

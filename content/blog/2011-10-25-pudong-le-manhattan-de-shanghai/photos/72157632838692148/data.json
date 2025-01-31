@@ -1,30 +1,26 @@
 [
     {
-        "number": 0,
         "title": "Pudong, le Manhattan de Shanghai",
         "path": "photos/72157632838692148/0-pudong-le-manhattan-de-shanghai.jpg",
-        "poster": "photos/72157632838692148/0-pudong-le-manhattan-de-shanghai.jpg",
+        "square": "photos/72157632838692148/0-pudong-le-manhattan-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Pudong, le Manhattan de Shanghai",
         "path": "photos/72157632838692148/1-pudong-le-manhattan-de-shanghai.jpg",
-        "poster": "photos/72157632838692148/1-pudong-le-manhattan-de-shanghai.jpg",
+        "square": "photos/72157632838692148/1-pudong-le-manhattan-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Pudong, le Manhattan de Shanghai",
         "path": "photos/72157632838692148/2-pudong-le-manhattan-de-shanghai.jpg",
-        "poster": "photos/72157632838692148/2-pudong-le-manhattan-de-shanghai.jpg",
+        "square": "photos/72157632838692148/2-pudong-le-manhattan-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Pudong, le Manhattan de Shanghai",
         "path": "photos/72157632838692148/3-pudong-le-manhattan-de-shanghai.jpg",
-        "poster": "photos/72157632838692148/3-pudong-le-manhattan-de-shanghai.jpg",
+        "square": "photos/72157632838692148/3-pudong-le-manhattan-de-shanghai-square.jpg",
         "type": "image"
     }
 ]

@@ -1,65 +1,56 @@
 [
     {
-        "number": 0,
         "title": "Leshan et son Bouddha géant",
         "path": "photos/72157632869054661/0-leshan-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632869054661/0-leshan-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632869054661/0-leshan-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Leshan et son Bouddha géant",
         "path": "photos/72157632869054661/1-leshan-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632869054661/1-leshan-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632869054661/1-leshan-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Leshan et son Bouddha géant",
         "path": "photos/72157632869054661/2-leshan-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632869054661/2-leshan-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632869054661/2-leshan-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Leshan et son Bouddha géant",
         "path": "photos/72157632869054661/3-leshan-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632869054661/3-leshan-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632869054661/3-leshan-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Leshan et son Bouddha géant",
         "path": "photos/72157632869054661/4-leshan-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632869054661/4-leshan-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632869054661/4-leshan-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Leshan et son Bouddha géant",
         "path": "photos/72157632869054661/5-leshan-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632869054661/5-leshan-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632869054661/5-leshan-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Leshan et son Bouddha géant",
         "path": "photos/72157632869054661/6-leshan-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632869054661/6-leshan-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632869054661/6-leshan-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "Leshan et son Bouddha géant",
         "path": "photos/72157632869054661/7-leshan-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632869054661/7-leshan-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632869054661/7-leshan-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 8,
         "title": "Leshan et son Bouddha géant",
         "path": "photos/72157632869054661/8-leshan-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632869054661/8-leshan-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632869054661/8-leshan-et-son-bouddha-geant-square.jpg",
         "type": "image"
     }
 ]

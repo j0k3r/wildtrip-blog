@@ -1,44 +1,38 @@
 [
     {
-        "number": 0,
         "title": "Les khlongs dans le \"vieux\" Bangkok",
         "path": "photos/72157632860087717/0-les-khlongs-dans-le-vieux-bangkok.jpg",
-        "poster": "photos/72157632860087717/0-les-khlongs-dans-le-vieux-bangkok.jpg",
+        "square": "photos/72157632860087717/0-les-khlongs-dans-le-vieux-bangkok-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Les khlongs dans le \"vieux\" Bangkok",
         "path": "photos/72157632860087717/1-les-khlongs-dans-le-vieux-bangkok.jpg",
-        "poster": "photos/72157632860087717/1-les-khlongs-dans-le-vieux-bangkok.jpg",
+        "square": "photos/72157632860087717/1-les-khlongs-dans-le-vieux-bangkok-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Les khlongs dans le \"vieux\" Bangkok",
         "path": "photos/72157632860087717/2-les-khlongs-dans-le-vieux-bangkok.jpg",
-        "poster": "photos/72157632860087717/2-les-khlongs-dans-le-vieux-bangkok.jpg",
+        "square": "photos/72157632860087717/2-les-khlongs-dans-le-vieux-bangkok-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Les khlongs dans le \"vieux\" Bangkok",
         "path": "photos/72157632860087717/3-les-khlongs-dans-le-vieux-bangkok.jpg",
-        "poster": "photos/72157632860087717/3-les-khlongs-dans-le-vieux-bangkok.jpg",
+        "square": "photos/72157632860087717/3-les-khlongs-dans-le-vieux-bangkok-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Les khlongs dans le \"vieux\" Bangkok",
         "path": "photos/72157632860087717/4-les-khlongs-dans-le-vieux-bangkok.jpg",
-        "poster": "photos/72157632860087717/4-les-khlongs-dans-le-vieux-bangkok.jpg",
+        "square": "photos/72157632860087717/4-les-khlongs-dans-le-vieux-bangkok-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Les khlongs dans le \"vieux\" Bangkok",
         "path": "photos/72157632860087717/5-les-khlongs-dans-le-vieux-bangkok.jpg",
-        "poster": "photos/72157632860087717/5-les-khlongs-dans-le-vieux-bangkok.jpg",
+        "square": "photos/72157632860087717/5-les-khlongs-dans-le-vieux-bangkok-square.jpg",
         "type": "image"
     }
 ]

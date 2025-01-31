@@ -1,9 +1,8 @@
 [
     {
-        "number": 0,
         "title": "Syracuse",
         "path": "photos/72157679860102796/0-syracuse.jpg",
-        "poster": "photos/72157679860102796/0-syracuse.jpg",
+        "square": "photos/72157679860102796/0-syracuse-square.jpg",
         "type": "image"
     }
 ]

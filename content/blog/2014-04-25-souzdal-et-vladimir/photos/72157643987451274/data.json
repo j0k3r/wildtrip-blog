@@ -1,37 +1,32 @@
 [
     {
-        "number": 0,
         "title": "Transsibérien - Souzdal - Kremlin",
         "path": "photos/72157643987451274/0-transsiberien-souzdal-kremlin.jpg",
-        "poster": "photos/72157643987451274/0-transsiberien-souzdal-kremlin.jpg",
+        "square": "photos/72157643987451274/0-transsiberien-souzdal-kremlin-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Transsibérien - Souzdal - Kremlin",
         "path": "photos/72157643987451274/1-transsiberien-souzdal-kremlin.jpg",
-        "poster": "photos/72157643987451274/1-transsiberien-souzdal-kremlin.jpg",
+        "square": "photos/72157643987451274/1-transsiberien-souzdal-kremlin-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Transsibérien - Souzdal - Kremlin",
         "path": "photos/72157643987451274/2-transsiberien-souzdal-kremlin.jpg",
-        "poster": "photos/72157643987451274/2-transsiberien-souzdal-kremlin.jpg",
+        "square": "photos/72157643987451274/2-transsiberien-souzdal-kremlin-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Transsibérien - Souzdal - Kremlin",
         "path": "photos/72157643987451274/3-transsiberien-souzdal-kremlin.jpg",
-        "poster": "photos/72157643987451274/3-transsiberien-souzdal-kremlin.jpg",
+        "square": "photos/72157643987451274/3-transsiberien-souzdal-kremlin-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Transsibérien - Souzdal - Kremlin",
         "path": "photos/72157643987451274/4-transsiberien-souzdal-kremlin.jpg",
-        "poster": "photos/72157643987451274/4-transsiberien-souzdal-kremlin.jpg",
+        "square": "photos/72157643987451274/4-transsiberien-souzdal-kremlin-square.jpg",
         "type": "image"
     }
 ]

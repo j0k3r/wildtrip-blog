@@ -1,86 +1,74 @@
 [
     {
-        "number": 0,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/0-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/0-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/0-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/1-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/1-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/1-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/2-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/2-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/2-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/3-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/3-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/3-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/4-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/4-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/4-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/5-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/5-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/5-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/6-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/6-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/6-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/7-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/7-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/7-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     },
     {
-        "number": 8,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/8-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/8-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/8-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     },
     {
-        "number": 9,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/9-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/9-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/9-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     },
     {
-        "number": 10,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/10-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/10-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/10-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     },
     {
-        "number": 11,
         "title": "Sicile - Stromboli (Les îles Éoliennes)",
         "path": "photos/72157677549707081/11-sicile-stromboli-les-iles-eoliennes.jpg",
-        "poster": "photos/72157677549707081/11-sicile-stromboli-les-iles-eoliennes.jpg",
+        "square": "photos/72157677549707081/11-sicile-stromboli-les-iles-eoliennes-square.jpg",
         "type": "image"
     }
 ]

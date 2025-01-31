@@ -1,44 +1,38 @@
 [
     {
-        "number": 0,
         "title": "Hong Kong, une autre Chine",
         "path": "photos/72157632850188879/0-hong-kong-une-autre-chine.jpg",
-        "poster": "photos/72157632850188879/0-hong-kong-une-autre-chine.jpg",
+        "square": "photos/72157632850188879/0-hong-kong-une-autre-chine-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Hong Kong, une autre Chine",
         "path": "photos/72157632850188879/1-hong-kong-une-autre-chine.jpg",
-        "poster": "photos/72157632850188879/1-hong-kong-une-autre-chine.jpg",
+        "square": "photos/72157632850188879/1-hong-kong-une-autre-chine-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Hong Kong, une autre Chine",
         "path": "photos/72157632850188879/2-hong-kong-une-autre-chine.jpg",
-        "poster": "photos/72157632850188879/2-hong-kong-une-autre-chine.jpg",
+        "square": "photos/72157632850188879/2-hong-kong-une-autre-chine-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Hong Kong, une autre Chine",
         "path": "photos/72157632850188879/3-hong-kong-une-autre-chine.jpg",
-        "poster": "photos/72157632850188879/3-hong-kong-une-autre-chine.jpg",
+        "square": "photos/72157632850188879/3-hong-kong-une-autre-chine-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Hong Kong, une autre Chine",
         "path": "photos/72157632850188879/4-hong-kong-une-autre-chine.jpg",
-        "poster": "photos/72157632850188879/4-hong-kong-une-autre-chine.jpg",
+        "square": "photos/72157632850188879/4-hong-kong-une-autre-chine-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Hong Kong, une autre Chine",
         "path": "photos/72157632850188879/5-hong-kong-une-autre-chine.jpg",
-        "poster": "photos/72157632850188879/5-hong-kong-une-autre-chine.jpg",
+        "square": "photos/72157632850188879/5-hong-kong-une-autre-chine-square.jpg",
         "type": "image"
     }
 ]

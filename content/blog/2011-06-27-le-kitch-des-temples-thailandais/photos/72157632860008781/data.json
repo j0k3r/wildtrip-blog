@@ -1,23 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Le kitch des temples thaïlandais",
         "path": "photos/72157632860008781/0-le-kitch-des-temples-thailandais.jpg",
-        "poster": "photos/72157632860008781/0-le-kitch-des-temples-thailandais.jpg",
+        "square": "photos/72157632860008781/0-le-kitch-des-temples-thailandais-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Le kitch des temples thaïlandais",
         "path": "photos/72157632860008781/1-le-kitch-des-temples-thailandais.jpg",
-        "poster": "photos/72157632860008781/1-le-kitch-des-temples-thailandais.jpg",
+        "square": "photos/72157632860008781/1-le-kitch-des-temples-thailandais-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Le kitch des temples thaïlandais",
         "path": "photos/72157632860008781/2-le-kitch-des-temples-thailandais.jpg",
-        "poster": "photos/72157632860008781/2-le-kitch-des-temples-thailandais.jpg",
+        "square": "photos/72157632860008781/2-le-kitch-des-temples-thailandais-square.jpg",
         "type": "image"
     }
 ]

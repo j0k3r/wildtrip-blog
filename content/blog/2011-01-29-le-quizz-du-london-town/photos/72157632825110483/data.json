@@ -1,20 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Le quizz du London Town",
         "path": "photos/72157632825110483/0-le-quizz-du-london-town.jpg",
+        "square": "photos/72157632825110483/0-le-quizz-du-london-town-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Le quizz du London Town",
         "path": "photos/72157632825110483/1-le-quizz-du-london-town.jpg",
+        "square": "photos/72157632825110483/1-le-quizz-du-london-town-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Le quizz du London Town",
         "path": "photos/72157632825110483/2-le-quizz-du-london-town.jpg",
+        "square": "photos/72157632825110483/2-le-quizz-du-london-town-square.jpg",
         "type": "image"
     }
 ]

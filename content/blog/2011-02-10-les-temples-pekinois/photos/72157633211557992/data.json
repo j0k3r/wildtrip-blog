@@ -1,51 +1,44 @@
 [
     {
-        "number": 0,
         "title": "Les temples pékinois",
         "path": "photos/72157633211557992/0-les-temples-pekinois.jpg",
-        "poster": "photos/72157633211557992/0-les-temples-pekinois.jpg",
+        "square": "photos/72157633211557992/0-les-temples-pekinois-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Les temples pékinois",
         "path": "photos/72157633211557992/1-les-temples-pekinois.jpg",
-        "poster": "photos/72157633211557992/1-les-temples-pekinois.jpg",
+        "square": "photos/72157633211557992/1-les-temples-pekinois-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Les temples pékinois",
         "path": "photos/72157633211557992/2-les-temples-pekinois.jpg",
-        "poster": "photos/72157633211557992/2-les-temples-pekinois.jpg",
+        "square": "photos/72157633211557992/2-les-temples-pekinois-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Les temples pékinois",
         "path": "photos/72157633211557992/3-les-temples-pekinois.jpg",
-        "poster": "photos/72157633211557992/3-les-temples-pekinois.jpg",
+        "square": "photos/72157633211557992/3-les-temples-pekinois-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Les temples pékinois",
         "path": "photos/72157633211557992/4-les-temples-pekinois.jpg",
-        "poster": "photos/72157633211557992/4-les-temples-pekinois.jpg",
+        "square": "photos/72157633211557992/4-les-temples-pekinois-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Les temples pékinois",
         "path": "photos/72157633211557992/5-les-temples-pekinois.jpg",
-        "poster": "photos/72157633211557992/5-les-temples-pekinois.jpg",
+        "square": "photos/72157633211557992/5-les-temples-pekinois-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Les temples pékinois",
         "path": "photos/72157633211557992/6-les-temples-pekinois.jpg",
-        "poster": "photos/72157633211557992/6-les-temples-pekinois.jpg",
+        "square": "photos/72157633211557992/6-les-temples-pekinois-square.jpg",
         "type": "image"
     }
 ]

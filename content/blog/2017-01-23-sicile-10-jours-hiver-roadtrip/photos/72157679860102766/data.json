@@ -1,9 +1,8 @@
 [
     {
-        "number": 0,
         "title": "Caltagirone",
         "path": "photos/72157679860102766/0-caltagirone.jpg",
-        "poster": "photos/72157679860102766/0-caltagirone.jpg",
+        "square": "photos/72157679860102766/0-caltagirone-square.jpg",
         "type": "image"
     }
 ]

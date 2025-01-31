@@ -1,16 +1,14 @@
 [
     {
-        "number": 0,
         "title": "Les musées de Shanghai et l'expo sur les 25 ans de Pixar",
         "path": "photos/72157632833784555/0-les-musees-de-shanghai-et-l-expo-sur-les-25-ans-de-pixar.jpg",
-        "poster": "photos/72157632833784555/0-les-musees-de-shanghai-et-l-expo-sur-les-25-ans-de-pixar.jpg",
+        "square": "photos/72157632833784555/0-les-musees-de-shanghai-et-l-expo-sur-les-25-ans-de-pixar-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Les musées de Shanghai et l'expo sur les 25 ans de Pixar",
         "path": "photos/72157632833784555/1-les-musees-de-shanghai-et-l-expo-sur-les-25-ans-de-pixar.jpg",
-        "poster": "photos/72157632833784555/1-les-musees-de-shanghai-et-l-expo-sur-les-25-ans-de-pixar.jpg",
+        "square": "photos/72157632833784555/1-les-musees-de-shanghai-et-l-expo-sur-les-25-ans-de-pixar-square.jpg",
         "type": "image"
     }
 ]

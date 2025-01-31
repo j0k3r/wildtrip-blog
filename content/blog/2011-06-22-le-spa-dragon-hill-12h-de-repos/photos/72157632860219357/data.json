@@ -1,128 +1,110 @@
 [
     {
-        "number": 0,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/0-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/0-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/0-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/1-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/1-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/1-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/2-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/2-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/2-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/3-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/3-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/3-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/4-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/4-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/4-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/5-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/5-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/5-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/6-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/6-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/6-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/7-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/7-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/7-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 8,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/8-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/8-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/8-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 9,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/9-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/9-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/9-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 10,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/10-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/10-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/10-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 11,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/11-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/11-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/11-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 12,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/12-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/12-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/12-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 13,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/13-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/13-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/13-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 14,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/14-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/14-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/14-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 15,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/15-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/15-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/15-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 16,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/16-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/16-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/16-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     },
     {
-        "number": 17,
         "title": "Le Dragon Hill Spa, jusqu'à 15h de repos!",
         "path": "photos/72157632860219357/17-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
-        "poster": "photos/72157632860219357/17-le-dragon-hill-spa-jusqu-a-15h-de-repos.jpg",
+        "square": "photos/72157632860219357/17-le-dragon-hill-spa-jusqu-a-15h-de-repos-square.jpg",
         "type": "image"
     }
 ]

@@ -1,51 +1,44 @@
 [
     {
-        "number": 0,
         "title": "Le snorkeling à Amed",
         "path": "photos/72157632944252401/0-le-snorkeling-a-amed.jpg",
-        "poster": "photos/72157632944252401/0-le-snorkeling-a-amed.jpg",
+        "square": "photos/72157632944252401/0-le-snorkeling-a-amed-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Le snorkeling à Amed",
         "path": "photos/72157632944252401/1-le-snorkeling-a-amed.jpg",
-        "poster": "photos/72157632944252401/1-le-snorkeling-a-amed.jpg",
+        "square": "photos/72157632944252401/1-le-snorkeling-a-amed-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Le snorkeling à Amed",
         "path": "photos/72157632944252401/2-le-snorkeling-a-amed.jpg",
-        "poster": "photos/72157632944252401/2-le-snorkeling-a-amed.jpg",
+        "square": "photos/72157632944252401/2-le-snorkeling-a-amed-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Le snorkeling à Amed",
         "path": "photos/72157632944252401/3-le-snorkeling-a-amed.jpg",
-        "poster": "photos/72157632944252401/3-le-snorkeling-a-amed.jpg",
+        "square": "photos/72157632944252401/3-le-snorkeling-a-amed-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Le snorkeling à Amed",
         "path": "photos/72157632944252401/4-le-snorkeling-a-amed.jpg",
-        "poster": "photos/72157632944252401/4-le-snorkeling-a-amed.jpg",
+        "square": "photos/72157632944252401/4-le-snorkeling-a-amed-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Le snorkeling à Amed",
         "path": "photos/72157632944252401/5-le-snorkeling-a-amed.jpg",
-        "poster": "photos/72157632944252401/5-le-snorkeling-a-amed.jpg",
+        "square": "photos/72157632944252401/5-le-snorkeling-a-amed-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Le snorkeling à Amed",
         "path": "photos/72157632944252401/6-le-snorkeling-a-amed.jpg",
-        "poster": "photos/72157632944252401/6-le-snorkeling-a-amed.jpg",
+        "square": "photos/72157632944252401/6-le-snorkeling-a-amed-square.jpg",
         "type": "image"
     }
 ]

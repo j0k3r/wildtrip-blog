@@ -1,93 +1,80 @@
 [
     {
-        "number": 0,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/0-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/0-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/0-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/1-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/1-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/1-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/2-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/2-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/2-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/3-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/3-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/3-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/4-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/4-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/4-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/5-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/5-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/5-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/6-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/6-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/6-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/7-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/7-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/7-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 8,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/8-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/8-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/8-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 9,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/9-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/9-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/9-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 10,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/10-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/10-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/10-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 11,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/11-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/11-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/11-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 12,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632872355612/12-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632872355612/12-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632872355612/12-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     }
 ]

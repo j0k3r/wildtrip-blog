@@ -1,58 +1,50 @@
 [
     {
-        "number": 0,
         "title": "Ukraine - Lviv",
         "path": "photos/72157644058023583/0-ukraine-lviv.jpg",
-        "poster": "photos/72157644058023583/0-ukraine-lviv.jpg",
+        "square": "photos/72157644058023583/0-ukraine-lviv-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Ukraine - Lviv",
         "path": "photos/72157644058023583/1-ukraine-lviv.jpg",
-        "poster": "photos/72157644058023583/1-ukraine-lviv.jpg",
+        "square": "photos/72157644058023583/1-ukraine-lviv-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Ukraine - Lviv",
         "path": "photos/72157644058023583/2-ukraine-lviv.jpg",
-        "poster": "photos/72157644058023583/2-ukraine-lviv.jpg",
+        "square": "photos/72157644058023583/2-ukraine-lviv-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Ukraine - Lviv",
         "path": "photos/72157644058023583/3-ukraine-lviv.jpg",
-        "poster": "photos/72157644058023583/3-ukraine-lviv.jpg",
+        "square": "photos/72157644058023583/3-ukraine-lviv-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Ukraine - Lviv",
         "path": "photos/72157644058023583/4-ukraine-lviv.jpg",
-        "poster": "photos/72157644058023583/4-ukraine-lviv.jpg",
+        "square": "photos/72157644058023583/4-ukraine-lviv-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Ukraine - Lviv",
         "path": "photos/72157644058023583/5-ukraine-lviv.jpg",
-        "poster": "photos/72157644058023583/5-ukraine-lviv.jpg",
+        "square": "photos/72157644058023583/5-ukraine-lviv-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Ukraine - Lviv",
         "path": "photos/72157644058023583/6-ukraine-lviv.jpg",
-        "poster": "photos/72157644058023583/6-ukraine-lviv.jpg",
+        "square": "photos/72157644058023583/6-ukraine-lviv-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "Ukraine - Lviv",
         "path": "photos/72157644058023583/7-ukraine-lviv.jpg",
-        "poster": "photos/72157644058023583/7-ukraine-lviv.jpg",
+        "square": "photos/72157644058023583/7-ukraine-lviv-square.jpg",
         "type": "image"
     }
 ]

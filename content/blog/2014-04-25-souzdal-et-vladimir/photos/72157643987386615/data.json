@@ -1,37 +1,32 @@
 [
     {
-        "number": 0,
         "title": "Transsibérien - Souzdal - Marché",
         "path": "photos/72157643987386615/0-transsiberien-souzdal-marche.jpg",
-        "poster": "photos/72157643987386615/0-transsiberien-souzdal-marche.jpg",
+        "square": "photos/72157643987386615/0-transsiberien-souzdal-marche-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Transsibérien - Souzdal - Marché",
         "path": "photos/72157643987386615/1-transsiberien-souzdal-marche.jpg",
-        "poster": "photos/72157643987386615/1-transsiberien-souzdal-marche.jpg",
+        "square": "photos/72157643987386615/1-transsiberien-souzdal-marche-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Transsibérien - Souzdal - Marché",
         "path": "photos/72157643987386615/2-transsiberien-souzdal-marche.jpg",
-        "poster": "photos/72157643987386615/2-transsiberien-souzdal-marche.jpg",
+        "square": "photos/72157643987386615/2-transsiberien-souzdal-marche-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Transsibérien - Souzdal - Marché",
         "path": "photos/72157643987386615/3-transsiberien-souzdal-marche.jpg",
-        "poster": "photos/72157643987386615/3-transsiberien-souzdal-marche.jpg",
+        "square": "photos/72157643987386615/3-transsiberien-souzdal-marche-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Transsibérien - Souzdal - Marché",
         "path": "photos/72157643987386615/4-transsiberien-souzdal-marche.jpg",
-        "poster": "photos/72157643987386615/4-transsiberien-souzdal-marche.jpg",
+        "square": "photos/72157643987386615/4-transsiberien-souzdal-marche-square.jpg",
         "type": "image"
     }
 ]

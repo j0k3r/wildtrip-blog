@@ -1,37 +1,32 @@
 [
     {
-        "number": 0,
         "title": "Bakhtchyssaraï - L'église dans la montagne",
         "path": "photos/72157643946335235/0-bakhtchyssarai-l-eglise-dans-la-montagne.jpg",
-        "poster": "photos/72157643946335235/0-bakhtchyssarai-l-eglise-dans-la-montagne.jpg",
+        "square": "photos/72157643946335235/0-bakhtchyssarai-l-eglise-dans-la-montagne-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Bakhtchyssaraï - L'église dans la montagne",
         "path": "photos/72157643946335235/1-bakhtchyssarai-l-eglise-dans-la-montagne.jpg",
-        "poster": "photos/72157643946335235/1-bakhtchyssarai-l-eglise-dans-la-montagne.jpg",
+        "square": "photos/72157643946335235/1-bakhtchyssarai-l-eglise-dans-la-montagne-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Bakhtchyssaraï - L'église dans la montagne",
         "path": "photos/72157643946335235/2-bakhtchyssarai-l-eglise-dans-la-montagne.jpg",
-        "poster": "photos/72157643946335235/2-bakhtchyssarai-l-eglise-dans-la-montagne.jpg",
+        "square": "photos/72157643946335235/2-bakhtchyssarai-l-eglise-dans-la-montagne-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Bakhtchyssaraï - L'église dans la montagne",
         "path": "photos/72157643946335235/3-bakhtchyssarai-l-eglise-dans-la-montagne.jpg",
-        "poster": "photos/72157643946335235/3-bakhtchyssarai-l-eglise-dans-la-montagne.jpg",
+        "square": "photos/72157643946335235/3-bakhtchyssarai-l-eglise-dans-la-montagne-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Bakhtchyssaraï - L'église dans la montagne",
         "path": "photos/72157643946335235/4-bakhtchyssarai-l-eglise-dans-la-montagne.jpg",
-        "poster": "photos/72157643946335235/4-bakhtchyssarai-l-eglise-dans-la-montagne.jpg",
+        "square": "photos/72157643946335235/4-bakhtchyssarai-l-eglise-dans-la-montagne-square.jpg",
         "type": "image"
     }
 ]

@@ -110,27 +110,29 @@ export default async function (eleventyConfig) {
     return data.toString('utf8');
   });
 
-  eleventyConfig.addAsyncShortcode('photoset', async function (id) {
+  eleventyConfig.addShortcode('photoset', function (id) {
     const contentPath = path.dirname(this.page.inputPath);
+    const contentDir = path.dirname(this.page.outputPath);
     const photosetDir = `${contentPath}/photos/${id}`;
     const photosetData = JSON.parse(fs.readFileSync(`${photosetDir}/data.json`));
 
     if (photosetData.length === 1) {
       const data = photosetData.pop();
       if (data.type === 'video') {
-        // generate the big photo to be able to get the final url and put it in the anchor
-        const poster = await Image(`${contentPath}/${data.poster}`, {
+        // get the poster to be able to get the final url and put it in the video tag
+        const poster = Image.statsSync(`${contentPath}/${data.poster}`, {
           formats: ['jpg'],
           widths: ['auto'],
-          outputDir: path.dirname(this.page.outputPath),
+          outputDir: contentDir,
           urlPath: this.page.url,
         });
 
+        if (!fs.existsSync(contentDir)) {
+          fs.mkdirSync(contentDir);
+        }
+
         // move video into the content directory
-        fs.copyFileSync(
-          `${contentPath}/${data.path}`,
-          `${path.dirname(this.page.outputPath)}/${path.basename(data.path)}`,
-        );
+        fs.copyFileSync(`${contentPath}/${data.path}`, `${contentDir}/${path.basename(data.path)}`);
 
         return `<p style="text-align: center;"><video controls poster="${poster.jpeg[0].url}"><source src="${this.page.url}/${path.basename(data.path)}" type="video/mp4" /></video></p>`;
       }
@@ -138,58 +140,36 @@ export default async function (eleventyConfig) {
       return `<p style="text-align: center;"><img class="th" src="${data.path}" title="${data.title}" alt="${data.title}" width="800" /></p>`;
     }
 
-    const res = await Promise.all(
-      photosetData.map(async (data) => {
-        if (data.type === 'video') {
-          // generate the big photo to be able to get the final url and put it in the anchor
-          const poster = await Image(`${contentPath}/${data.poster}`, {
-            formats: ['jpg'],
-            widths: ['auto'],
-            outputDir: path.dirname(this.page.outputPath),
-            urlPath: this.page.url,
-          });
-
-          // move video into the content directory
-          fs.copyFileSync(
-            `${contentPath}/${data.path}`,
-            `${path.dirname(this.page.outputPath)}/${path.basename(data.path)}`,
-          );
-
-          return `<li><video controls poster="${poster.jpeg[0].url}"><source src="${this.page.url}/${path.basename(data.path)}" type="video/mp4" /></video></li>`;
-        }
-
-        // generate squared image using sharp (because it's not possible using `eleventyImageTransformPlugin`)
-        const photoSquared = await Image(`${contentPath}/${data.path}`, {
+    const res = photosetData.map((data) => {
+      if (data.type === 'video') {
+        // get the big photo to be able to get the final url and put it in the anchor tag
+        const poster = Image.statsSync(`${contentPath}/${data.poster}`, {
           formats: ['jpg'],
           widths: ['auto'],
-          transform: function squarify(sharp) {
-            sharp.resize(150, 150);
-          },
-          returnType: 'html',
-          htmlOptions: {
-            imgAttributes: {
-              alt: data.title,
-              title: data.title,
-              loading: 'lazy',
-              decoding: 'async',
-              'data-original-name': path.basename(data.path),
-            },
-          },
-          outputDir: `${contentPath}/photos/squared/`,
-          urlPath: './photos/squared/',
-        });
-
-        // generate the big photo to be able to get the final url and put it in the anchor
-        const photoBig = await Image(`${contentPath}/${data.path}`, {
-          formats: ['jpg'],
-          widths: ['auto'],
-          outputDir: path.dirname(this.page.outputPath),
+          outputDir: contentDir,
           urlPath: this.page.url,
         });
 
-        return `<li><a class="th" href="${photoBig.jpeg[0].url}">${photoSquared}</a></li>`;
-      }),
-    );
+        if (!fs.existsSync(contentDir)) {
+          fs.mkdirSync(contentDir);
+        }
+
+        // move video into the content directory
+        fs.copyFileSync(`${contentPath}/${data.path}`, `${contentDir}/${path.basename(data.path)}`);
+
+        return `<li><video controls poster="${poster.jpeg[0].url}"><source src="${this.page.url}/${path.basename(data.path)}" type="video/mp4" /></video></li>`;
+      }
+
+      // get the big photo to be able to get the final url and put it in the anchor tag
+      const photoBig = Image.statsSync(`${contentPath}/${data.path}`, {
+        formats: ['jpg'],
+        widths: ['auto'],
+        outputDir: contentDir,
+        urlPath: this.page.url,
+      });
+
+      return `<li><a class="th" href="${photoBig.jpeg[0].url}"><img src="${data.square}" alt="${data.title}" title="${data.title}"></a></li>`;
+    });
 
     return `<div class="row"><div class="large-11 columns large-centered"><ul class="clearing-thumbs" data-clearing>${res.join('')}</ul></div></div>`;
   });

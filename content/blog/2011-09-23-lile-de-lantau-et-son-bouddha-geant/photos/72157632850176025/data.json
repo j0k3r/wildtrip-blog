@@ -1,86 +1,74 @@
 [
     {
-        "number": 0,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/0-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/0-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/0-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/1-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/1-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/1-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/2-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/2-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/2-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/3-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/3-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/3-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/4-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/4-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/4-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/5-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/5-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/5-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/6-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/6-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/6-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/7-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/7-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/7-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 8,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/8-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/8-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/8-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 9,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/9-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/9-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/9-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 10,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/10-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/10-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/10-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     },
     {
-        "number": 11,
         "title": "L'île de Lantau et son Bouddha géant",
         "path": "photos/72157632850176025/11-l-ile-de-lantau-et-son-bouddha-geant.jpg",
-        "poster": "photos/72157632850176025/11-l-ile-de-lantau-et-son-bouddha-geant.jpg",
+        "square": "photos/72157632850176025/11-l-ile-de-lantau-et-son-bouddha-geant-square.jpg",
         "type": "image"
     }
 ]

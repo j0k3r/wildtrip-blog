@@ -1,16 +1,14 @@
 [
     {
-        "number": 0,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632868219757/0-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632868219757/0-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632868219757/0-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Les Gungs de Séoul - 1ère partie",
         "path": "photos/72157632868219757/1-les-gungs-de-seoul-1ere-partie.jpg",
-        "poster": "photos/72157632868219757/1-les-gungs-de-seoul-1ere-partie.jpg",
+        "square": "photos/72157632868219757/1-les-gungs-de-seoul-1ere-partie-square.jpg",
         "type": "image"
     }
 ]

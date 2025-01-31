@@ -1,44 +1,38 @@
 [
     {
-        "number": 0,
         "title": "Transsibérien - Moscou - Basile",
         "path": "photos/72157643947582134/0-transsiberien-moscou-basile.jpg",
-        "poster": "photos/72157643947582134/0-transsiberien-moscou-basile.jpg",
+        "square": "photos/72157643947582134/0-transsiberien-moscou-basile-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Transsibérien - Moscou - Basile",
         "path": "photos/72157643947582134/1-transsiberien-moscou-basile.jpg",
-        "poster": "photos/72157643947582134/1-transsiberien-moscou-basile.jpg",
+        "square": "photos/72157643947582134/1-transsiberien-moscou-basile-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Transsibérien - Moscou - Basile",
         "path": "photos/72157643947582134/2-transsiberien-moscou-basile.jpg",
-        "poster": "photos/72157643947582134/2-transsiberien-moscou-basile.jpg",
+        "square": "photos/72157643947582134/2-transsiberien-moscou-basile-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Transsibérien - Moscou - Basile",
         "path": "photos/72157643947582134/3-transsiberien-moscou-basile.jpg",
-        "poster": "photos/72157643947582134/3-transsiberien-moscou-basile.jpg",
+        "square": "photos/72157643947582134/3-transsiberien-moscou-basile-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Transsibérien - Moscou - Basile",
         "path": "photos/72157643947582134/4-transsiberien-moscou-basile.jpg",
-        "poster": "photos/72157643947582134/4-transsiberien-moscou-basile.jpg",
+        "square": "photos/72157643947582134/4-transsiberien-moscou-basile-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Transsibérien - Moscou - Basile",
         "path": "photos/72157643947582134/5-transsiberien-moscou-basile.jpg",
-        "poster": "photos/72157643947582134/5-transsiberien-moscou-basile.jpg",
+        "square": "photos/72157643947582134/5-transsiberien-moscou-basile-square.jpg",
         "type": "image"
     }
 ]

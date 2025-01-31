@@ -1,44 +1,38 @@
 [
     {
-        "number": 0,
         "title": "Dali, entre lac et montagnes",
         "path": "photos/72157632877104703/0-dali-entre-lac-et-montagnes.jpg",
-        "poster": "photos/72157632877104703/0-dali-entre-lac-et-montagnes.jpg",
+        "square": "photos/72157632877104703/0-dali-entre-lac-et-montagnes-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Dali, entre lac et montagnes",
         "path": "photos/72157632877104703/1-dali-entre-lac-et-montagnes.jpg",
-        "poster": "photos/72157632877104703/1-dali-entre-lac-et-montagnes.jpg",
+        "square": "photos/72157632877104703/1-dali-entre-lac-et-montagnes-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Dali, entre lac et montagnes",
         "path": "photos/72157632877104703/2-dali-entre-lac-et-montagnes.jpg",
-        "poster": "photos/72157632877104703/2-dali-entre-lac-et-montagnes.jpg",
+        "square": "photos/72157632877104703/2-dali-entre-lac-et-montagnes-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Dali, entre lac et montagnes",
         "path": "photos/72157632877104703/3-dali-entre-lac-et-montagnes.jpg",
-        "poster": "photos/72157632877104703/3-dali-entre-lac-et-montagnes.jpg",
+        "square": "photos/72157632877104703/3-dali-entre-lac-et-montagnes-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Dali, entre lac et montagnes",
         "path": "photos/72157632877104703/4-dali-entre-lac-et-montagnes.jpg",
-        "poster": "photos/72157632877104703/4-dali-entre-lac-et-montagnes.jpg",
+        "square": "photos/72157632877104703/4-dali-entre-lac-et-montagnes-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Dali, entre lac et montagnes",
         "path": "photos/72157632877104703/5-dali-entre-lac-et-montagnes.jpg",
-        "poster": "photos/72157632877104703/5-dali-entre-lac-et-montagnes.jpg",
+        "square": "photos/72157632877104703/5-dali-entre-lac-et-montagnes-square.jpg",
         "type": "image"
     }
 ]

@@ -1,30 +1,26 @@
 [
     {
-        "number": 0,
         "title": "Transsibérien - Mongolie - Jour 4",
         "path": "photos/72157643990450965/0-transsiberien-mongolie-jour-4.jpg",
-        "poster": "photos/72157643990450965/0-transsiberien-mongolie-jour-4.jpg",
+        "square": "photos/72157643990450965/0-transsiberien-mongolie-jour-4-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Transsibérien - Mongolie - Jour 4",
         "path": "photos/72157643990450965/1-transsiberien-mongolie-jour-4.jpg",
-        "poster": "photos/72157643990450965/1-transsiberien-mongolie-jour-4.jpg",
+        "square": "photos/72157643990450965/1-transsiberien-mongolie-jour-4-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Transsibérien - Mongolie - Jour 4",
         "path": "photos/72157643990450965/2-transsiberien-mongolie-jour-4.jpg",
-        "poster": "photos/72157643990450965/2-transsiberien-mongolie-jour-4.jpg",
+        "square": "photos/72157643990450965/2-transsiberien-mongolie-jour-4-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Transsibérien - Mongolie - Jour 4",
         "path": "photos/72157643990450965/3-transsiberien-mongolie-jour-4.jpg",
-        "poster": "photos/72157643990450965/3-transsiberien-mongolie-jour-4.jpg",
+        "square": "photos/72157643990450965/3-transsiberien-mongolie-jour-4-square.jpg",
         "type": "image"
     }
 ]
