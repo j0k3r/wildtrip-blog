@@ -1,20 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Sicile - Syracuse",
         "path": "photos/72157677547480441/0-sicile-syracuse.jpg",
+        "square": "photos/72157677547480441/0-sicile-syracuse-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Sicile - Syracuse",
         "path": "photos/72157677547480441/1-sicile-syracuse.jpg",
+        "square": "photos/72157677547480441/1-sicile-syracuse-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Sicile - Syracuse",
         "path": "photos/72157677547480441/2-sicile-syracuse.jpg",
+        "square": "photos/72157677547480441/2-sicile-syracuse-square.jpg",
         "type": "image"
     }
 ]

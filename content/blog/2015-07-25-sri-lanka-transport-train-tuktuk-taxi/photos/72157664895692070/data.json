@@ -1,16 +1,14 @@
 [
     {
-        "number": 0,
         "title": "Sri Lanka - Transport - Bus",
         "path": "photos/72157664895692070/0-sri-lanka-transport-bus.jpg",
-        "poster": "photos/72157664895692070/0-sri-lanka-transport-bus.jpg",
+        "square": "photos/72157664895692070/0-sri-lanka-transport-bus-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Sri Lanka - Transport - Bus",
         "path": "photos/72157664895692070/1-sri-lanka-transport-bus.jpg",
-        "poster": "photos/72157664895692070/1-sri-lanka-transport-bus.jpg",
+        "square": "photos/72157664895692070/1-sri-lanka-transport-bus-square.jpg",
         "type": "image"
     }
 ]

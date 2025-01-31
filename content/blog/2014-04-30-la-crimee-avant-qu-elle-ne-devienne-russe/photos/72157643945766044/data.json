@@ -1,51 +1,44 @@
 [
     {
-        "number": 0,
         "title": "Balaklava - La base sous-marine",
         "path": "photos/72157643945766044/0-balaklava-la-base-sous-marine.jpg",
-        "poster": "photos/72157643945766044/0-balaklava-la-base-sous-marine.jpg",
+        "square": "photos/72157643945766044/0-balaklava-la-base-sous-marine-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Balaklava - La base sous-marine",
         "path": "photos/72157643945766044/1-balaklava-la-base-sous-marine.jpg",
-        "poster": "photos/72157643945766044/1-balaklava-la-base-sous-marine.jpg",
+        "square": "photos/72157643945766044/1-balaklava-la-base-sous-marine-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Balaklava - La base sous-marine",
         "path": "photos/72157643945766044/2-balaklava-la-base-sous-marine.jpg",
-        "poster": "photos/72157643945766044/2-balaklava-la-base-sous-marine.jpg",
+        "square": "photos/72157643945766044/2-balaklava-la-base-sous-marine-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Balaklava - La base sous-marine",
         "path": "photos/72157643945766044/3-balaklava-la-base-sous-marine.jpg",
-        "poster": "photos/72157643945766044/3-balaklava-la-base-sous-marine.jpg",
+        "square": "photos/72157643945766044/3-balaklava-la-base-sous-marine-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Balaklava - La base sous-marine",
         "path": "photos/72157643945766044/4-balaklava-la-base-sous-marine.jpg",
-        "poster": "photos/72157643945766044/4-balaklava-la-base-sous-marine.jpg",
+        "square": "photos/72157643945766044/4-balaklava-la-base-sous-marine-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Balaklava - La base sous-marine",
         "path": "photos/72157643945766044/5-balaklava-la-base-sous-marine.jpg",
-        "poster": "photos/72157643945766044/5-balaklava-la-base-sous-marine.jpg",
+        "square": "photos/72157643945766044/5-balaklava-la-base-sous-marine-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Balaklava - La base sous-marine",
         "path": "photos/72157643945766044/6-balaklava-la-base-sous-marine.jpg",
-        "poster": "photos/72157643945766044/6-balaklava-la-base-sous-marine.jpg",
+        "square": "photos/72157643945766044/6-balaklava-la-base-sous-marine-square.jpg",
         "type": "image"
     }
 ]

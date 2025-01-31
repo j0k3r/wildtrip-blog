@@ -1,51 +1,44 @@
 [
     {
-        "number": 0,
         "title": "Sri Lanka - Mirissa",
         "path": "photos/72157664775263969/0-sri-lanka-mirissa.jpg",
-        "poster": "photos/72157664775263969/0-sri-lanka-mirissa.jpg",
+        "square": "photos/72157664775263969/0-sri-lanka-mirissa-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Sri Lanka - Mirissa",
         "path": "photos/72157664775263969/1-sri-lanka-mirissa.jpg",
-        "poster": "photos/72157664775263969/1-sri-lanka-mirissa.jpg",
+        "square": "photos/72157664775263969/1-sri-lanka-mirissa-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Sri Lanka - Mirissa",
         "path": "photos/72157664775263969/2-sri-lanka-mirissa.jpg",
-        "poster": "photos/72157664775263969/2-sri-lanka-mirissa.jpg",
+        "square": "photos/72157664775263969/2-sri-lanka-mirissa-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Sri Lanka - Mirissa",
         "path": "photos/72157664775263969/3-sri-lanka-mirissa.jpg",
-        "poster": "photos/72157664775263969/3-sri-lanka-mirissa.jpg",
+        "square": "photos/72157664775263969/3-sri-lanka-mirissa-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Sri Lanka - Mirissa",
         "path": "photos/72157664775263969/4-sri-lanka-mirissa.jpg",
-        "poster": "photos/72157664775263969/4-sri-lanka-mirissa.jpg",
+        "square": "photos/72157664775263969/4-sri-lanka-mirissa-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Sri Lanka - Mirissa",
         "path": "photos/72157664775263969/5-sri-lanka-mirissa.jpg",
-        "poster": "photos/72157664775263969/5-sri-lanka-mirissa.jpg",
+        "square": "photos/72157664775263969/5-sri-lanka-mirissa-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Sri Lanka - Mirissa",
         "path": "photos/72157664775263969/6-sri-lanka-mirissa.jpg",
-        "poster": "photos/72157664775263969/6-sri-lanka-mirissa.jpg",
+        "square": "photos/72157664775263969/6-sri-lanka-mirissa-square.jpg",
         "type": "image"
     }
 ]

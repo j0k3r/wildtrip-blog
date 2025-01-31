@@ -1,30 +1,26 @@
 [
     {
-        "number": 0,
         "title": "Chengdu, capitale du Sichuan et des maisons de thé",
         "path": "photos/72157632869093747/0-chengdu-capitale-du-sichuan-et-des-maisons-de-the.jpg",
-        "poster": "photos/72157632869093747/0-chengdu-capitale-du-sichuan-et-des-maisons-de-the.jpg",
+        "square": "photos/72157632869093747/0-chengdu-capitale-du-sichuan-et-des-maisons-de-the-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Chengdu, capitale du Sichuan et des maisons de thé",
         "path": "photos/72157632869093747/1-chengdu-capitale-du-sichuan-et-des-maisons-de-the.jpg",
-        "poster": "photos/72157632869093747/1-chengdu-capitale-du-sichuan-et-des-maisons-de-the.jpg",
+        "square": "photos/72157632869093747/1-chengdu-capitale-du-sichuan-et-des-maisons-de-the-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Chengdu, capitale du Sichuan et des maisons de thé",
         "path": "photos/72157632869093747/2-chengdu-capitale-du-sichuan-et-des-maisons-de-the.jpg",
-        "poster": "photos/72157632869093747/2-chengdu-capitale-du-sichuan-et-des-maisons-de-the.jpg",
+        "square": "photos/72157632869093747/2-chengdu-capitale-du-sichuan-et-des-maisons-de-the-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Chengdu, capitale du Sichuan et des maisons de thé",
         "path": "photos/72157632869093747/3-chengdu-capitale-du-sichuan-et-des-maisons-de-the.jpg",
-        "poster": "photos/72157632869093747/3-chengdu-capitale-du-sichuan-et-des-maisons-de-the.jpg",
+        "square": "photos/72157632869093747/3-chengdu-capitale-du-sichuan-et-des-maisons-de-the-square.jpg",
         "type": "image"
     }
 ]

@@ -1,23 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Le Bund, l'avenue du milliard de dollars de Shanghai",
         "path": "photos/72157632838843660/0-le-bund-l-avenue-du-milliard-de-dollars-de-shanghai.jpg",
-        "poster": "photos/72157632838843660/0-le-bund-l-avenue-du-milliard-de-dollars-de-shanghai.jpg",
+        "square": "photos/72157632838843660/0-le-bund-l-avenue-du-milliard-de-dollars-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Le Bund, l'avenue du milliard de dollars de Shanghai",
         "path": "photos/72157632838843660/1-le-bund-l-avenue-du-milliard-de-dollars-de-shanghai.jpg",
-        "poster": "photos/72157632838843660/1-le-bund-l-avenue-du-milliard-de-dollars-de-shanghai.jpg",
+        "square": "photos/72157632838843660/1-le-bund-l-avenue-du-milliard-de-dollars-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Le Bund, l'avenue du milliard de dollars de Shanghai",
         "path": "photos/72157632838843660/2-le-bund-l-avenue-du-milliard-de-dollars-de-shanghai.jpg",
-        "poster": "photos/72157632838843660/2-le-bund-l-avenue-du-milliard-de-dollars-de-shanghai.jpg",
+        "square": "photos/72157632838843660/2-le-bund-l-avenue-du-milliard-de-dollars-de-shanghai-square.jpg",
         "type": "image"
     }
 ]

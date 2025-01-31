@@ -1,23 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Kunming, cité de l’éternel printemps",
         "path": "photos/72157632914028926/0-kunming-cite-de-l-eternel-printemps.jpg",
-        "poster": "photos/72157632914028926/0-kunming-cite-de-l-eternel-printemps.jpg",
+        "square": "photos/72157632914028926/0-kunming-cite-de-l-eternel-printemps-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Kunming, cité de l’éternel printemps",
         "path": "photos/72157632914028926/1-kunming-cite-de-l-eternel-printemps.jpg",
-        "poster": "photos/72157632914028926/1-kunming-cite-de-l-eternel-printemps.jpg",
+        "square": "photos/72157632914028926/1-kunming-cite-de-l-eternel-printemps-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Kunming, cité de l’éternel printemps",
         "path": "photos/72157632914028926/2-kunming-cite-de-l-eternel-printemps.jpg",
-        "poster": "photos/72157632914028926/2-kunming-cite-de-l-eternel-printemps.jpg",
+        "square": "photos/72157632914028926/2-kunming-cite-de-l-eternel-printemps-square.jpg",
         "type": "image"
     }
 ]

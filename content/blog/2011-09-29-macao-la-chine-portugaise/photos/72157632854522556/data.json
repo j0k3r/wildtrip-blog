@@ -1,16 +1,14 @@
 [
     {
-        "number": 0,
         "title": "Macao, la Chine portugaise",
         "path": "photos/72157632854522556/0-macao-la-chine-portugaise.jpg",
-        "poster": "photos/72157632854522556/0-macao-la-chine-portugaise.jpg",
+        "square": "photos/72157632854522556/0-macao-la-chine-portugaise-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Macao, la Chine portugaise",
         "path": "photos/72157632854522556/1-macao-la-chine-portugaise.jpg",
-        "poster": "photos/72157632854522556/1-macao-la-chine-portugaise.jpg",
+        "square": "photos/72157632854522556/1-macao-la-chine-portugaise-square.jpg",
         "type": "image"
     }
 ]

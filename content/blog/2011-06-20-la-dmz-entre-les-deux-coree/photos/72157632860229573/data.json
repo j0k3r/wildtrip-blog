@@ -1,16 +1,14 @@
 [
     {
-        "number": 0,
         "title": "La DMZ entre les deux Corée",
         "path": "photos/72157632860229573/0-la-dmz-entre-les-deux-coree.jpg",
-        "poster": "photos/72157632860229573/0-la-dmz-entre-les-deux-coree.jpg",
+        "square": "photos/72157632860229573/0-la-dmz-entre-les-deux-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "La DMZ entre les deux Corée",
         "path": "photos/72157632860229573/1-la-dmz-entre-les-deux-coree.jpg",
-        "poster": "photos/72157632860229573/1-la-dmz-entre-les-deux-coree.jpg",
+        "square": "photos/72157632860229573/1-la-dmz-entre-les-deux-coree-square.jpg",
         "type": "image"
     }
 ]

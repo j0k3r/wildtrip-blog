@@ -1,65 +1,56 @@
 [
     {
-        "number": 0,
         "title": "La DMZ entre les deux Corée",
         "path": "photos/72157632860232155/0-la-dmz-entre-les-deux-coree.jpg",
-        "poster": "photos/72157632860232155/0-la-dmz-entre-les-deux-coree.jpg",
+        "square": "photos/72157632860232155/0-la-dmz-entre-les-deux-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "La DMZ entre les deux Corée",
         "path": "photos/72157632860232155/1-la-dmz-entre-les-deux-coree.jpg",
-        "poster": "photos/72157632860232155/1-la-dmz-entre-les-deux-coree.jpg",
+        "square": "photos/72157632860232155/1-la-dmz-entre-les-deux-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "La DMZ entre les deux Corée",
         "path": "photos/72157632860232155/2-la-dmz-entre-les-deux-coree.jpg",
-        "poster": "photos/72157632860232155/2-la-dmz-entre-les-deux-coree.jpg",
+        "square": "photos/72157632860232155/2-la-dmz-entre-les-deux-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "La DMZ entre les deux Corée",
         "path": "photos/72157632860232155/3-la-dmz-entre-les-deux-coree.jpg",
-        "poster": "photos/72157632860232155/3-la-dmz-entre-les-deux-coree.jpg",
+        "square": "photos/72157632860232155/3-la-dmz-entre-les-deux-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "La DMZ entre les deux Corée",
         "path": "photos/72157632860232155/4-la-dmz-entre-les-deux-coree.jpg",
-        "poster": "photos/72157632860232155/4-la-dmz-entre-les-deux-coree.jpg",
+        "square": "photos/72157632860232155/4-la-dmz-entre-les-deux-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "La DMZ entre les deux Corée",
         "path": "photos/72157632860232155/5-la-dmz-entre-les-deux-coree.jpg",
-        "poster": "photos/72157632860232155/5-la-dmz-entre-les-deux-coree.jpg",
+        "square": "photos/72157632860232155/5-la-dmz-entre-les-deux-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "La DMZ entre les deux Corée",
         "path": "photos/72157632860232155/6-la-dmz-entre-les-deux-coree.jpg",
-        "poster": "photos/72157632860232155/6-la-dmz-entre-les-deux-coree.jpg",
+        "square": "photos/72157632860232155/6-la-dmz-entre-les-deux-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "La DMZ entre les deux Corée",
         "path": "photos/72157632860232155/7-la-dmz-entre-les-deux-coree.jpg",
-        "poster": "photos/72157632860232155/7-la-dmz-entre-les-deux-coree.jpg",
+        "square": "photos/72157632860232155/7-la-dmz-entre-les-deux-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 8,
         "title": "La DMZ entre les deux Corée",
         "path": "photos/72157632860232155/8-la-dmz-entre-les-deux-coree.jpg",
-        "poster": "photos/72157632860232155/8-la-dmz-entre-les-deux-coree.jpg",
+        "square": "photos/72157632860232155/8-la-dmz-entre-les-deux-coree-square.jpg",
         "type": "image"
     }
 ]

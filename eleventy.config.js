@@ -158,27 +158,6 @@ export default async function (eleventyConfig) {
           return `<li><video controls poster="${poster.jpeg[0].url}"><source src="${this.page.url}/${path.basename(data.path)}" type="video/mp4" /></video></li>`;
         }
 
-        // generate squared image using sharp (because it's not possible using `eleventyImageTransformPlugin`)
-        const photoSquared = await Image(`${contentPath}/${data.path}`, {
-          formats: ['jpg'],
-          widths: ['auto'],
-          transform: function squarify(sharp) {
-            sharp.resize(150, 150);
-          },
-          returnType: 'html',
-          htmlOptions: {
-            imgAttributes: {
-              alt: data.title,
-              title: data.title,
-              loading: 'lazy',
-              decoding: 'async',
-              'data-original-name': path.basename(data.path),
-            },
-          },
-          outputDir: `${contentPath}/photos/squared/`,
-          urlPath: './photos/squared/',
-        });
-
         // generate the big photo to be able to get the final url and put it in the anchor
         const photoBig = await Image(`${contentPath}/${data.path}`, {
           formats: ['jpg'],
@@ -187,7 +166,7 @@ export default async function (eleventyConfig) {
           urlPath: this.page.url,
         });
 
-        return `<li><a class="th" href="${photoBig.jpeg[0].url}">${photoSquared}</a></li>`;
+        return `<li><a class="th" href="${photoBig.jpeg[0].url}"><img src="${data.square}" alt="${data.title}" title="${data.title}"></a></li>`;
       }),
     );
 

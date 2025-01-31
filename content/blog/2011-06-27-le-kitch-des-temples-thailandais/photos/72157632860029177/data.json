@@ -1,51 +1,44 @@
 [
     {
-        "number": 0,
         "title": "Le kitch des temples thaïlandais",
         "path": "photos/72157632860029177/0-le-kitch-des-temples-thailandais.jpg",
-        "poster": "photos/72157632860029177/0-le-kitch-des-temples-thailandais.jpg",
+        "square": "photos/72157632860029177/0-le-kitch-des-temples-thailandais-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Le kitch des temples thaïlandais",
         "path": "photos/72157632860029177/1-le-kitch-des-temples-thailandais.jpg",
-        "poster": "photos/72157632860029177/1-le-kitch-des-temples-thailandais.jpg",
+        "square": "photos/72157632860029177/1-le-kitch-des-temples-thailandais-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Le kitch des temples thaïlandais",
         "path": "photos/72157632860029177/2-le-kitch-des-temples-thailandais.jpg",
-        "poster": "photos/72157632860029177/2-le-kitch-des-temples-thailandais.jpg",
+        "square": "photos/72157632860029177/2-le-kitch-des-temples-thailandais-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Le kitch des temples thaïlandais",
         "path": "photos/72157632860029177/3-le-kitch-des-temples-thailandais.jpg",
-        "poster": "photos/72157632860029177/3-le-kitch-des-temples-thailandais.jpg",
+        "square": "photos/72157632860029177/3-le-kitch-des-temples-thailandais-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Le kitch des temples thaïlandais",
         "path": "photos/72157632860029177/4-le-kitch-des-temples-thailandais.jpg",
-        "poster": "photos/72157632860029177/4-le-kitch-des-temples-thailandais.jpg",
+        "square": "photos/72157632860029177/4-le-kitch-des-temples-thailandais-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Le kitch des temples thaïlandais",
         "path": "photos/72157632860029177/5-le-kitch-des-temples-thailandais.jpg",
-        "poster": "photos/72157632860029177/5-le-kitch-des-temples-thailandais.jpg",
+        "square": "photos/72157632860029177/5-le-kitch-des-temples-thailandais-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Le kitch des temples thaïlandais",
         "path": "photos/72157632860029177/6-le-kitch-des-temples-thailandais.jpg",
-        "poster": "photos/72157632860029177/6-le-kitch-des-temples-thailandais.jpg",
+        "square": "photos/72157632860029177/6-le-kitch-des-temples-thailandais-square.jpg",
         "type": "image"
     }
 ]

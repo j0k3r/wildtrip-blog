@@ -1,51 +1,44 @@
 [
     {
-        "number": 0,
         "title": "Transsibérien - Frontières - Chine / Mongolie",
         "path": "photos/72157643992234823/0-transsiberien-frontieres-chine-mongolie.jpg",
-        "poster": "photos/72157643992234823/0-transsiberien-frontieres-chine-mongolie.jpg",
+        "square": "photos/72157643992234823/0-transsiberien-frontieres-chine-mongolie-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Transsibérien - Frontières - Chine / Mongolie",
         "path": "photos/72157643992234823/1-transsiberien-frontieres-chine-mongolie.jpg",
-        "poster": "photos/72157643992234823/1-transsiberien-frontieres-chine-mongolie.jpg",
+        "square": "photos/72157643992234823/1-transsiberien-frontieres-chine-mongolie-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Transsibérien - Frontières - Chine / Mongolie",
         "path": "photos/72157643992234823/2-transsiberien-frontieres-chine-mongolie.jpg",
-        "poster": "photos/72157643992234823/2-transsiberien-frontieres-chine-mongolie.jpg",
+        "square": "photos/72157643992234823/2-transsiberien-frontieres-chine-mongolie-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Transsibérien - Frontières - Chine / Mongolie",
         "path": "photos/72157643992234823/3-transsiberien-frontieres-chine-mongolie.jpg",
-        "poster": "photos/72157643992234823/3-transsiberien-frontieres-chine-mongolie.jpg",
+        "square": "photos/72157643992234823/3-transsiberien-frontieres-chine-mongolie-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Transsibérien - Frontières - Chine / Mongolie",
         "path": "photos/72157643992234823/4-transsiberien-frontieres-chine-mongolie.jpg",
-        "poster": "photos/72157643992234823/4-transsiberien-frontieres-chine-mongolie.jpg",
+        "square": "photos/72157643992234823/4-transsiberien-frontieres-chine-mongolie-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Transsibérien - Frontières - Chine / Mongolie",
         "path": "photos/72157643992234823/5-transsiberien-frontieres-chine-mongolie.jpg",
-        "poster": "photos/72157643992234823/5-transsiberien-frontieres-chine-mongolie.jpg",
+        "square": "photos/72157643992234823/5-transsiberien-frontieres-chine-mongolie-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Transsibérien - Frontières - Chine / Mongolie",
         "path": "photos/72157643992234823/6-transsiberien-frontieres-chine-mongolie.jpg",
-        "poster": "photos/72157643992234823/6-transsiberien-frontieres-chine-mongolie.jpg",
+        "square": "photos/72157643992234823/6-transsiberien-frontieres-chine-mongolie-square.jpg",
         "type": "image"
     }
 ]

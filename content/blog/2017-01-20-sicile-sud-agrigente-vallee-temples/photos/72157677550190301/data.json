@@ -1,23 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Sicile - Agrigente",
         "path": "photos/72157677550190301/0-sicile-agrigente.jpg",
-        "poster": "photos/72157677550190301/0-sicile-agrigente.jpg",
+        "square": "photos/72157677550190301/0-sicile-agrigente-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Sicile - Agrigente",
         "path": "photos/72157677550190301/1-sicile-agrigente.jpg",
-        "poster": "photos/72157677550190301/1-sicile-agrigente.jpg",
+        "square": "photos/72157677550190301/1-sicile-agrigente-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Sicile - Agrigente",
         "path": "photos/72157677550190301/2-sicile-agrigente.jpg",
-        "poster": "photos/72157677550190301/2-sicile-agrigente.jpg",
+        "square": "photos/72157677550190301/2-sicile-agrigente-square.jpg",
         "type": "image"
     }
 ]

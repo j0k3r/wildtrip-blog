@@ -1,30 +1,26 @@
 [
     {
-        "number": 0,
         "title": "Transsibérien - Moscou - Le métro",
         "path": "photos/72157643947039375/0-transsiberien-moscou-le-metro.jpg",
-        "poster": "photos/72157643947039375/0-transsiberien-moscou-le-metro.jpg",
+        "square": "photos/72157643947039375/0-transsiberien-moscou-le-metro-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Transsibérien - Moscou - Le métro",
         "path": "photos/72157643947039375/1-transsiberien-moscou-le-metro.jpg",
-        "poster": "photos/72157643947039375/1-transsiberien-moscou-le-metro.jpg",
+        "square": "photos/72157643947039375/1-transsiberien-moscou-le-metro-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Transsibérien - Moscou - Le métro",
         "path": "photos/72157643947039375/2-transsiberien-moscou-le-metro.jpg",
-        "poster": "photos/72157643947039375/2-transsiberien-moscou-le-metro.jpg",
+        "square": "photos/72157643947039375/2-transsiberien-moscou-le-metro-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Transsibérien - Moscou - Le métro",
         "path": "photos/72157643947039375/3-transsiberien-moscou-le-metro.jpg",
-        "poster": "photos/72157643947039375/3-transsiberien-moscou-le-metro.jpg",
+        "square": "photos/72157643947039375/3-transsiberien-moscou-le-metro-square.jpg",
         "type": "image"
     }
 ]

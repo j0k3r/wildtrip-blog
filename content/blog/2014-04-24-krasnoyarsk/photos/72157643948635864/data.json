@@ -1,51 +1,44 @@
 [
     {
-        "number": 0,
         "title": "Transsibérien - Krasnoyarsk - Le barrage",
         "path": "photos/72157643948635864/0-transsiberien-krasnoyarsk-le-barrage.jpg",
-        "poster": "photos/72157643948635864/0-transsiberien-krasnoyarsk-le-barrage.jpg",
+        "square": "photos/72157643948635864/0-transsiberien-krasnoyarsk-le-barrage-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Transsibérien - Krasnoyarsk - Le barrage",
         "path": "photos/72157643948635864/1-transsiberien-krasnoyarsk-le-barrage.jpg",
-        "poster": "photos/72157643948635864/1-transsiberien-krasnoyarsk-le-barrage.jpg",
+        "square": "photos/72157643948635864/1-transsiberien-krasnoyarsk-le-barrage-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Transsibérien - Krasnoyarsk - Le barrage",
         "path": "photos/72157643948635864/2-transsiberien-krasnoyarsk-le-barrage.jpg",
-        "poster": "photos/72157643948635864/2-transsiberien-krasnoyarsk-le-barrage.jpg",
+        "square": "photos/72157643948635864/2-transsiberien-krasnoyarsk-le-barrage-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Transsibérien - Krasnoyarsk - Le barrage",
         "path": "photos/72157643948635864/3-transsiberien-krasnoyarsk-le-barrage.jpg",
-        "poster": "photos/72157643948635864/3-transsiberien-krasnoyarsk-le-barrage.jpg",
+        "square": "photos/72157643948635864/3-transsiberien-krasnoyarsk-le-barrage-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Transsibérien - Krasnoyarsk - Le barrage",
         "path": "photos/72157643948635864/4-transsiberien-krasnoyarsk-le-barrage.jpg",
-        "poster": "photos/72157643948635864/4-transsiberien-krasnoyarsk-le-barrage.jpg",
+        "square": "photos/72157643948635864/4-transsiberien-krasnoyarsk-le-barrage-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Transsibérien - Krasnoyarsk - Le barrage",
         "path": "photos/72157643948635864/5-transsiberien-krasnoyarsk-le-barrage.jpg",
-        "poster": "photos/72157643948635864/5-transsiberien-krasnoyarsk-le-barrage.jpg",
+        "square": "photos/72157643948635864/5-transsiberien-krasnoyarsk-le-barrage-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Transsibérien - Krasnoyarsk - Le barrage",
         "path": "photos/72157643948635864/6-transsiberien-krasnoyarsk-le-barrage.jpg",
-        "poster": "photos/72157643948635864/6-transsiberien-krasnoyarsk-le-barrage.jpg",
+        "square": "photos/72157643948635864/6-transsiberien-krasnoyarsk-le-barrage-square.jpg",
         "type": "image"
     }
 ]

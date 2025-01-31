@@ -1,23 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Shangri-la, aux portes du Tibet !",
         "path": "photos/72157632877066645/0-shangri-la-aux-portes-du-tibet.jpg",
-        "poster": "photos/72157632877066645/0-shangri-la-aux-portes-du-tibet.jpg",
+        "square": "photos/72157632877066645/0-shangri-la-aux-portes-du-tibet-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Shangri-la, aux portes du Tibet !",
         "path": "photos/72157632877066645/1-shangri-la-aux-portes-du-tibet.jpg",
-        "poster": "photos/72157632877066645/1-shangri-la-aux-portes-du-tibet.jpg",
+        "square": "photos/72157632877066645/1-shangri-la-aux-portes-du-tibet-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Shangri-la, aux portes du Tibet !",
         "path": "photos/72157632877066645/2-shangri-la-aux-portes-du-tibet.jpg",
-        "poster": "photos/72157632877066645/2-shangri-la-aux-portes-du-tibet.jpg",
+        "square": "photos/72157632877066645/2-shangri-la-aux-portes-du-tibet-square.jpg",
         "type": "image"
     }
 ]

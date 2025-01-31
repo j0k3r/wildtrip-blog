@@ -1,93 +1,80 @@
 [
     {
-        "number": 0,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/0-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/0-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/0-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/1-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/1-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/1-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/2-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/2-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/2-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/3-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/3-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/3-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/4-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/4-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/4-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/5-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/5-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/5-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/6-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/6-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/6-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/7-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/7-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/7-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 8,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/8-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/8-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/8-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 9,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/9-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/9-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/9-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 10,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/10-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/10-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/10-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 11,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/11-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/11-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/11-sri-lanka-galle-square.jpg",
         "type": "image"
     },
     {
-        "number": 12,
         "title": "Sri Lanka - Galle",
         "path": "photos/72157664895692090/12-sri-lanka-galle.jpg",
-        "poster": "photos/72157664895692090/12-sri-lanka-galle.jpg",
+        "square": "photos/72157664895692090/12-sri-lanka-galle-square.jpg",
         "type": "image"
     }
 ]

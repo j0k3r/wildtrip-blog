@@ -1,16 +1,14 @@
 [
     {
-        "number": 0,
         "title": "Liulichang, la rue des antiquaires",
         "path": "photos/72157632922158018/0-liulichang-la-rue-des-antiquaires.jpg",
-        "poster": "photos/72157632922158018/0-liulichang-la-rue-des-antiquaires.jpg",
+        "square": "photos/72157632922158018/0-liulichang-la-rue-des-antiquaires-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Liulichang, la rue des antiquaires",
         "path": "photos/72157632922158018/1-liulichang-la-rue-des-antiquaires.jpg",
-        "poster": "photos/72157632922158018/1-liulichang-la-rue-des-antiquaires.jpg",
+        "square": "photos/72157632922158018/1-liulichang-la-rue-des-antiquaires-square.jpg",
         "type": "image"
     }
 ]

@@ -1,44 +1,38 @@
 [
     {
-        "number": 0,
         "title": "Transsibérien - Dans le train - 2nd classe",
         "path": "photos/72157643991783683/0-transsiberien-dans-le-train-2nd-classe.jpg",
-        "poster": "photos/72157643991783683/0-transsiberien-dans-le-train-2nd-classe.jpg",
+        "square": "photos/72157643991783683/0-transsiberien-dans-le-train-2nd-classe-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Transsibérien - Dans le train - 2nd classe",
         "path": "photos/72157643991783683/1-transsiberien-dans-le-train-2nd-classe.jpg",
-        "poster": "photos/72157643991783683/1-transsiberien-dans-le-train-2nd-classe.jpg",
+        "square": "photos/72157643991783683/1-transsiberien-dans-le-train-2nd-classe-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Transsibérien - Dans le train - 2nd classe",
         "path": "photos/72157643991783683/2-transsiberien-dans-le-train-2nd-classe.jpg",
-        "poster": "photos/72157643991783683/2-transsiberien-dans-le-train-2nd-classe.jpg",
+        "square": "photos/72157643991783683/2-transsiberien-dans-le-train-2nd-classe-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Transsibérien - Dans le train - 2nd classe",
         "path": "photos/72157643991783683/3-transsiberien-dans-le-train-2nd-classe.jpg",
-        "poster": "photos/72157643991783683/3-transsiberien-dans-le-train-2nd-classe.jpg",
+        "square": "photos/72157643991783683/3-transsiberien-dans-le-train-2nd-classe-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Transsibérien - Dans le train - 2nd classe",
         "path": "photos/72157643991783683/4-transsiberien-dans-le-train-2nd-classe.jpg",
-        "poster": "photos/72157643991783683/4-transsiberien-dans-le-train-2nd-classe.jpg",
+        "square": "photos/72157643991783683/4-transsiberien-dans-le-train-2nd-classe-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Transsibérien - Dans le train - 2nd classe",
         "path": "photos/72157643991783683/5-transsiberien-dans-le-train-2nd-classe.jpg",
-        "poster": "photos/72157643991783683/5-transsiberien-dans-le-train-2nd-classe.jpg",
+        "square": "photos/72157643991783683/5-transsiberien-dans-le-train-2nd-classe-square.jpg",
         "type": "image"
     }
 ]

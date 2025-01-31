@@ -1,30 +1,26 @@
 [
     {
-        "number": 0,
         "title": "Swallow's Nest",
         "path": "photos/72157643944968395/0-swallow-s-nest.jpg",
-        "poster": "photos/72157643944968395/0-swallow-s-nest.jpg",
+        "square": "photos/72157643944968395/0-swallow-s-nest-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Swallow's Nest",
         "path": "photos/72157643944968395/1-swallow-s-nest.jpg",
-        "poster": "photos/72157643944968395/1-swallow-s-nest.jpg",
+        "square": "photos/72157643944968395/1-swallow-s-nest-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Swallow's Nest",
         "path": "photos/72157643944968395/2-swallow-s-nest.jpg",
-        "poster": "photos/72157643944968395/2-swallow-s-nest.jpg",
+        "square": "photos/72157643944968395/2-swallow-s-nest-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Swallow's Nest",
         "path": "photos/72157643944968395/3-swallow-s-nest.jpg",
-        "poster": "photos/72157643944968395/3-swallow-s-nest.jpg",
+        "square": "photos/72157643944968395/3-swallow-s-nest-square.jpg",
         "type": "image"
     }
 ]

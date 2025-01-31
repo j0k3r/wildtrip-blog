@@ -1,44 +1,38 @@
 [
     {
-        "number": 0,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632850252993/0-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632850252993/0-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632850252993/0-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632850252993/1-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632850252993/1-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632850252993/1-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632850252993/2-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632850252993/2-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632850252993/2-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632850252993/3-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632850252993/3-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632850252993/3-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632850252993/4-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632850252993/4-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632850252993/4-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632850252993/5-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632850252993/5-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632850252993/5-railay-le-petit-avatar-square.jpg",
         "type": "image"
     }
 ]

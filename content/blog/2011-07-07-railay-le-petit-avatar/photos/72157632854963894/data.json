@@ -1,65 +1,56 @@
 [
     {
-        "number": 0,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632854963894/0-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632854963894/0-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632854963894/0-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632854963894/1-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632854963894/1-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632854963894/1-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632854963894/2-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632854963894/2-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632854963894/2-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632854963894/3-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632854963894/3-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632854963894/3-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632854963894/4-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632854963894/4-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632854963894/4-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632854963894/5-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632854963894/5-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632854963894/5-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632854963894/6-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632854963894/6-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632854963894/6-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632854963894/7-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632854963894/7-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632854963894/7-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 8,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632854963894/8-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632854963894/8-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632854963894/8-railay-le-petit-avatar-square.jpg",
         "type": "image"
     }
 ]

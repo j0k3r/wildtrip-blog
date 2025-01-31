@@ -1,51 +1,44 @@
 [
     {
-        "number": 0,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850297481/0-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850297481/0-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850297481/0-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850297481/1-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850297481/1-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850297481/1-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850297481/2-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850297481/2-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850297481/2-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850297481/3-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850297481/3-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850297481/3-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850297481/4-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850297481/4-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850297481/4-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850297481/5-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850297481/5-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850297481/5-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "L'île de Phuket, un peu l'anti-thaïlande",
         "path": "photos/72157632850297481/6-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
-        "poster": "photos/72157632850297481/6-l-ile-de-phuket-un-peu-l-anti-thailande.jpg",
+        "square": "photos/72157632850297481/6-l-ile-de-phuket-un-peu-l-anti-thailande-square.jpg",
         "type": "image"
     }
 ]

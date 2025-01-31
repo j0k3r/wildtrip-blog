@@ -1,20 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Sicile - Noto",
         "path": "photos/72157677547480491/0-sicile-noto.jpg",
+        "square": "photos/72157677547480491/0-sicile-noto-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Sicile - Noto",
         "path": "photos/72157677547480491/1-sicile-noto.jpg",
+        "square": "photos/72157677547480491/1-sicile-noto-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Sicile - Noto",
         "path": "photos/72157677547480491/2-sicile-noto.jpg",
+        "square": "photos/72157677547480491/2-sicile-noto-square.jpg",
         "type": "image"
     }
 ]

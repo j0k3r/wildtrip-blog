@@ -1,58 +1,50 @@
 [
     {
-        "number": 0,
         "title": "Transsibérien - Mongolie - Jour 1",
         "path": "photos/72157643989684684/0-transsiberien-mongolie-jour-1.jpg",
-        "poster": "photos/72157643989684684/0-transsiberien-mongolie-jour-1.jpg",
+        "square": "photos/72157643989684684/0-transsiberien-mongolie-jour-1-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Transsibérien - Mongolie - Jour 1",
         "path": "photos/72157643989684684/1-transsiberien-mongolie-jour-1.jpg",
-        "poster": "photos/72157643989684684/1-transsiberien-mongolie-jour-1.jpg",
+        "square": "photos/72157643989684684/1-transsiberien-mongolie-jour-1-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Transsibérien - Mongolie - Jour 1",
         "path": "photos/72157643989684684/2-transsiberien-mongolie-jour-1.jpg",
-        "poster": "photos/72157643989684684/2-transsiberien-mongolie-jour-1.jpg",
+        "square": "photos/72157643989684684/2-transsiberien-mongolie-jour-1-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Transsibérien - Mongolie - Jour 1",
         "path": "photos/72157643989684684/3-transsiberien-mongolie-jour-1.jpg",
-        "poster": "photos/72157643989684684/3-transsiberien-mongolie-jour-1.jpg",
+        "square": "photos/72157643989684684/3-transsiberien-mongolie-jour-1-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Transsibérien - Mongolie - Jour 1",
         "path": "photos/72157643989684684/4-transsiberien-mongolie-jour-1.jpg",
-        "poster": "photos/72157643989684684/4-transsiberien-mongolie-jour-1.jpg",
+        "square": "photos/72157643989684684/4-transsiberien-mongolie-jour-1-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Transsibérien - Mongolie - Jour 1",
         "path": "photos/72157643989684684/5-transsiberien-mongolie-jour-1.jpg",
-        "poster": "photos/72157643989684684/5-transsiberien-mongolie-jour-1.jpg",
+        "square": "photos/72157643989684684/5-transsiberien-mongolie-jour-1-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Transsibérien - Mongolie - Jour 1",
         "path": "photos/72157643989684684/6-transsiberien-mongolie-jour-1.jpg",
-        "poster": "photos/72157643989684684/6-transsiberien-mongolie-jour-1.jpg",
+        "square": "photos/72157643989684684/6-transsiberien-mongolie-jour-1-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "Transsibérien - Mongolie - Jour 1",
         "path": "photos/72157643989684684/7-transsiberien-mongolie-jour-1.jpg",
-        "poster": "photos/72157643989684684/7-transsiberien-mongolie-jour-1.jpg",
+        "square": "photos/72157643989684684/7-transsiberien-mongolie-jour-1-square.jpg",
         "type": "image"
     }
 ]

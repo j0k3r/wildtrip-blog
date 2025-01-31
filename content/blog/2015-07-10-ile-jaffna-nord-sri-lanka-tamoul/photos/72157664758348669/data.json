@@ -1,51 +1,44 @@
 [
     {
-        "number": 0,
         "title": "Sri Lanka - Jaffna - Les îles",
         "path": "photos/72157664758348669/0-sri-lanka-jaffna-les-iles.jpg",
-        "poster": "photos/72157664758348669/0-sri-lanka-jaffna-les-iles.jpg",
+        "square": "photos/72157664758348669/0-sri-lanka-jaffna-les-iles-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Sri Lanka - Jaffna - Les îles",
         "path": "photos/72157664758348669/1-sri-lanka-jaffna-les-iles.jpg",
-        "poster": "photos/72157664758348669/1-sri-lanka-jaffna-les-iles.jpg",
+        "square": "photos/72157664758348669/1-sri-lanka-jaffna-les-iles-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Sri Lanka - Jaffna - Les îles",
         "path": "photos/72157664758348669/2-sri-lanka-jaffna-les-iles.jpg",
-        "poster": "photos/72157664758348669/2-sri-lanka-jaffna-les-iles.jpg",
+        "square": "photos/72157664758348669/2-sri-lanka-jaffna-les-iles-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Sri Lanka - Jaffna - Les îles",
         "path": "photos/72157664758348669/3-sri-lanka-jaffna-les-iles.jpg",
-        "poster": "photos/72157664758348669/3-sri-lanka-jaffna-les-iles.jpg",
+        "square": "photos/72157664758348669/3-sri-lanka-jaffna-les-iles-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Sri Lanka - Jaffna - Les îles",
         "path": "photos/72157664758348669/4-sri-lanka-jaffna-les-iles.jpg",
-        "poster": "photos/72157664758348669/4-sri-lanka-jaffna-les-iles.jpg",
+        "square": "photos/72157664758348669/4-sri-lanka-jaffna-les-iles-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Sri Lanka - Jaffna - Les îles",
         "path": "photos/72157664758348669/5-sri-lanka-jaffna-les-iles.jpg",
-        "poster": "photos/72157664758348669/5-sri-lanka-jaffna-les-iles.jpg",
+        "square": "photos/72157664758348669/5-sri-lanka-jaffna-les-iles-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Sri Lanka - Jaffna - Les îles",
         "path": "photos/72157664758348669/6-sri-lanka-jaffna-les-iles.jpg",
-        "poster": "photos/72157664758348669/6-sri-lanka-jaffna-les-iles.jpg",
+        "square": "photos/72157664758348669/6-sri-lanka-jaffna-les-iles-square.jpg",
         "type": "image"
     }
 ]

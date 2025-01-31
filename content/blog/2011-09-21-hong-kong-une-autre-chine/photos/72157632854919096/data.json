@@ -1,23 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Hong Kong, une autre Chine",
         "path": "photos/72157632854919096/0-hong-kong-une-autre-chine.jpg",
-        "poster": "photos/72157632854919096/0-hong-kong-une-autre-chine.jpg",
+        "square": "photos/72157632854919096/0-hong-kong-une-autre-chine-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Hong Kong, une autre Chine",
         "path": "photos/72157632854919096/1-hong-kong-une-autre-chine.jpg",
-        "poster": "photos/72157632854919096/1-hong-kong-une-autre-chine.jpg",
+        "square": "photos/72157632854919096/1-hong-kong-une-autre-chine-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Hong Kong, une autre Chine",
         "path": "photos/72157632854919096/2-hong-kong-une-autre-chine.jpg",
-        "poster": "photos/72157632854919096/2-hong-kong-une-autre-chine.jpg",
+        "square": "photos/72157632854919096/2-hong-kong-une-autre-chine-square.jpg",
         "type": "image"
     }
 ]

@@ -1,93 +1,80 @@
 [
     {
-        "number": 0,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/0-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/0-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/0-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/1-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/1-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/1-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/2-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/2-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/2-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/3-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/3-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/3-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/4-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/4-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/4-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/5-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/5-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/5-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/6-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/6-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/6-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/7-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/7-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/7-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 8,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/8-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/8-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/8-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 9,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/9-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/9-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/9-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 10,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/10-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/10-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/10-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 11,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/11-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/11-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/11-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     },
     {
-        "number": 12,
         "title": "La vieille ville chinoise de Shanghai",
         "path": "photos/72157632838785250/12-la-vieille-ville-chinoise-de-shanghai.jpg",
-        "poster": "photos/72157632838785250/12-la-vieille-ville-chinoise-de-shanghai.jpg",
+        "square": "photos/72157632838785250/12-la-vieille-ville-chinoise-de-shanghai-square.jpg",
         "type": "image"
     }
 ]

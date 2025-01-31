@@ -1,30 +1,26 @@
 [
     {
-        "number": 0,
         "title": "Odessa - Les escaliers Potemkin",
         "path": "photos/72157643946756134/0-odessa-les-escaliers-potemkin.jpg",
-        "poster": "photos/72157643946756134/0-odessa-les-escaliers-potemkin.jpg",
+        "square": "photos/72157643946756134/0-odessa-les-escaliers-potemkin-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Odessa - Les escaliers Potemkin",
         "path": "photos/72157643946756134/1-odessa-les-escaliers-potemkin.jpg",
-        "poster": "photos/72157643946756134/1-odessa-les-escaliers-potemkin.jpg",
+        "square": "photos/72157643946756134/1-odessa-les-escaliers-potemkin-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Odessa - Les escaliers Potemkin",
         "path": "photos/72157643946756134/2-odessa-les-escaliers-potemkin.jpg",
-        "poster": "photos/72157643946756134/2-odessa-les-escaliers-potemkin.jpg",
+        "square": "photos/72157643946756134/2-odessa-les-escaliers-potemkin-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Odessa - Les escaliers Potemkin",
         "path": "photos/72157643946756134/3-odessa-les-escaliers-potemkin.jpg",
-        "poster": "photos/72157643946756134/3-odessa-les-escaliers-potemkin.jpg",
+        "square": "photos/72157643946756134/3-odessa-les-escaliers-potemkin-square.jpg",
         "type": "image"
     }
 ]

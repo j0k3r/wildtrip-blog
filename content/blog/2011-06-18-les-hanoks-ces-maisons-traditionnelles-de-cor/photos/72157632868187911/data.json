@@ -1,44 +1,38 @@
 [
     {
-        "number": 0,
         "title": "Les hanoks, ces maisons traditionnelles de Corée",
         "path": "photos/72157632868187911/0-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
-        "poster": "photos/72157632868187911/0-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
+        "square": "photos/72157632868187911/0-les-hanoks-ces-maisons-traditionnelles-de-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Les hanoks, ces maisons traditionnelles de Corée",
         "path": "photos/72157632868187911/1-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
-        "poster": "photos/72157632868187911/1-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
+        "square": "photos/72157632868187911/1-les-hanoks-ces-maisons-traditionnelles-de-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Les hanoks, ces maisons traditionnelles de Corée",
         "path": "photos/72157632868187911/2-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
-        "poster": "photos/72157632868187911/2-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
+        "square": "photos/72157632868187911/2-les-hanoks-ces-maisons-traditionnelles-de-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Les hanoks, ces maisons traditionnelles de Corée",
         "path": "photos/72157632868187911/3-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
-        "poster": "photos/72157632868187911/3-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
+        "square": "photos/72157632868187911/3-les-hanoks-ces-maisons-traditionnelles-de-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Les hanoks, ces maisons traditionnelles de Corée",
         "path": "photos/72157632868187911/4-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
-        "poster": "photos/72157632868187911/4-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
+        "square": "photos/72157632868187911/4-les-hanoks-ces-maisons-traditionnelles-de-coree-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Les hanoks, ces maisons traditionnelles de Corée",
         "path": "photos/72157632868187911/5-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
-        "poster": "photos/72157632868187911/5-les-hanoks-ces-maisons-traditionnelles-de-coree.jpg",
+        "square": "photos/72157632868187911/5-les-hanoks-ces-maisons-traditionnelles-de-coree-square.jpg",
         "type": "image"
     }
 ]

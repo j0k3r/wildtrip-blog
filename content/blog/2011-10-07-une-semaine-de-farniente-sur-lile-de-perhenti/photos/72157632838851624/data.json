@@ -1,30 +1,26 @@
 [
     {
-        "number": 0,
         "title": "Une semaine de farniente sur l'île de Perhentian, en Malaisie",
         "path": "photos/72157632838851624/0-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie.jpg",
-        "poster": "photos/72157632838851624/0-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie.jpg",
+        "square": "photos/72157632838851624/0-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Une semaine de farniente sur l'île de Perhentian, en Malaisie",
         "path": "photos/72157632838851624/1-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie.jpg",
-        "poster": "photos/72157632838851624/1-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie.jpg",
+        "square": "photos/72157632838851624/1-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Une semaine de farniente sur l'île de Perhentian, en Malaisie",
         "path": "photos/72157632838851624/2-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie.jpg",
-        "poster": "photos/72157632838851624/2-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie.jpg",
+        "square": "photos/72157632838851624/2-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Une semaine de farniente sur l'île de Perhentian, en Malaisie",
         "path": "photos/72157632838851624/3-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie.jpg",
-        "poster": "photos/72157632838851624/3-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie.jpg",
+        "square": "photos/72157632838851624/3-une-semaine-de-farniente-sur-l-ile-de-perhentian-en-malaisie-square.jpg",
         "type": "image"
     }
 ]

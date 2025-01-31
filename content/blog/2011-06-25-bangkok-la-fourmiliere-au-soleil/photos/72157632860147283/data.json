@@ -1,100 +1,86 @@
 [
     {
-        "number": 0,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/0-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/0-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/0-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/1-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/1-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/1-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/2-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/2-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/2-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/3-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/3-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/3-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/4-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/4-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/4-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/5-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/5-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/5-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 6,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/6-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/6-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/6-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 7,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/7-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/7-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/7-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 8,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/8-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/8-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/8-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 9,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/9-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/9-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/9-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 10,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/10-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/10-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/10-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 11,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/11-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/11-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/11-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 12,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/12-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/12-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/12-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     },
     {
-        "number": 13,
         "title": "Bangkok, la fourmilière au soleil",
         "path": "photos/72157632860147283/13-bangkok-la-fourmiliere-au-soleil.jpg",
-        "poster": "photos/72157632860147283/13-bangkok-la-fourmiliere-au-soleil.jpg",
+        "square": "photos/72157632860147283/13-bangkok-la-fourmiliere-au-soleil-square.jpg",
         "type": "image"
     }
 ]

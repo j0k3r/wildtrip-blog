@@ -1,44 +1,38 @@
 [
     {
-        "number": 0,
         "title": "Trek de 2 jours dans les gorges du Saut du Tigre",
         "path": "photos/72157632881253692/0-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
-        "poster": "photos/72157632881253692/0-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
+        "square": "photos/72157632881253692/0-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Trek de 2 jours dans les gorges du Saut du Tigre",
         "path": "photos/72157632881253692/1-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
-        "poster": "photos/72157632881253692/1-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
+        "square": "photos/72157632881253692/1-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Trek de 2 jours dans les gorges du Saut du Tigre",
         "path": "photos/72157632881253692/2-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
-        "poster": "photos/72157632881253692/2-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
+        "square": "photos/72157632881253692/2-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre-square.jpg",
         "type": "image"
     },
     {
-        "number": 3,
         "title": "Trek de 2 jours dans les gorges du Saut du Tigre",
         "path": "photos/72157632881253692/3-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
-        "poster": "photos/72157632881253692/3-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
+        "square": "photos/72157632881253692/3-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre-square.jpg",
         "type": "image"
     },
     {
-        "number": 4,
         "title": "Trek de 2 jours dans les gorges du Saut du Tigre",
         "path": "photos/72157632881253692/4-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
-        "poster": "photos/72157632881253692/4-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
+        "square": "photos/72157632881253692/4-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre-square.jpg",
         "type": "image"
     },
     {
-        "number": 5,
         "title": "Trek de 2 jours dans les gorges du Saut du Tigre",
         "path": "photos/72157632881253692/5-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
-        "poster": "photos/72157632881253692/5-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre.jpg",
+        "square": "photos/72157632881253692/5-trek-de-2-jours-dans-les-gorges-du-saut-du-tigre-square.jpg",
         "type": "image"
     }
 ]

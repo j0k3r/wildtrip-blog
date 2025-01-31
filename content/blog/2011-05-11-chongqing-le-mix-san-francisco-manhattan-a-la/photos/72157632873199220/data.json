@@ -1,16 +1,14 @@
 [
     {
-        "number": 0,
         "title": "Chongqing, le mix San Francisco & Manhattan à la chinoise",
         "path": "photos/72157632873199220/0-chongqing-le-mix-san-francisco-manhattan-a-la-chinoise.jpg",
-        "poster": "photos/72157632873199220/0-chongqing-le-mix-san-francisco-manhattan-a-la-chinoise.jpg",
+        "square": "photos/72157632873199220/0-chongqing-le-mix-san-francisco-manhattan-a-la-chinoise-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Chongqing, le mix San Francisco & Manhattan à la chinoise",
         "path": "photos/72157632873199220/1-chongqing-le-mix-san-francisco-manhattan-a-la-chinoise.jpg",
-        "poster": "photos/72157632873199220/1-chongqing-le-mix-san-francisco-manhattan-a-la-chinoise.jpg",
+        "square": "photos/72157632873199220/1-chongqing-le-mix-san-francisco-manhattan-a-la-chinoise-square.jpg",
         "type": "image"
     }
 ]

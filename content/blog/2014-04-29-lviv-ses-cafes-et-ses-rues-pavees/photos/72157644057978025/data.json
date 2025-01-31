@@ -1,16 +1,14 @@
 [
     {
-        "number": 0,
         "title": "Ukraine - Lviv - Cathédrale Dominicaine",
         "path": "photos/72157644057978025/0-ukraine-lviv-cathe-drale-dominicaine.jpg",
-        "poster": "photos/72157644057978025/0-ukraine-lviv-cathe-drale-dominicaine.jpg",
+        "square": "photos/72157644057978025/0-ukraine-lviv-cathe-drale-dominicaine-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Ukraine - Lviv - Cathédrale Dominicaine",
         "path": "photos/72157644057978025/1-ukraine-lviv-cathe-drale-dominicaine.jpg",
-        "poster": "photos/72157644057978025/1-ukraine-lviv-cathe-drale-dominicaine.jpg",
+        "square": "photos/72157644057978025/1-ukraine-lviv-cathe-drale-dominicaine-square.jpg",
         "type": "image"
     }
 ]

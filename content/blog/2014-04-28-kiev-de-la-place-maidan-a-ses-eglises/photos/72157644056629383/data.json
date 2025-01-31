@@ -1,23 +1,20 @@
 [
     {
-        "number": 0,
         "title": "Ukraine - Kiev - Manif",
         "path": "photos/72157644056629383/0-ukraine-kiev-manif.jpg",
-        "poster": "photos/72157644056629383/0-ukraine-kiev-manif.jpg",
+        "square": "photos/72157644056629383/0-ukraine-kiev-manif-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Ukraine - Kiev - Manif",
         "path": "photos/72157644056629383/1-ukraine-kiev-manif.jpg",
-        "poster": "photos/72157644056629383/1-ukraine-kiev-manif.jpg",
+        "square": "photos/72157644056629383/1-ukraine-kiev-manif-square.jpg",
         "type": "image"
     },
     {
-        "number": 2,
         "title": "Ukraine - Kiev - Manif",
         "path": "photos/72157644056629383/2-ukraine-kiev-manif.jpg",
-        "poster": "photos/72157644056629383/2-ukraine-kiev-manif.jpg",
+        "square": "photos/72157644056629383/2-ukraine-kiev-manif-square.jpg",
         "type": "image"
     }
 ]

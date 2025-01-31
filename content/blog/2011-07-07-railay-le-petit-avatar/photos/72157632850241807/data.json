@@ -1,16 +1,14 @@
 [
     {
-        "number": 0,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632850241807/0-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632850241807/0-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632850241807/0-railay-le-petit-avatar-square.jpg",
         "type": "image"
     },
     {
-        "number": 1,
         "title": "Railay, le petit Avatar",
         "path": "photos/72157632850241807/1-railay-le-petit-avatar.jpg",
-        "poster": "photos/72157632850241807/1-railay-le-petit-avatar.jpg",
+        "square": "photos/72157632850241807/1-railay-le-petit-avatar-square.jpg",
         "type": "image"
     }
 ]
