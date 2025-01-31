@@ -176,6 +176,10 @@ export default async function (eleventyConfig) {
         urlPath: this.page.url,
       });
 
+      if (!fs.existsSync(contentDir)) {
+        fs.mkdirSync(contentDir);
+      }
+
       fs.copyFileSync(
         `${contentPath}/${data.path}`,
         `${contentDir}/${path.basename(photoBig.jpeg[0].url)}`,
