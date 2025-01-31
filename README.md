@@ -1,5 +1,7 @@
 # wildtrip.blog
 
-This my [my travel blog](https://wildtrip.blog) hosted on Cloudflare, built using 11ty and Foundation 5.5.3.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4fd8a740-1dd7-4e91-b2ca-2f06c899ce71/deploy-status)](https://app.netlify.com/sites/wildtrip-blog/deploys)
 
-It was previously hosted on [Posterous](https://en.wikipedia.org/wiki/Posterous) the Netlify and build using Jekyll.
+This my [my travel blog](https://wildtrip.blog) hosted on Netlify, built using 11ty and Foundation 5.5.3.
+
+It was previously hosted on [Posterous](https://en.wikipedia.org/wiki/Posterous) and build using Jekyll.
