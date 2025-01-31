@@ -131,8 +131,12 @@ export default async function (eleventyConfig) {
           fs.mkdirSync(contentDir);
         }
 
-        // move video into the content directory
+        // move video & poster into the content directory
         fs.copyFileSync(`${contentPath}/${data.path}`, `${contentDir}/${path.basename(data.path)}`);
+        fs.copyFileSync(
+          `${contentPath}/${data.poster}`,
+          `${contentDir}/${path.basename(poster.jpeg[0].url)}`,
+        );
 
         return `<p style="text-align: center;"><video controls poster="${poster.jpeg[0].url}"><source src="${this.page.url}/${path.basename(data.path)}" type="video/mp4" /></video></p>`;
       }
@@ -154,8 +158,12 @@ export default async function (eleventyConfig) {
           fs.mkdirSync(contentDir);
         }
 
-        // move video into the content directory
+        // move video & poster into the content directory
         fs.copyFileSync(`${contentPath}/${data.path}`, `${contentDir}/${path.basename(data.path)}`);
+        fs.copyFileSync(
+          `${contentPath}/${data.poster}`,
+          `${contentDir}/${path.basename(poster.jpeg[0].url)}`,
+        );
 
         return `<li><video controls poster="${poster.jpeg[0].url}"><source src="${this.page.url}/${path.basename(data.path)}" type="video/mp4" /></video></li>`;
       }
@@ -167,6 +175,15 @@ export default async function (eleventyConfig) {
         outputDir: contentDir,
         urlPath: this.page.url,
       });
+
+      if (!fs.existsSync(contentDir)) {
+        fs.mkdirSync(contentDir);
+      }
+
+      fs.copyFileSync(
+        `${contentPath}/${data.path}`,
+        `${contentDir}/${path.basename(photoBig.jpeg[0].url)}`,
+      );
 
       return `<li><a class="th" href="${photoBig.jpeg[0].url}"><img src="${data.square}" alt="${data.title}" title="${data.title}"></a></li>`;
     });
