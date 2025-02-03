@@ -20,6 +20,10 @@ export default function (eleventyConfig) {
     return dayjs(dateObj).format('DD/MM/YYYY');
   });
 
+  eleventyConfig.addFilter('sitemapDate', (dateObj) => {
+    return dayjs(dateObj).format('YYYY-MM-DD');
+  });
+
   eleventyConfig.addFilter('utcDate', (dateObj) => {
     return dayjs(dateObj).format();
   });
