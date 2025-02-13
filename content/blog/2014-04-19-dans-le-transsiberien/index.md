@@ -29,7 +29,7 @@ Chaque arrêt assez long (de mémoire: Ekaterinburg, Novosibirsk, etc.) nous per
 
 C'est aussi l'occasion de côtoyer un peu plus les Russes en milieu "clos". Sacré expérience d'ailleurs. Au détour d'un passage aux toilettes avant de me coucher, je passe devant une couchette où plein de grands Russes costaux (des militaires) boivent et parlent très fort. En revenant, un des russes m'interpelle et me bloque plus ou moins le passage pour taper la causette avec ses copains. Evidemment, je ne parle pas russe et eux baragouine deux mots anglais. En quelques minutes, je me retrouve avec une bière à 11° dans les mains. Ils sont alcoolisés comme pas possible, mais ça reste bon enfant. Je comprends qu'ils changent de base militaire.
 
-Et puis, arrive la _provodnista_ (la fameuse hôtesse du wagon – qui doit faire 1m50 _et dont on voit sa cabine tout équipée dans les photos plus bas_). Elle leur demande leur billet et une fois contrôlé, leur indique de rejoindre leur propre wagon sur le champ, d'un geste qu'on pourrait faire à son chien pour qu'il file dans sa niche. Ni une ni deux, les grands Russes alcoolisés partent la queue entre les jambes sans broncher. La _provodnista_ me fait un large sourire et m'invite à rejoindre ma couchette.
+Et puis, arrive la _provodnitsa_ (la fameuse hôtesse du wagon – qui doit faire 1m50 _et dont on voit sa cabine tout équipée dans les photos plus bas_). Elle leur demande leur billet et une fois contrôlé, leur indique de rejoindre leur propre wagon sur le champ, d'un geste qu'on pourrait faire à son chien pour qu'il file dans sa niche. Ni une ni deux, les grands Russes alcoolisés partent la queue entre les jambes sans broncher. La _provodnitsa_ me fait un large sourire et m'invite à rejoindre ma couchette.
 
 C'est impressionnant de voir l'autorité qu'ont ces nanas dans leur wagon fasse à ces colosses russes !
 
@@ -37,7 +37,7 @@ C'est impressionnant de voir l'autorité qu'ont ces nanas dans leur wagon fasse 
 
 Le passage dans les 3ème classes des trains russes se fait soit pour une question budgétaire soit pour assouvir sa curiosité et rencontrer des gens.
 
-Pour notre trajet d'Irkourtsk à Krasnoyarsk, on avait décidé de tester la 3ème classe. Le train partait en début de soirée (vers 20h) et arriver le lendemain à 14h. Idéal pour passer une seule nuit et découvrir cette classe. Même si au moment du contrôle des billets, les _provodnistas_ nous ont demandé deux fois si on ne préférait pas aller en seconde. Non, on veut tester ! :)
+Pour notre trajet d'Irkourtsk à Krasnoyarsk, on avait décidé de tester la 3ème classe. Le train partait en début de soirée (vers 20h) et arriver le lendemain à 14h. Idéal pour passer une seule nuit et découvrir cette classe. Même si au moment du contrôle des billets, les _provodnitsas_ nous ont demandé deux fois si on ne préférait pas aller en seconde. Non, on veut tester ! :)
 
 L'agencement est simple: un wagon sans aucune porte si ce n'est celle des toilettes et de couchettes dans le “couloir”. Une sorte de dortoir de 40 personnes, étroits, avec 90% de mecs (qui ronflent presque sans exception). Convivial, c'est le mot.
 

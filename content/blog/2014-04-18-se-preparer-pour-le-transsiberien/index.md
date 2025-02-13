@@ -68,13 +68,13 @@ A noter que le visa dure exactement le nombre de jours indiqué sur l'invitation
 ### Ce qu'il ne faut pas oublier et ce à quoi il faut penser
 Je l'explique en détail dans un autre article, mais voilà en gros ce à quoi il faut penser quand on se prépare à faire 10.000 km et plus de 160h de train.
 
-Dès l'arrivée dans votre wagon, la _provodnista_ (hôtesse du train ou du wagon si vous préférez) vous fournira draps et serviettes. Vous pourrez aussi lui acheter de quoi manger mais c'est assez cher.
+Dès l'arrivée dans votre wagon, la _provodnitsa_ (hôtesse du train ou du wagon si vous préférez) vous fournira draps et serviettes. Vous pourrez aussi lui acheter de quoi manger mais c'est assez cher.
 
 Le point important c'est qu'il y a tout le temps un [samovar](https://fr.wikipedia.org/wiki/Samovar) dans votre wagon. Cela vous permettra de vous faire des nouilles chinoises quand vous avez faim et de vous faire du thé (penser à **prendre une tasse** et des sachets) quand vous aurez soif. L'eau est constamment à 90°C!
 
 Les trains russes (en tout cas en hiver) sont extrêmement bien chauffés. Il y fait même beaucoup trop chaud. Vous vous promènerais tout le temps en t-shirt, c'est garanti.
 
-Evidemment, aucune prise électrique n'est disponible dans le train. Seule les _provodnista_ ont des prises dans leur cabine. Mais quand on voit les branchements, on se résigne à vouloir faire charger son téléphone ...
+Evidemment, aucune prise électrique n'est disponible dans le train. Seule les _provodnitsa_ ont des prises dans leur cabine. Mais quand on voit les branchements, on se résigne à vouloir faire charger son téléphone ...
 
 A chaque arrêt assez long en gare (~20 minutes), vous trouverez toujours des personnes sur le quai avec un charriot plein de saucissons, de fromages bizarre, de gros pains, de nouilles chinoises et autres trucs pour refaire votre stock.
 
