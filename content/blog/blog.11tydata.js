@@ -1,5 +1,4 @@
 import path from 'node:path';
-import Image from '@11ty/eleventy-img';
 
 export default {
   tags: ['posts'],
