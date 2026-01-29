@@ -1,4 +1,10 @@
-<h2><a href="{{ url }}">{{ title }}</a></h2>
+{% if url %}
+  {% set mainUrl = url %}
+{% else %}
+  {% set mainUrl = page.url %}
+{% endif %}
+
+<h2><a data-pagefind-meta="title, date:{{ date | sitemapDate }}" href="{{ mainUrl }}">{{ title }}</a></h2>
 
 <dl class="sub-nav">
   <dd class="active"><span>
