@@ -30,7 +30,7 @@
     "@11ty/eleventy-plugin-rss": "^3.0.0",
     "@biomejs/biome": "2.4.15",
     "cross-env": "^10.1.0",
-    "dayjs": "^1.11.20",
+    "dayjs": "^1.11.21",
     "pagefind": "^1.5.2",
     "zod": "^4.3.6",
     "zod-validation-error": "^5.0.0"
