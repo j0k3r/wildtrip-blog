@@ -110,7 +110,7 @@ export default async function (eleventyConfig) {
     return data.toString('utf8');
   });
 
-  eleventyConfig.addShortcode('photoset', function (id) {
+  eleventyConfig.addAsyncShortcode('photoset', async function (id) {
     const contentPath = path.dirname(this.page.inputPath);
     const contentDir = path.dirname(this.page.outputPath);
     const photosetDir = `${contentPath}/photos/${id}`;
@@ -120,11 +120,12 @@ export default async function (eleventyConfig) {
       const data = photosetData.pop();
       if (data.type === 'video') {
         // get the poster to be able to get the final url and put it in the video tag
-        const poster = Image.statsSync(`${contentPath}/${data.poster}`, {
+        const poster = await Image(`${contentPath}/${data.poster}`, {
           formats: ['jpg'],
           widths: ['auto'],
           outputDir: contentDir,
           urlPath: this.page.url,
+          statsOnly: true,
         });
 
         if (!fs.existsSync(contentDir)) {
@@ -144,14 +145,42 @@ export default async function (eleventyConfig) {
       return `<p style="text-align: center;"><img class="th" src="${data.path}" title="${data.title}" alt="${data.title}" width="800" /></p>`;
     }
 
-    const res = photosetData.map((data) => {
-      if (data.type === 'video') {
+    const res = await Promise.all(
+      photosetData.map(async (data) => {
+        if (data.type === 'video') {
+          // get the big photo to be able to get the final url and put it in the anchor tag
+          const poster = await Image(`${contentPath}/${data.poster}`, {
+            formats: ['jpg'],
+            widths: ['auto'],
+            outputDir: contentDir,
+            urlPath: this.page.url,
+            statsOnly: true,
+          });
+
+          if (!fs.existsSync(contentDir)) {
+            fs.mkdirSync(contentDir);
+          }
+
+          // move video & poster into the content directory
+          fs.copyFileSync(
+            `${contentPath}/${data.path}`,
+            `${contentDir}/${path.basename(data.path)}`,
+          );
+          fs.copyFileSync(
+            `${contentPath}/${data.poster}`,
+            `${contentDir}/${path.basename(poster.jpeg[0].url)}`,
+          );
+
+          return `<li><video controls poster="${poster.jpeg[0].url}"><source src="${this.page.url}/${path.basename(data.path)}" type="video/mp4" /></video></li>`;
+        }
+
         // get the big photo to be able to get the final url and put it in the anchor tag
-        const poster = Image.statsSync(`${contentPath}/${data.poster}`, {
+        const photoBig = await Image(`${contentPath}/${data.path}`, {
           formats: ['jpg'],
           widths: ['auto'],
           outputDir: contentDir,
           urlPath: this.page.url,
+          statsOnly: true,
         });
 
         if (!fs.existsSync(contentDir)) {
@@ -159,34 +188,14 @@ export default async function (eleventyConfig) {
         }
 
         // move video & poster into the content directory
-        fs.copyFileSync(`${contentPath}/${data.path}`, `${contentDir}/${path.basename(data.path)}`);
         fs.copyFileSync(
-          `${contentPath}/${data.poster}`,
-          `${contentDir}/${path.basename(poster.jpeg[0].url)}`,
+          `${contentPath}/${data.path}`,
+          `${contentDir}/${path.basename(photoBig.jpeg[0].url)}`,
         );
 
-        return `<li><video controls poster="${poster.jpeg[0].url}"><source src="${this.page.url}/${path.basename(data.path)}" type="video/mp4" /></video></li>`;
-      }
-
-      // get the big photo to be able to get the final url and put it in the anchor tag
-      const photoBig = Image.statsSync(`${contentPath}/${data.path}`, {
-        formats: ['jpg'],
-        widths: ['auto'],
-        outputDir: contentDir,
-        urlPath: this.page.url,
-      });
-
-      if (!fs.existsSync(contentDir)) {
-        fs.mkdirSync(contentDir);
-      }
-
-      fs.copyFileSync(
-        `${contentPath}/${data.path}`,
-        `${contentDir}/${path.basename(photoBig.jpeg[0].url)}`,
-      );
-
-      return `<li><a class="th" href="${photoBig.jpeg[0].url}"><img src="${data.square}" alt="${data.title}" title="${data.title}"></a></li>`;
-    });
+        return `<li><a class="th" href="${photoBig.jpeg[0].url}"><img src="${data.square}" alt="${data.title}" title="${data.title}"></a></li>`;
+      }),
+    );
 
     return `<div class="row"><div class="large-11 columns large-centered"><ul class="clearing-thumbs" data-clearing>${res.join('')}</ul></div></div>`;
   });

@@ -20,7 +20,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=22"
+    "node": ">=24"
   },
   "homepage": "https://github.com/j0k3r/wildtrip-blog#readme",
   "devDependencies": {
